@@ -1,1134 +1,51 @@
- Singapore – Travel guide at Wikivoyage
-Contents
---------
-
-move to sidebar hide
-
-*   [
-    
-    Beginning
-    
-    ](#)
-*   [
-    
-    1 Districts
-    
-    ](#Districts)Toggle Districts subsection
-    *   [
-        
-        1.1 Singapore CBD
-        
-        ](#Singapore_CBD)
-        
-    *   [
-        
-        1.2 Outer Singapore
-        
-        ](#Outer_Singapore)
-        
-    *   [
-        
-        1.3 Addresses
-        
-        ](#Addresses)
-        
-*   [
-    
-    2 Understand
-    
-    ](#Understand)Toggle Understand subsection
-    *   [
-        
-        2.1 History
-        
-        ](#History)
-        
-    *   [
-        
-        2.2 People
-        
-        ](#People)
-        
-    *   [
-        
-        2.3 Climate
-        
-        ](#Climate)
-        
-    *   [
-        
-        2.4 Units of measure
-        
-        ](#Units_of_measure)
-        
-    *   [
-        
-        2.5 Politics
-        
-        ](#Politics)
-        
-    *   [
-        
-        2.6 Holidays
-        
-        ](#Holidays)
-        
-    *   [
-        
-        2.7 Events
-        
-        ](#Events)
-        
-    *   [
-        
-        2.8 Visitor information
-        
-        ](#Visitor_information)
-        
-*   [
-    
-    3 Talk
-    
-    ](#Talk)
-    
-*   [
-    
-    4 Get in
-    
-    ](#Get_in)Toggle Get in subsection
-    *   [
-        
-        4.1 Immigration
-        
-        ](#Immigration)
-        
-    *   [
-        
-        4.2 Customs
-        
-        ](#Customs)
-        
-    *   [
-        
-        4.3 By plane
-        
-        ](#By_plane)
-        *   [
-            
-            4.3.1 Changi Airport
-            
-            ](#Changi_Airport)
-            
-        *   [
-            
-            4.3.2 Seletar Airport
-            
-            ](#Seletar_Airport)
-            
-    *   [
-        
-        4.4 By train
-        
-        ](#By_train)
-        
-    *   [
-        
-        4.5 By boat
-        
-        ](#By_boat)
-        *   [
-            
-            4.5.1 From Indonesia
-            
-            ](#From_Indonesia)
-            
-        *   [
-            
-            4.5.2 From Malaysia
-            
-            ](#From_Malaysia)
-            
-        *   [
-            
-            4.5.3 Cruises
-            
-            ](#Cruises)
-            
-    *   [
-        
-        4.6 By bus
-        
-        ](#By_bus)
-        
-    *   [
-        
-        4.7 By taxi
-        
-        ](#By_taxi)
-        
-    *   [
-        
-        4.8 By car
-        
-        ](#By_car)
-        
-    *   [
-        
-        4.9 By bicycle
-        
-        ](#By_bicycle)
-        
-    *   [
-        
-        4.10 On foot
-        
-        ](#On_foot)
-        
-*   [
-    
-    5 Get around
-    
-    ](#Get_around)Toggle Get around subsection
-    *   [
-        
-        5.1 Fares
-        
-        ](#Fares)
-        
-    *   [
-        
-        5.2 By train
-        
-        ](#By_train_2)
-        
-    *   [
-        
-        5.3 By boat
-        
-        ](#By_boat_2)
-        
-    *   [
-        
-        5.4 By bus
-        
-        ](#By_bus_2)
-        
-    *   [
-        
-        5.5 By taxi
-        
-        ](#By_taxi_2)
-        
-    *   [
-        
-        5.6 By rideshare
-        
-        ](#By_rideshare)
-        
-    *   [
-        
-        5.7 By car
-        
-        ](#By_car_2)
-        
-    *   [
-        
-        5.8 By bicycle
-        
-        ](#By_bicycle_2)
-        
-    *   [
-        
-        5.9 On foot
-        
-        ](#On_foot_2)
-        
-*   [
-    
-    6 See
-    
-    ](#See)Toggle See subsection
-    *   [
-        
-        6.1 Itineraries
-        
-        ](#Itineraries)
-        
-*   [
-    
-    7 Do
-    
-    ](#Do)Toggle Do subsection
-    *   [
-        
-        7.1 Culture
-        
-        ](#Culture)
-        
-    *   [
-        
-        7.2 Gambling
-        
-        ](#Gambling)
-        
-    *   [
-        
-        7.3 Golf
-        
-        ](#Golf)
-        
-    *   [
-        
-        7.4 Races
-        
-        ](#Races)
-        
-    *   [
-        
-        7.5 Spas
-        
-        ](#Spas)
-        
-    *   [
-        
-        7.6 Swimming
-        
-        ](#Swimming)
-        
-    *   [
-        
-        7.7 Water sports
-        
-        ](#Water_sports)
-        
-    *   [
-        
-        7.8 Snow sports
-        
-        ](#Snow_sports)
-        
-*   [
-    
-    8 Buy
-    
-    ](#Buy)Toggle Buy subsection
-    *   [
-        
-        8.1 Money
-        
-        ](#Money)
-        *   [
-            
-            8.1.1 Currency exchange
-            
-            ](#Currency_exchange)
-            
-    *   [
-        
-        8.2 Goods and Services Tax (GST)
-        
-        ](#Goods_and_Services_Tax_(GST))
-        
-    *   [
-        
-        8.3 Payments
-        
-        ](#Payments)
-        
-    *   [
-        
-        8.4 Tipping
-        
-        ](#Tipping)
-        
-    *   [
-        
-        8.5 Costs
-        
-        ](#Costs)
-        
-    *   [
-        
-        8.6 Shopping
-        
-        ](#Shopping)
-        
-    *   [
-        
-        8.7 Souvenirs
-        
-        ](#Souvenirs)
-        
-*   [
-    
-    9 Eat
-    
-    ](#Eat)Toggle Eat subsection
-    *   [
-        
-        9.1 Local delicacies
-        
-        ](#Local_delicacies)
-        *   [
-            
-            9.1.1 Peranakan/Nonya cuisine
-            
-            ](#Peranakan/Nonya_cuisine)
-            
-        *   [
-            
-            9.1.2 Malay cuisine
-            
-            ](#Malay_cuisine)
-            
-        *   [
-            
-            9.1.3 Chinese cuisine
-            
-            ](#Chinese_cuisine)
-            
-        *   [
-            
-            9.1.4 Indian cuisine
-            
-            ](#Indian_cuisine)
-            
-    *   [
-        
-        9.2 Hawker centres
-        
-        ](#Hawker_centres)
-        
-    *   [
-        
-        9.3 Coffeeshops and bubble tea
-        
-        ](#Coffeeshops_and_bubble_tea)
-        
-    *   [
-        
-        9.4 Food courts
-        
-        ](#Food_courts)
-        
-    *   [
-        
-        9.5 Fast food
-        
-        ](#Fast_food)
-        
-    *   [
-        
-        9.6 Restaurants
-        
-        ](#Restaurants)
-        *   [
-            
-            9.6.1 Fine dining
-            
-            ](#Fine_dining)
-            
-    *   [
-        
-        9.7 Dietary restrictions
-        
-        ](#Dietary_restrictions)
-        
-*   [
-    
-    10 Drink
-    
-    ](#Drink)Toggle Drink subsection
-    *   [
-        
-        10.1 Alcohol
-        
-        ](#Alcohol)
-        
-    *   [
-        
-        10.2 Tobacco
-        
-        ](#Tobacco)
-        
-*   [
-    
-    11 Sleep
-    
-    ](#Sleep)Toggle Sleep subsection
-    *   [
-        
-        11.1 Budget
-        
-        ](#Budget)
-        
-    *   [
-        
-        11.2 Mid-range
-        
-        ](#Mid-range)
-        
-    *   [
-        
-        11.3 Splurge
-        
-        ](#Splurge)
-        
-    *   [
-        
-        11.4 Vacation rentals
-        
-        ](#Vacation_rentals)
-        
-    *   [
-        
-        11.5 Long-term
-        
-        ](#Long-term)
-        
-*   [
-    
-    12 Learn
-    
-    ](#Learn)Toggle Learn subsection
-    *   [
-        
-        12.1 Cooking
-        
-        ](#Cooking)
-        
-*   [
-    
-    13 Work
-    
-    ](#Work)
-    
-*   [
-    
-    14 Stay safe
-    
-    ](#Stay_safe)Toggle Stay safe subsection
-    *   [
-        
-        14.1 Crime
-        
-        ](#Crime)
-        
-    *   [
-        
-        14.2 Natural disasters
-        
-        ](#Natural_disasters)
-        
-    *   [
-        
-        14.3 Drugs
-        
-        ](#Drugs)
-        
-    *   [
-        
-        14.4 Bribery
-        
-        ](#Bribery)
-        
-    *   [
-        
-        14.5 Racial and religious discrimination
-        
-        ](#Racial_and_religious_discrimination)
-        
-    *   [
-        
-        14.6 Prostitution
-        
-        ](#Prostitution)
-        
-    *   [
-        
-        14.7 Emergency numbers
-        
-        ](#Emergency_numbers)
-        
-*   [
-    
-    15 Stay healthy
-    
-    ](#Stay_healthy)Toggle Stay healthy subsection
-    *   [
-        
-        15.1 Medical care
-        
-        ](#Medical_care)
-        
-    *   [
-        
-        15.2 Toilets
-        
-        ](#Toilets)
-        
-*   [
-    
-    16 Respect
-    
-    ](#Respect)Toggle Respect subsection
-    *   [
-        
-        16.1 Sensitive topics
-        
-        ](#Sensitive_topics)
-        
-    *   [
-        
-        16.2 Visiting homes
-        
-        ](#Visiting_homes)
-        
-    *   [
-        
-        16.3 Business
-        
-        ](#Business)
-        
-*   [
-    
-    17 Connect
-    
-    ](#Connect)Toggle Connect subsection
-    *   [
-        
-        17.1 By phone
-        
-        ](#By_phone)
-        
-    *   [
-        
-        17.2 By net
-        
-        ](#By_net)
-        
-    *   [
-        
-        17.3 By mail
-        
-        ](#By_mail)
-        
-*   [
-    
-    18 Cope
-    
-    ](#Cope)Toggle Cope subsection
-    *   [
-        
-        18.1 Electricity
-        
-        ](#Electricity)
-        
-    *   [
-        
-        18.2 Embassies and High Commissions
-        
-        ](#Embassies_and_High_Commissions)
-        
-    *   [
-        
-        18.3 Hair cuts
-        
-        ](#Hair_cuts)
-        
-    *   [
-        
-        18.4 Laundry
-        
-        ](#Laundry)
-        
-    *   [
-        
-        18.5 Photo processing
-        
-        ](#Photo_processing)
-        
-    *   [
-        
-        18.6 Sports
-        
-        ](#Sports)
-        
-    *   [
-        
-        18.7 Television
-        
-        ](#Television)
-        
-    *   [
-        
-        18.8 Newspapers
-        
-        ](#Newspapers)
-        
-    *   [
-        
-        18.9 Weather
-        
-        ](#Weather)
-        
-*   [
-    
-    19 Go next
-    
-    ](#Go_next)
-    
-
- Toggle the table of contents
-
- 22 languages
-
-*   [বাংলা](https://bn.wikivoyage.org/wiki/%E0%A6%B8%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0 "সিঙ্গাপুর – Bangla")
-*   [Čeština](https://cs.wikivoyage.org/wiki/Singapur "Singapur – Czech")
-*   [Deutsch](https://de.wikivoyage.org/wiki/Singapur "Singapur – German")
-*   [Esperanto](https://eo.wikivoyage.org/wiki/Singapuro "Singapuro – Esperanto")
-*   [Español](https://es.wikivoyage.org/wiki/Singapur "Singapur – Spanish")
-*   [فارسی](https://fa.wikivoyage.org/wiki/%D8%B3%D9%86%DA%AF%D8%A7%D9%BE%D9%88%D8%B1 "سنگاپور – Persian")
-*   [Suomi](https://fi.wikivoyage.org/wiki/Singapore "Singapore – Finnish")
-*   [Français](https://fr.wikivoyage.org/wiki/Singapour "Singapour – French")
-*   [עברית](https://he.wikivoyage.org/wiki/%D7%A1%D7%99%D7%A0%D7%92%D7%A4%D7%95%D7%A8 "סינגפור – Hebrew")
-*   [Bahasa Indonesia](https://id.wikivoyage.org/wiki/Singapura "Singapura – Indonesian")
-*   [Italiano](https://it.wikivoyage.org/wiki/Singapore "Singapore – Italian")
-*   [日本語](https://ja.wikivoyage.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB "シンガポール – Japanese")
-*   [Nederlands](https://nl.wikivoyage.org/wiki/Singapore "Singapore – Dutch")
-*   [Polski](https://pl.wikivoyage.org/wiki/Singapur "Singapur – Polish")
-*   [Português](https://pt.wikivoyage.org/wiki/Singapura "Singapura – Portuguese")
-*   [Română](https://ro.wikivoyage.org/wiki/Singapore "Singapore – Romanian")
-*   [Русский](https://ru.wikivoyage.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80 "Сингапур – Russian")
-*   [Svenska](https://sv.wikivoyage.org/wiki/Singapore "Singapore – Swedish")
-*   [Türkçe](https://tr.wikivoyage.org/wiki/Singapur "Singapur – Turkish")
-*   [Українська](https://uk.wikivoyage.org/wiki/%D0%A1%D1%96%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80 "Сінгапур – Ukrainian")
-*   [Tiếng Việt](https://vi.wikivoyage.org/wiki/Singapore "Singapore – Vietnamese")
-*   [中文](https://zh.wikivoyage.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1 "新加坡 – Chinese")
-
-[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q334#sitelinks-wikivoyage "Edit interlanguage links")
-
-*   [Page](/wiki/Singapore "View the content page [c]")
-*   [Discussion](/wiki/Talk:Singapore "Discussion about the content page [t]")
-
- English
-
-*   [Read](/wiki/Singapore)
-*   [Edit](/w/index.php?title=Singapore&action=edit "Edit the source code of this page [e]")
-*   [View history](/w/index.php?title=Singapore&action=history "Past revisions of this page [h]")
-
- Tools
-
-Tools
-
-move to sidebar hide
-
-Actions
-
-*   [Read](/wiki/Singapore)
-*   [Edit](/w/index.php?title=Singapore&action=edit "Edit the source code of this page [e]")
-*   [View history](/w/index.php?title=Singapore&action=history "Past revisions of this page [h]")
-
-General
-
-*   [What links here](/wiki/Special:WhatLinksHere/Singapore "A list of all wiki pages that link here [j]")
-*   [Related changes](/wiki/Special:RecentChangesLinked/Singapore "Recent changes in pages linked from this page [k]")
-*   [Upload file](//en.wikivoyage.org/wiki/Wikivoyage:Upload_file "Upload files [u]")
-*   [Permanent link](/w/index.php?title=Singapore&oldid=5361574 "Permanent link to this revision of this page")
-*   [Page information](/w/index.php?title=Singapore&action=info "More information about this page")
-*   [Cite this page](/w/index.php?title=Special:CiteThisPage&page=Singapore&id=5361574&wpFormIdentifier=titleform "Information on how to cite this page")
-*   [Get shortened URL](/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikivoyage.org%2Fwiki%2FSingapore)
-*   [Switch to legacy parser](/w/index.php?title=Singapore&useparsoid=0)
-
-Print/export
-
-*   [Create a book](/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Singapore)
-*   [Download as PDF](/w/index.php?title=Special:DownloadAsPdf&page=Singapore&action=show-download-screen)
-*   [Printable version](/w/index.php?title=Singapore&printable=yes "Printable version of this page [p]")
-
-Docents
-
-*   [The dog2](/wiki/User:The_dog2)
-*   [About docents](/wiki/Wikivoyage:Docents)
-
-In other projects
-
-*   [Abstract Wikipedia](https://abstract.wikipedia.org/wiki/Q334)
-*   [Wikimedia Commons](https://commons.wikimedia.org/wiki/Singapore)
-*   [Wikibooks](https://en.wikibooks.org/wiki/Pinyin/Singapore)
-*   [Wikinews](https://en.wikinews.org/wiki/Category:Singapore)
-*   [Wikipedia](https://en.wikipedia.org/wiki/Singapore)
-*   [Wikiquote](https://en.wikiquote.org/wiki/Singapore)
-*   [Wikiversity](https://en.wikiversity.org/wiki/Singapore)
-*   [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q334 "Link to connected data repository item [g]")
-
-Appearance
-
-move to sidebar hide
-
-[![Download GPX file for this article](//upload.wikimedia.org/wikipedia/commons/f/f7/GPX_Document_rev3-20x20.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail_unscaled)](https://tools.wmflabs.org/wikivoyage/w/poi2gpx.php?print=gpx&lang=en&name=Singapore "Download GPX file for this article")
-
-1.29103.82[![Full screen dynamic map](//upload.wikimedia.org/wikipedia/commons/c/ce/Map_mag.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail_unscaled)](//wikivoyage.toolforge.org/w/poimap2.php?lat=1.29&lon=103.82&zoom=11&layer=W&lang=en&name=Singapore)
-
-From Wikivoyage
-
-[Asia](/wiki/Asia "Asia") > [Southeast Asia](/wiki/Southeast_Asia "Southeast Asia") > Singapore  
-
-Singapore
-=========
-
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120704_%28banner%29.jpg?utm_source=en.wikivoyage.org&utm_campaign=index&utm_content=thumbnail_unscaled)](/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore_-_20120704_(banner).jpg "Gardens by the Bay")
-
-[](/wiki/UNESCO_Creative_Cities)[](/wiki/Star_article)[](/wiki/Previous_Destinations_of_the_month)
-
-Contents
---------
-
-*   [1 Districts](#Districts)
-    *   [1.1 Singapore CBD](#Singapore_CBD)
-        
-    *   [1.2 Outer Singapore](#Outer_Singapore)
-        
-    *   [1.3 Addresses](#Addresses)
-        
-*   [2 Understand](#Understand)
-    *   [2.1 History](#History)
-        
-    *   [2.2 People](#People)
-        
-    *   [2.3 Climate](#Climate)
-        
-    *   [2.4 Units of measure](#Units_of_measure)
-        
-    *   [2.5 Politics](#Politics)
-        
-    *   [2.6 Holidays](#Holidays)
-        
-    *   [2.7 Events](#Events)
-        
-    *   [2.8 Visitor information](#Visitor_information)
-        
-*   [3 Talk](#Talk)
-    
-*   [4 Get in](#Get_in)
-    *   [4.1 Immigration](#Immigration)
-        
-    *   [4.2 Customs](#Customs)
-        
-    *   [4.3 By plane](#By_plane)
-        *   [4.3.1 Changi Airport](#Changi_Airport)
-            
-        *   [4.3.2 Seletar Airport](#Seletar_Airport)
-            
-    *   [4.4 By train](#By_train)
-        
-    *   [4.5 By boat](#By_boat)
-        *   [4.5.1 From Indonesia](#From_Indonesia)
-            
-        *   [4.5.2 From Malaysia](#From_Malaysia)
-            
-        *   [4.5.3 Cruises](#Cruises)
-            
-    *   [4.6 By bus](#By_bus)
-        
-    *   [4.7 By taxi](#By_taxi)
-        
-    *   [4.8 By car](#By_car)
-        
-    *   [4.9 By bicycle](#By_bicycle)
-        
-    *   [4.10 On foot](#On_foot)
-        
-*   [5 Get around](#Get_around)
-    *   [5.1 Fares](#Fares)
-        
-    *   [5.2 By train](#By_train_2)
-        
-    *   [5.3 By boat](#By_boat_2)
-        
-    *   [5.4 By bus](#By_bus_2)
-        
-    *   [5.5 By taxi](#By_taxi_2)
-        
-    *   [5.6 By rideshare](#By_rideshare)
-        
-    *   [5.7 By car](#By_car_2)
-        
-    *   [5.8 By bicycle](#By_bicycle_2)
-        
-    *   [5.9 On foot](#On_foot_2)
-        
-*   [6 See](#See)
-    *   [6.1 Itineraries](#Itineraries)
-        
-*   [7 Do](#Do)
-    *   [7.1 Culture](#Culture)
-        
-    *   [7.2 Gambling](#Gambling)
-        
-    *   [7.3 Golf](#Golf)
-        
-    *   [7.4 Races](#Races)
-        
-    *   [7.5 Spas](#Spas)
-        
-    *   [7.6 Swimming](#Swimming)
-        
-    *   [7.7 Water sports](#Water_sports)
-        
-    *   [7.8 Snow sports](#Snow_sports)
-        
-*   [8 Buy](#Buy)
-    *   [8.1 Money](#Money)
-        *   [8.1.1 Currency exchange](#Currency_exchange)
-            
-    *   [8.2 Goods and Services Tax (GST)](#Goods_and_Services_Tax_(GST))
-        
-    *   [8.3 Payments](#Payments)
-        
-    *   [8.4 Tipping](#Tipping)
-        
-    *   [8.5 Costs](#Costs)
-        
-    *   [8.6 Shopping](#Shopping)
-        
-    *   [8.7 Souvenirs](#Souvenirs)
-        
-*   [9 Eat](#Eat)
-    *   [9.1 Local delicacies](#Local_delicacies)
-        *   [9.1.1 Peranakan/Nonya cuisine](#Peranakan/Nonya_cuisine)
-            
-        *   [9.1.2 Malay cuisine](#Malay_cuisine)
-            
-        *   [9.1.3 Chinese cuisine](#Chinese_cuisine)
-            
-        *   [9.1.4 Indian cuisine](#Indian_cuisine)
-            
-    *   [9.2 Hawker centres](#Hawker_centres)
-        
-    *   [9.3 Coffeeshops and bubble tea](#Coffeeshops_and_bubble_tea)
-        
-    *   [9.4 Food courts](#Food_courts)
-        
-    *   [9.5 Fast food](#Fast_food)
-        
-    *   [9.6 Restaurants](#Restaurants)
-        *   [9.6.1 Fine dining](#Fine_dining)
-            
-    *   [9.7 Dietary restrictions](#Dietary_restrictions)
-        
-*   [10 Drink](#Drink)
-    *   [10.1 Alcohol](#Alcohol)
-        
-    *   [10.2 Tobacco](#Tobacco)
-        
-*   [11 Sleep](#Sleep)
-    *   [11.1 Budget](#Budget)
-        
-    *   [11.2 Mid-range](#Mid-range)
-        
-    *   [11.3 Splurge](#Splurge)
-        
-    *   [11.4 Vacation rentals](#Vacation_rentals)
-        
-    *   [11.5 Long-term](#Long-term)
-        
-*   [12 Learn](#Learn)
-    *   [12.1 Cooking](#Cooking)
-        
-*   [13 Work](#Work)
-    
-*   [14 Stay safe](#Stay_safe)
-    *   [14.1 Crime](#Crime)
-        
-    *   [14.2 Natural disasters](#Natural_disasters)
-        
-    *   [14.3 Drugs](#Drugs)
-        
-    *   [14.4 Bribery](#Bribery)
-        
-    *   [14.5 Racial and religious discrimination](#Racial_and_religious_discrimination)
-        
-    *   [14.6 Prostitution](#Prostitution)
-        
-    *   [14.7 Emergency numbers](#Emergency_numbers)
-        
-*   [15 Stay healthy](#Stay_healthy)
-    *   [15.1 Medical care](#Medical_care)
-        
-    *   [15.2 Toilets](#Toilets)
-        
-*   [16 Respect](#Respect)
-    *   [16.1 Sensitive topics](#Sensitive_topics)
-        
-    *   [16.2 Visiting homes](#Visiting_homes)
-        
-    *   [16.3 Business](#Business)
-        
-*   [17 Connect](#Connect)
-    *   [17.1 By phone](#By_phone)
-        
-    *   [17.2 By net](#By_net)
-        
-    *   [17.3 By mail](#By_mail)
-        
-*   [18 Cope](#Cope)
-    *   [18.1 Electricity](#Electricity)
-        
-    *   [18.2 Embassies and High Commissions](#Embassies_and_High_Commissions)
-        
-    *   [18.3 Hair cuts](#Hair_cuts)
-        
-    *   [18.4 Laundry](#Laundry)
-        
-    *   [18.5 Photo processing](#Photo_processing)
-        
-    *   [18.6 Sports](#Sports)
-        
-    *   [18.7 Television](#Television)
-        
-    *   [18.8 Newspapers](#Newspapers)
-        
-    *   [18.9 Weather](#Weather)
-        
-*   [19 Go next](#Go_next)
-    
-
+# Singapore – Travel guide at Wikivoyage
 _Singapore is a [huge city](https://en.wikivoyage.org/wiki/Wikivoyage:Huge_city_article_template "Wikivoyage:Huge city article template") with several [district](#Districts) articles that contain information about specific sights, restaurants, and accommodation._
 
 **Singapore** (Chinese: 新加坡 _Xīnjiāpō_; Malay: _Singapura_; Tamil: சிங்கப்பூர் _Chingappur_) is a city-state in [Southeast Asia](https://en.wikivoyage.org/wiki/Southeast_Asia "Southeast Asia"). Modern Singapore was founded as a [British](https://en.wikivoyage.org/wiki/United_Kingdom "United Kingdom") trading colony in 1819, and since independence, it has become one of the world's most prosperous countries and boasts one of the world's busiest ports. Singaporean food is legendary, with bustling hawker centres and 24-hour coffee shops offering affordable food from all parts of [Asia](https://en.wikivoyage.org/wiki/Asia "Asia"). Combining the skyscrapers and shopping malls of an affluent modern city with a medley of different Asian cultures and a tropical climate, good shopping and a vibrant nightlife scene, this Garden City makes a great stopover or springboard into the region.
 
 The country has a partly deserved reputation for its sterile predictability. Nevertheless, the "Switzerland of Asia" is for many a welcome respite from the chaos, dirt and poverty of much of the rest of Southeast Asia. If you scratch below the squeaky clean surface and get away from the tourist trail you'll soon find more than meets the eye in one of the few remaining city-states in the world.
 
-Districts
----------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=1 "Edit section: Districts")\]
-
 Sometimes referred to as the _Little Red Dot_ (originally coined as a pejorative by the former Indonesian president B. J. Habibie) or the _Lion City_ (a literal translation of the original Sanskrit name), Singapore is a small country on a small island with six million people. It is a fairly crowded city and in fact, it is second only to [Monaco](https://en.wikivoyage.org/wiki/Monaco "Monaco") as the world's most densely populated country. However, Singapore has over 50% of its area covered in greenery and with over 50 major parks and 4 nature reserves, it is an enchanting **garden city**. Large self-contained residential towns have mushroomed all over the island, around the clean and modern city centre.
-
-### Singapore CBD
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=2 "Edit section: Singapore CBD")\]
 
 The **CBD** (Central Business District) is in the south of the island.
 
-.mw-parser-output .wv-staticMap{position:relative;left:-3px;margin-top:3px}
-
-[![Map](https://maps.wikimedia.org/img/osm-intl,13,1.2916,103.8503,400x420.png?lang=en&domain=en.wikivoyage.org&title=Singapore&revid=5361574&groups=map1%2Cmask&parser=parsoid)](/wiki/Special:Map/13/1.2916/103.8503/en)
-
-[1°17′30″N 103°51′1″E](/wiki/Special:Map/14/1.2916/103.8503/en)
+[![Map](https://maps.wikimedia.org/img/osm-intl,13,1.2916,103.8503,400x420.png?lang=en&domain=en.wikivoyage.org&title=Singapore&revid=5361931&groups=map1%2Cmask&parser=parsoid)](/wiki/Special:Map/13/1.2916/103.8503/en)
 
 Map of Singapore City Centre. [Static map](https://en.wikivoyage.org/wiki/File:Central_Singapore_Districts.png "File:Central Singapore Districts.png")
 
-.mw-parser-output .regionlistitem-table{vertical-align:middle;border-collapse:separate;border-spacing:2px;margin:0}.mw-parser-output .regionlistitem-table td{padding:0.15em 0.4em}.mw-parser-output .regionlistitem-textholder{transition:background-color 0.18s ease;border-radius:4px;cursor:pointer}.mw-parser-output .regionlistitem-textholder:hover{background-color:rgba(0,0,0,0.06);color:inherit}.mw-parser-output .regionlistitem-table:hover .regionlistitem-colorcell{background:inherit;color:inherit}@media screen{html.skin-theme-clientpref-night .mw-parser-output .regionlistitem-textholder:hover{background-color:rgba(255,255,255,0.06);color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .regionlistitem-textholder:hover{background-color:rgba(255,255,255,0.06);color:inherit}}
-
-**[Riverside (Civic District)](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside")**  
-Singapore's colonial core, with museums, statues and theatres, plus restaurants, bars and clubs, centred along the banks of the Singapore River at Boat Quay and Clarke Quay.
-
-**[Orchard Road](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard")**  
-Miles and miles of shopping malls in air-conditioned comfort. At the eastern end, the Bras Basah District is an arts and culture project in progress.
-
-**[Marina Bay](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay")**  
-Dominated by the Marina Bay Sands integrated resort (hotel, casino, shopping mall, convention centre and museum), the futuristic Gardens by the Bay, and the Marina Barrage. Along with the Singapore Flyer and the Esplanade Theatres, Marina Bay makes up the new iconic skyline of Singapore.
-
-**[Bugis and Kampong Glam](https://en.wikivoyage.org/wiki/Singapore/Bugis "Singapore/Bugis")**  
-Bugis and Kampong Glam are Singapore's old Malay district, good for shopping in the day but especially coming to life at night.
-
-**[Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown")**  
-The area was designated for Chinese settlement by Raffles, and is now a Chinese heritage area popular with tourists. Restored shophouses make for trendy hangouts for locals and expats alike.
-
-**[Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India")**  
-A piece of India to the north of the city core.
-
-### Outer Singapore
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=3 "Edit section: Outer Singapore")\]
-
-[![Map](https://maps.wikimedia.org/img/osm-intl,10,1.3637,103.8251,400x420.png?lang=en&domain=en.wikivoyage.org&title=Singapore&revid=5361574&groups=map2%2Cmask&parser=parsoid)](/wiki/Special:Map/10/1.3637/103.8251/en)
-
-[1°21′49″N 103°49′30″E](/wiki/Special:Map/11/1.3637/103.8251/en)
+[![Map](https://maps.wikimedia.org/img/osm-intl,10,1.3637,103.8251,400x420.png?lang=en&domain=en.wikivoyage.org&title=Singapore&revid=5361931&groups=map2%2Cmask&parser=parsoid)](/wiki/Special:Map/10/1.3637/103.8251/en)
 
 Map of Outer Singapore. [Static map](https://en.wikivoyage.org/wiki/File:Singapore_Districts.png "File:Singapore Districts.png")
 
 There's more to see outside the main city centre of Singapore, from the HDB (_Housing and Development Board_) heartlands where hawker food is king, to the Singapore Zoo. Or chill out in the parks and beaches of the East Coast and Sentosa.
 
-**[Sentosa and Harbourfront](https://en.wikivoyage.org/wiki/Singapore/Sentosa_and_Harbourfront "Singapore/Sentosa and Harbourfront")**  
-A separate island once a military fort that has been developed into a resort. Sentosa is the closest that Singapore gets to Disneyland, with a dash of gambling and the Universal Studios theme park thrown in. Across the water, there's Mount Faber and the [Southern Ridges](https://en.wikivoyage.org/wiki/Southern_Ridges_Walk "Southern Ridges Walk"), an urban treetop walk with local monkeys. We also cover Singapore's Southern Islands as part of this article, some of which are accessible to tourists by ferry.
-
-**[East Coast](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast")**  
-The largely residential eastern part of the island contains Changi Airport, miles and miles of beach and many famous eateries. Also covers Geylang Serai, the true home of Singapore's Malays, and Pulau Ubin, the last remnant of a rustic Singapore.
-
-**[North and West](https://en.wikivoyage.org/wiki/Singapore/North_and_West "Singapore/North and West")**  
-The northern and western parts of the island, known as Woodlands and Jurong respectively, form Singapore's residential and industrial hinterlands. By far the largest tourist attraction here is the Mandai complex, containing all four of Singapore's spectacular zoos.
-
-**[Balestier, Newton, Novena and Toa Payoh](https://en.wikivoyage.org/wiki/Singapore/Balestier "Singapore/Balestier")**  
-Budget accommodations and Burmese temples within striking distance of Central Singapore. Toa Payoh, one of Singapore's first planned neighbourhoods, is an easy way to wander around a local housing estate and experience the town centre design unique to Singapore.
-
-### Addresses
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=4 "Edit section: Addresses")\]
-
 In the centre, Singapore's addressing system is fairly similar to other English-speaking countries (such as 17 Orchard Rd), but the new housing developments on the outskirts may appear more intimidating: a typical address might be "Blk 505 Bedok Nth Ave 3 #19-315". Here, "Blk 505" is the housing block number (Blk = Block), "Bedok Nth Ave 3" is the street name & number, and "#19-315" means floor 19 apartment 315. The first digit of both housing block and street number is the neighbourhood's number (in this case 5), making it easier to narrow down the right location. There are also 6-digit [postal codes](https://en.wikipedia.org/wiki/Postal%20codes%20in%20Singapore "w:Postal codes in Singapore"), with the last three digits corresponding to exactly one building. For example, "Blk 181 Bedok Nth Rd" is "S'pore 460181". Finally, you will also encounter Malay terms in addresses: the most commonly used are **Jalan** (_Jln_) for "Road", **Lorong** (_Lor_) for "Lane", **Bukit** (_Bt_) for "Hill" and **Kampong** (_Kg_) for "Village".
 
 Useful tools for hunting down addresses include **[StreetDirectory.com](https://www.streetdirectory.com/)**, **[GoThere.sg](https://gothere.sg/maps)** and **[OneMap.sg](https://www.onemap.gov.sg/)**. The "Blk" and unit number can and should be omitted when entering addresses into these sites: "505 Bedok Nth Ave 3" will do.
 
-Understand
-----------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=5 "Edit section: Understand")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/250px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/250px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg)
 
 The Singapore CBD skyline
 
 Singapore is a microcosm of Asia, populated by Chinese, Malays, Indians and a large group of workers and expatriates from all around the globe, in a country that can be crossed in barely an hour. Having celebrated its 50th birthday in 2015, Singapore has more often than not chosen economic pragmatism over social concerns, encouraging constant reuse and redevelopment of land with huge projects like the [Marina Bay Sands](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") and [Resorts World Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") integrated resorts as well as becoming a significant Asian financial hub, but there has also been a growing push-back to preserve local heritage in [Balestier](https://en.wikivoyage.org/wiki/Singapore/Balestier "Singapore/Balestier") and elsewhere; just one of the many decisions to balance for the country's future.
 
-### History
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=6 "Edit section: History")\]
-
 The first mentions of Singapore in historical records date back to the second and third centuries, in Greek and Chinese texts. According to legend, [Srivijayan](https://en.wikivoyage.org/wiki/Sumatra "Sumatra") prince Sang Nila Utama landed on the island in the 13th century and, catching sight of a strange creature that he thought was a lion, decided to found a new city he called _Singapura_, Sanskrit for **Lion City**. Alas, there have never been any lions anywhere near Singapore or elsewhere in Malaya, so the mysterious beast was more probably a tiger or wild boar. Other records indicate that the island was settled earlier and was an important port for various kingdoms for centuries. However, Portuguese raiders destroyed the settlement in 1613 and Singapura faded into obscurity.
 
 The story of Singapore as we know it today began in 1819, when **Sir Thomas Stamford Raffles** made a deal with a claimant to the throne of the Sultanate of [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"): the British would support his claim in exchange for the right to set up a trading post on the island. Though the Dutch initially protested, an Anglo-Dutch treaty was signed in 1824 separating the Malay world into British and Dutch spheres of influence (resulting in the current [Malaysia](https://en.wikivoyage.org/wiki/Malaysia "Malaysia")\-[Indonesia](https://en.wikivoyage.org/wiki/Indonesia "Indonesia") and Singapore-Indonesia borders). The Dutch renounced their claim to Singapore and ceded their colony in [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca") to the British, in exchange for the British ceding their colonies on Sumatra to the Dutch.
 
-@media all and (max-width:640px){.mw-parser-output .wv-quickbar{clear:none!important;float:none!important;margin:0!important;width:100%!important}}.mw-parser-output .wv-quickbar table{font-size:85%;background-color:#f9f9f9;color:#333;border:1px solid #ccc;width:250px}.mw-parser-output .wv-quickbar .info{vertical-align:top;padding:0 5px;white-space:nowrap}.mw-parser-output .wv-quickbar .footer{margin-top:5px;border-top:1px solid #ccc;text-align:right}
 
-[![](//upload.wikimedia.org/wikipedia/commons/d/d6/LocationSingapore.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail_unscaled)](https://en.wikivoyage.org/wiki/File:LocationSingapore.png)
+|                |                                                               |
+|----------------|---------------------------------------------------------------|
+|Capital         |Singapore                                                      |
+|Currency        |Singapore dollar (SGD)                                         |
+|Population      |5.8 million (2021)                                             |
+|Electricity     |230 volt / 50 hertz (BS 1363)                                  |
+|Country code    |+65                                                            |
+|Time zone       |UTC+08:00, Singapore Standard Time, Asia/Singapore             |
+|Emergencies     |995 (fire department, emergency medical services), 999 (police)|
+|Driving side    |left                                                           |
+|edit on Wikidata|                                                               |
 
-**Capital**
-
-[Singapore](https://en.wikivoyage.org/wiki/Singapore)
-
-**Currency**
-
-Singapore dollar (SGD)
-
-**Population**
-
-5.8 million (2021)
-
-**[Electricity](https://en.wikivoyage.org/wiki/Electrical_systems "Electrical systems")**
-
-230 volt / 50 hertz (BS 1363)
-
-**[Country code](https://en.wikivoyage.org/wiki/List_of_country_calling_codes "List of country calling codes")**
-
-+65
-
-**[Time zone](https://en.wikivoyage.org/wiki/Time_zones "Time zones")**
-
-UTC+08:00, Singapore Standard Time, Asia/Singapore
-
-**Emergencies**
-
-995 (fire department, emergency medical services), 999 (police)
-
-**Driving side**
-
-left
-
-[edit on Wikidata](https://www.wikidata.org/wiki/Q334 "d:Q334")
 
 Raffles' master stroke was to declare Singapore a **free port**, with no duties charged on trade. As traders flocked to escape onerous Dutch taxes, the trading post soon grew into one of Asia's busiest, drawing people from far and wide. Along with [Penang](https://en.wikivoyage.org/wiki/Penang "Penang") and Malacca, Singapore became one of the **Straits Settlements** and a jewel in the British colonial crown. Its economic fortunes received a further boost when palm oil and rubber from other parts of Malaya were processed and shipped out via Singapore. In 1867, the Straits Settlements were split off from [British India](https://en.wikivoyage.org/wiki/British_Raj "British Raj") and made into a directly ruled Crown Colony.
 
@@ -1136,23 +53,18 @@ When [World War II](https://en.wikivoyage.org/wiki/Pacific_War "Pacific War") br
 
 Granted self-rule in 1955, Singapore briefly joined the [Malaysian](https://en.wikivoyage.org/wiki/Malaysia "Malaysia") Federation in 1963 when the British left, but was expelled in the aftermath of two bloody racial riots in 1964, because the Chinese-majority city was seen as a threat to Malay dominance. Consequently, when the island became independent on 9 August 1965, Singapore became the only country in the history of the modern world to gain independence against its own will. The subsequent 25 years of iron-fisted rule by the late prime minister **Lee Kuan Yew** saw Singapore's economy boom, with the country rapidly becoming one of the wealthiest and most developed in Asia despite its lack of natural resources, earning it a place as one of the four **East Asian Tigers**. The ruling **People's Action Party** (PAP) continues to dominate the political scene with a supermajority in Parliament. Societal restrictions have been loosened up though, with the government trying to shake off its staid image, and it remains to be seen how the delicate balancing act between political control and social freedom will play out.
 
-“
 
-But if you are a troublemaker... it's our job to politically destroy you.
 
-”
+* “: Lee Kuan Yew, commenting on his political rivals.
+  * But if you are a troublemaker... it's our job to politically destroy you.: 
+  * ”: 
 
-Lee Kuan Yew, commenting on his political rivals.
 
 In modern times, Singapore has tried to position itself as a neutral state balancing the interests of major world powers such as the United States and China. This has made Singapore a popular alternative to Switzerland for diplomatically sensitive talks between foreign leaders, such as the meeting between Chinese president Xi Jinping and Taiwanese president Ma Ying-jeou in 2015, and the meeting between American president Donald Trump and North Korean leader Kim Jong-un in 2018.
 
-### People
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=7 "Edit section: People")\]
-
 Singapore prides itself on being a multi-racial country and has diverse cultures despite its small size. Singaporeans make up two-thirds of the population. The largest group are the Chinese (about 75%), in which the largest subgroups are the Hokkien, Teochew and Cantonese, with Mandarin acting as the _lingua franca_ of the community. Malays, who are descended from Singapore's indigenous inhabitants and migrants from throughout the [Malay Archipelago](https://en.wikivoyage.org/wiki/Malay_Archipelago "Malay Archipelago") comprise 14% of all Singaporeans. Indians, which in Singapore refers to anyone of South Asian descent, form about 9% of residents. Among the Indians, Tamils form the largest subgroup by far, though there are also other subgroups such as the Malayalees, Punjabis and Sindhis. The remainder are a mix of many other cultures, most notably the Eurasians who are of mixed European and Asian descent, and also the Peranakans or Straits Chinese, who are of mixed Chinese and Malay descent. Other smaller communities include the Parsis, Hadhrami Arabs and Baghdadi Jews.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg/250px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg/250px-Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_skyline_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg)
 
 The Marina Bay Sands and Singapore Flyer
 
@@ -1160,217 +72,67 @@ Singapore has always been an open country and at least a third of its population
 
 Singapore is by some measures the most religiously diverse country in the world with no religious group forming a majority, and religious freedom guaranteed by the constitution. [Buddhism](https://en.wikivoyage.org/wiki/Buddhism "Buddhism") is the largest religion with about one-third of the population declaring themselves Buddhist. Other religions which exist in significant numbers include [Christianity](https://en.wikivoyage.org/wiki/Christianity "Christianity"), [Islam](https://en.wikivoyage.org/wiki/Islam "Islam"), [Hinduism](https://en.wikivoyage.org/wiki/Hinduism "Hinduism") and Taoism. In addition to the "big five", the other officially-recognised religions are [Sikhism](https://en.wikivoyage.org/wiki/Sikhism "Sikhism"), [Zoroastrianism](https://en.wikivoyage.org/wiki/Zoroastrianism "Zoroastrianism"), [Judaism](https://en.wikivoyage.org/wiki/Judaism "Judaism"), the [Baha'i Faith](https://en.wikivoyage.org/wiki/Baha'i_Faith "Baha'i Faith") and [Jainism](https://en.wikivoyage.org/wiki/Jainism "Jainism"). About 17% of Singaporeans are irreligious (known in Singapore as "free thinkers").
 
-### Climate
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=8 "Edit section: Climate")\]
 
-Singapore
+* Singapore: Climate chart (explanation)
+* Singapore: J
+  * F
+  * M
+  * A
+  * M
+  * J
+  * J
+  * A
+  * S
+  * O
+  * N
+  * D
+* Singapore: 2223124
+  * 1053225
+  * 1523225
+  * 1643225
+  * 1643226
+  * 1353226
+  * 1473125
+  * 1473125
+  * 1253225
+  * 1683225
+  * 2523125
+  * 3323124
+* Singapore: Average max. and min. temperatures in °C
+* Singapore: Precipitation+Snow totals in mm
+* Singapore: Source: w:Singapore#Climate
+
+
+
+
+* Imperial conversion: J
+  * F
+  * M
+  * A
+  * M
+  * J
+  * J
+  * A
+  * S
+  * O
+  * N
+  * D
+* Imperial conversion: 8.78776
+  * 4.18976
+  * 69077
+  * 6.59078
+  * 6.59078
+  * 5.38978
+  * 5.88978
+  * 5.88978
+  * 4.98977
+  * 6.68977
+  * 9.98876
+  * 138776
+* Imperial conversion: Average max. and min. temperatures in °F
+* Imperial conversion: Precipitation+Snow totals in inches
 
-Climate chart ([explanation](https://en.wikivoyage.org/wiki/Template:Climate_chart/How_to_read_a_climate_chart "Template:Climate chart/How to read a climate chart"))
-
-J
-
-F
-
-M
-
-A
-
-M
-
-J
-
-J
-
-A
-
-S
-
-O
-
-N
-
-D
-
-222
-
-31
-
-24
-
-105
-
-32
-
-25
-
-152
-
-32
-
-25
-
-164
-
-32
-
-25
-
-164
-
-32
-
-26
-
-135
-
-32
-
-26
-
-147
-
-31
-
-25
-
-147
-
-31
-
-25
-
-125
-
-32
-
-25
-
-168
-
-32
-
-25
-
-252
-
-31
-
-25
-
-332
-
-31
-
-24
-
-Average max. and min. temperatures in °C
-
-Precipitation+Snow totals in mm
-
-Source: [w:Singapore#Climate](https://en.wikipedia.org/wiki/Singapore#Climate "w:Singapore")
-
-Imperial conversion
-
-J
-
-F
-
-M
-
-A
-
-M
-
-J
-
-J
-
-A
-
-S
-
-O
-
-N
-
-D
-
-8.7
-
-87
-
-76
-
-4.1
-
-89
-
-76
-
-6
-
-90
-
-77
-
-6.5
-
-90
-
-78
-
-6.5
-
-90
-
-78
-
-5.3
-
-89
-
-78
-
-5.8
-
-89
-
-78
-
-5.8
-
-89
-
-78
-
-4.9
-
-89
-
-77
-
-6.6
-
-89
-
-77
-
-9.9
-
-88
-
-76
-
-13
-
-87
-
-76
-
-Average max. and min. temperatures in °F
-
-Precipitation+Snow totals in inches
 
 As Singapore is 1°17' north of the Equator, its tropical weather is usually sunny with little in the way of distinct seasons. Rain falls almost daily throughout the year, usually in sudden, heavy showers that rarely last longer than an hour. However, most rainfall occurs during the northeast monsoon (November to January), occasionally featuring lengthy spells of continuous rain. Spectacular thunderstorms can occur throughout the year, any time during the day, so it's wise to carry an umbrella at all times, both as a shade from the sun and a cover from the rain.
 
@@ -1378,42 +140,28 @@ Between May and October, forest fires in neighbouring [Sumatra](https://en.wikiv
 
 The temperature averages around:
 
-*   31 °C (88 °F) daytime, 24.5 °C (76.1 °F) at night in December and January.
-*   32.5 °C (90.5 °F) daytime, 25.5 °C (77.9 °F) at night for the rest of the year.
+*   31 °C (88 °F) daytime, 24.5 °C (76.1 °F) at night in December and January.
+*   32.5 °C (90.5 °F) daytime, 25.5 °C (77.9 °F) at night for the rest of the year.
 
-Singapore's lowest temperature ever was 19.4 °C (66.9 °F), recorded in 1934, with its highest temperature ever being 37 °C (99 °F), recorded in 2023.
+Singapore's lowest temperature ever was 19.4 °C (66.9 °F), recorded in 1934, with its highest temperature ever being 37 °C (99 °F), recorded in 2023.
 
 The high temperature and humidity, combined with the lack of wind and the fact that temperatures stay high during the night, can take its toll on visitors from colder parts of the world. Bear in mind that spending more than about an hour outdoors can be very exhausting, especially if combined with moderate exercise. Singaporeans themselves shun the heat, and for a good reason. Many live in air-conditioned flats, work in air-conditioned offices, take the air-conditioned metro to air-conditioned shopping malls connected to each other by underground tunnels where they shop, eat, and exercise in air-conditioned fitness clubs, only venturing out early in the morning and at night. Follow their example if you want to avoid discomfort in the searing heat and humidity of Singapore.
 
-### Units of measure
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=9 "Edit section: Units of measure")\]
-
 Singapore is for the most part fully metricated, but two holdovers from the British imperial system are the measure of property sizes, which are still advertised in square feet, and clothing sizes, which are still advertised in inches.
-
-### Politics
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=10 "Edit section: Politics")\]
 
 Often described as a "guided democracy", Singapore has notionally free and fair elections, but the People's Action Party (PAP) has ruled uninterrupted since 1959 and keeps it that way through tight control of the media, complicated gerrymandering, and liberal use of legal proceedings against opponents who step out of line. The largest opposition party is the centre-left Workers' Party (WP), but they have never won more than 10 out of 97 seats in Parliament. The prime minister, to date always Chinese, wields actual power while the president is largely a ceremonial figurehead.
 
-### Holidays
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=11 "Edit section: Holidays")\]
-
 Singapore is a secular city state but due to its multicultural population, Singapore celebrates Chinese, Muslim, Hindu, Buddhist, and Christian holidays.
-
-.mw-parser-output .pp\_infobox{color:#333;background-color:#effafa;font-size:90%;border:1px solid #ccc;padding-left:1em;padding-right:1em;text-align:left;width:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .pp\_infobox td{color:inherit;background-color:inherit}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pp\_infobox td{color:inherit;background-color:inherit}}
 
 _Gong xi fa cai_ Singapore style
 
 There are a few twists to the Singapore way of celebrating Chinese New Year, particularly the **food**, which bears little resemblance to the steamy hotpots of frigid northern China. The top dish is _bak kwa_ (肉干), sweet barbecued pork, followed closely by _yu sheng_ (魚生), a salad of shredded vegetables and raw fish enthusiastically tossed into the air by all present. Favourite desserts are crumbly sweet pineapple tarts and gooey steamed _nian gao_ (年糕) cakes. Red packets of money (红包 _ang pow_) are still handed out generously, although in Singapore you only need to start paying up once married.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Singapore_CNY_Tinsel.JPG/250px-Singapore_CNY_Tinsel.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_CNY_Tinsel.JPG)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Singapore_CNY_Tinsel.JPG/250px-Singapore_CNY_Tinsel.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_CNY_Tinsel.JPG)
 
 New Year decorations in Chinatown
 
-The year kicks off with a bang on 1 January and **New Year**, celebrated in Singapore just as in the West with a fireworks show and parties at every nightspot in town. Particularly famous are the wet and wild **foam parties** on the beaches of resort island [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa"). 
+The year kicks off with a bang on 1 January and **New Year**, celebrated in Singapore just as in the West with a fireworks show and parties at every nightspot in town. Particularly famous are the wet and wild **foam parties** on the beaches of resort island [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa").
 
 Lunar New Year dates
 
@@ -1428,20 +176,20 @@ Due to the influence of the Chinese majority, the largest event by far is **Chin
 
 On the fifth day of the fifth month of the Chinese calendar, the **Dragon Boat Festival** (端午节) is celebrated to commemorate a Chinese folk hero. As part of the celebrations, rice dumplings (肉粽 _bak chang_), which in Singapore are sometimes wrapped in fragrant _pandan_ leaves instead of the original bamboo leaves, are usually eaten. In addition, dragon boat races are often held at the Singapore River on this day. The seventh month of the Chinese lunar calendar — usually August — starts off with a puff of smoke, as "hell money" is burned and food offerings are made to please the spirits of ancestors who are said to return to earth at this time. This is the **Hungry Ghost Festival** (中元节), when the living get together to stuff themselves and watch plays and Chinese opera performances. Following soon afterwards, the **Mid-Autumn Festival** (中秋节) on the 15th day of the 8th lunar month (Sep/Oct) is also a major event, with elaborate lantern decorations — particularly at Gardens by the Bay and Jurong's [Chinese Garden](https://en.wikivoyage.org/wiki/Singapore/North_and_West "Singapore/North and West") — and **mooncakes** that are typically filled with lotus paste, nuts, and more consumed merrily.
 
-[![Singapore Geylang Serai Ramadan Light-Up 2024](//thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Geylang_Serai_Ramadan_Light-Up_2024.jpg/250px-Geylang_Serai_Ramadan_Light-Up_2024.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Geylang_Serai_Ramadan_Light-Up_2024.jpg)
+[![Singapore Geylang Serai Ramadan Light-Up 2024](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Geylang_Serai_Ramadan_Light-Up_2024.jpg/250px-Geylang_Serai_Ramadan_Light-Up_2024.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Geylang_Serai_Ramadan_Light-Up_2024.jpg)
 
 Ramadan light-up at the Geylang Serai district
 
-The Hindu festival of lights, Diwali, known locally as **Deepavali**, is celebrated around October or November and [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India") is brightly decorated for the occasion. In January or February is the celebration of **Thaipusam**, a Tamil Hindu festival in which male devotees carry a _kavadi_, an elaborate structure which pierces through various parts of their body, walking in procession from the Sri Srinivasa Perumal Temple in Little India to the Sri Thandayuthapani Temple in Tank Road. Female devotees usually join the procession carrying pots of milk instead. About one week before Deepavali is **Thimithi**, the fire-walking festival where male devotees walk on burning coals at the Sri Mariamman Temple in Chinatown. 
+The Hindu festival of lights, Diwali, known locally as **Deepavali**, is celebrated around October or November and [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India") is brightly decorated for the occasion. In January or February is the celebration of **Thaipusam**, a Tamil Hindu festival in which male devotees carry a _kavadi_, an elaborate structure which pierces through various parts of their body, walking in procession from the Sri Srinivasa Perumal Temple in Little India to the Sri Thandayuthapani Temple in Tank Road. Female devotees usually join the procession carrying pots of milk instead. About one week before Deepavali is **Thimithi**, the fire-walking festival where male devotees walk on burning coals at the Sri Mariamman Temple in Chinatown.
 
 Ramadan
 
 Ramadan is the 9th and holiest month in the Islamic calendar and lasts 29–30 days. Muslims fast every day for its duration and most restaurants will be closed until the fast breaks at dusk. Nothing (including water and cigarettes) is supposed to pass through the lips from dawn to sunset. Non-Muslims are exempt from this, but should still refrain from eating or drinking in public as this is considered very impolite. Working hours are decreased as well in the corporate world. Exact dates of Ramadan depend on local astronomical observations and may vary somewhat from country to country. Ramadan concludes with the festival of _Eid al-Fitr_, which may last several days, usually three in most countries.
 
-*   18 February – 19 March 2026 (_1447 AH_)
-*   8 February – 8 March 2027 (_1448 AH_)
-*   28 January – 25 February 2028 (_1449 AH_)
-*   16 January – 12 February 2029 (_1450 AH_)
+*   18 February – 19 March 2026 (_1447 AH_)
+*   8 February – 8 March 2027 (_1448 AH_)
+*   28 January – 25 February 2028 (_1449 AH_)
+*   16 January – 12 February 2029 (_1450 AH_)
 
 If you're planning to travel to Singapore during Ramadan, consider reading [Travelling during Ramadan](https://en.wikivoyage.org/wiki/Travelling_during_Ramadan "Travelling during Ramadan").
 
@@ -1453,17 +201,13 @@ The Islamic fasting month of Ramadan with fast-breaking festival **Hari Raya Pua
 
 A more secular celebration occurs on 9 August, **National Day**, when fluttering flags fill Singapore and the National Day Parade is held to celebrate independence.
 
-[![Singapore Little India Deepavali Light-Up](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Singapore_Little_India_Light-Up_2024.jpg/250px-Singapore_Little_India_Light-Up_2024.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Little_India_Light-Up_2024.jpg)
+[![Singapore Little India Deepavali Light-Up](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Singapore_Little_India_Light-Up_2024.jpg/250px-Singapore_Little_India_Light-Up_2024.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Little_India_Light-Up_2024.jpg)
 
 Deepavali light-up at the Little India historical district
 
-[![Singapore Orchard Road Christmas Light-Up](//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Orchard_Road_Christmas_Light_Up_2025.jpg/250px-Orchard_Road_Christmas_Light_Up_2025.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Orchard_Road_Christmas_Light_Up_2025.jpg)
+[![Singapore Orchard Road Christmas Light-Up](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Orchard_Road_Christmas_Light_Up_2025.jpg/250px-Orchard_Road_Christmas_Light_Up_2025.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Orchard_Road_Christmas_Light_Up_2025.jpg)
 
 Welcoming Christmas in Singapore
-
-### Events
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=12 "Edit section: Events")\]
 
 Singapore holds numerous events each year. Some of its famous festivals and events include the **Singapore Food Festival**, the **Singapore Formula One Grand Prix**, the **Singapore Arts Festival**, the **Chingay Parade**, the **World Gourmet Summit,** **Light to Night Singapore**, **i Light Singapore**, **Singapore Night Festival**, and **ZoukOut**.
 
@@ -1471,18 +215,9 @@ Singapore holds numerous events each year. Some of its famous festivals and even
 
 ### Visitor information
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=13 "Edit section: Visitor information")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=13 "Edit section: Visitor information")\]
 
 *   [visitsingapore.com](https://www.visitsingapore.com/en/)
-
-Talk
-----
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=14 "Edit section: Talk")\]
-
-.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{margin-bottom:0.5em;padding-left:1.6em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{.mw-parser-output .ns-0 .hatnote{display:none!important}}
-
-See also: [Chinese phrasebook](https://en.wikivoyage.org/wiki/Chinese_phrasebook "Chinese phrasebook"), [Malay phrasebook](https://en.wikivoyage.org/wiki/Malay_phrasebook "Malay phrasebook"), [Tamil phrasebook](https://en.wikivoyage.org/wiki/Tamil_phrasebook "Tamil phrasebook"), and [English language varieties](https://en.wikivoyage.org/wiki/English_language_varieties "English language varieties")
 
 Who are the people in your neighbourhood?
 
@@ -1501,27 +236,21 @@ The Big 3 — Chinese, Malays and Indians — get all the press, but there are p
 **Thais**: Aperia Mall, Lavender Street and City Gate, Beach Road  
 **Vietnamese**: Joo Chiat Rd
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Singapore_Danger-Signs-01.jpg/250px-Singapore_Danger-Signs-01.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Danger-Signs-01.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Singapore_Danger-Signs-01.jpg/250px-Singapore_Danger-Signs-01.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Danger-Signs-01.jpg)
 
 A sign in English, Chinese, Malay and Tamil
 
 [Malay](https://en.wikivoyage.org/wiki/Malay_phrasebook "Malay phrasebook") is enshrined in the constitution as the "national language", but in practice, the most common language is English, the primary language for half the population and spoken by almost every non-elderly Singaporean with varying degrees of fluency. However, the distinctive local patois, **Singlish**, may be hard to understand at times, as it incorporates slang words and phrases from other languages, including various Chinese dialects, Malay, and Tamil as well as English words whose pronunciation or meaning have been changed. Additionally, it has an odd way of structuring sentences, due to the original speakers being mostly Chinese, resulting in most Singlish sentences having Chinese grammar. Complex consonant clusters are simplified, articles and plurals disappear, verb tenses are replaced by adverbs, questions are altered to fit the Chinese syntax and non-English particles (especially the infamous "lah") appear:
 
-Singlish
 
-English
 
-_You wan beer or not? — Dunwan lah, dring five bottle oreddi._
+* Singlish: You wan beer or not? — Dunwan lah, dring five bottle oreddi.
+  * English: Do you want a beer? — No, thanks; I've already had five bottles.
+* Singlish: Later wan go mall lepak abit? — Ok, steady lah!
+  * English: Do you want to chill at the mall for a while later? — Ok, good!
+* Singlish: He today taiko, kena tekan by his boss, so jialat.
+  * English: He was 'lucky' to be scolded by his boss today, seeming very much in trouble.
 
-Do you want a beer? — No, thanks; I've already had five bottles.
-
-_Later wan go mall lepak abit? — Ok, steady lah!_
-
-Do you want to chill at the mall for a while later? — Ok, good!
-
-_He today taiko, kena tekan by his boss, so jialat._
-
-He was 'lucky' to be scolded by his boss today, seeming very much in trouble.
 
 Thanks to nationwide language education campaigns, most younger Singaporeans are, however, capable of speaking what the government calls "good English" when necessary. To avoid unintentional offence, it's best to start off with standard English and shift to simplified pidgin only if it becomes evident that the other person cannot follow you. Try to resist the temptation to sprinkle your speech with unnecessary Singlish words. You'll get a laugh if you do it right, but it sounds patronising if you do it wrong.
 
@@ -1531,15 +260,6 @@ The official Chinese script used in Singapore is the simplified script used in m
 
 Foreign films and television series are usually available in both the original version and English- or Mandarin-dubbed. The main exception is those in Chinese dialects, which are required by law to be dubbed into Mandarin before they can be shown in Singapore, though limited arthouse screenings of the original dialect versions are sometimes available. If you want to watch the original dialect versions, you will usually need to head across the border into Johor Bahru.
 
-Get in
-------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=15 "Edit section: Get in")\]
-
-### Immigration
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=16 "Edit section: Immigration")\]
-
 All visitors to Singapore must have a passport that is valid for at least **6 months** from their date of arrival.
 
 Citizens of [Australia](https://en.wikivoyage.org/wiki/Australia "Australia"), the [European Union](https://en.wikivoyage.org/wiki/European_Union "European Union"), [New Zealand](https://en.wikivoyage.org/wiki/New_Zealand "New Zealand"), [Norway](https://en.wikivoyage.org/wiki/Norway "Norway"), [Japan](https://en.wikivoyage.org/wiki/Japan "Japan"), [South Korea](https://en.wikivoyage.org/wiki/South_Korea "South Korea"), [Switzerland](https://en.wikivoyage.org/wiki/Switzerland "Switzerland") the [United Kingdom](https://en.wikivoyage.org/wiki/United_Kingdom "United Kingdom") and the [United States](https://en.wikivoyage.org/wiki/United_States "United States") do not need a [visa](https://en.wikivoyage.org/wiki/Visa "Visa") for stays of 90 days or less.
@@ -1548,7 +268,7 @@ Holders of a valid APEC Business Travel Card (ABTC) may visit Singapore for up t
 
 Citizens of **most other countries** can stay without a visa for 30 days or less, so that's the case if your country is not named here.
 
-Citizens of the following countries have to apply for a visa in advance, and can do so [online](https://eservices.ica.gov.sg/esvclandingpage/save), through a local contact in Singapore or at a Singaporean embassy or consulate: [Afghanistan](https://en.wikivoyage.org/wiki/Afghanistan "Afghanistan"), [Algeria](https://en.wikivoyage.org/wiki/Algeria "Algeria"), [Armenia](https://en.wikivoyage.org/wiki/Armenia "Armenia"), [Azerbaijan](https://en.wikivoyage.org/wiki/Azerbaijan "Azerbaijan"), [Bangladesh](https://en.wikivoyage.org/wiki/Bangladesh "Bangladesh"), [Belarus](https://en.wikivoyage.org/wiki/Belarus "Belarus"), [Egypt](https://en.wikivoyage.org/wiki/Egypt "Egypt"), [Georgia](https://en.wikivoyage.org/wiki/Georgia_(country) "Georgia (country)"), [India](https://en.wikivoyage.org/wiki/India "India"), [Iran](https://en.wikivoyage.org/wiki/Iran "Iran"), [Iraq](https://en.wikivoyage.org/wiki/Iraq "Iraq"), [Jordan](https://en.wikivoyage.org/wiki/Jordan "Jordan"), [Kazakhstan](https://en.wikivoyage.org/wiki/Kazakhstan "Kazakhstan"), [Kosovo](https://en.wikivoyage.org/wiki/Kosovo "Kosovo"), [Lebanon](https://en.wikivoyage.org/wiki/Lebanon "Lebanon"), [Libya](https://en.wikivoyage.org/wiki/Libya "Libya"), [Kyrgyzstan](https://en.wikivoyage.org/wiki/Kyrgyzstan "Kyrgyzstan"), [Mali](https://en.wikivoyage.org/wiki/Mali "Mali"), [Morocco](https://en.wikivoyage.org/wiki/Morocco "Morocco"), [Nigeria](https://en.wikivoyage.org/wiki/Nigeria "Nigeria"), [Moldova](https://en.wikivoyage.org/wiki/Moldova "Moldova"), [North Korea](https://en.wikivoyage.org/wiki/North_Korea "North Korea"), [Pakistan](https://en.wikivoyage.org/wiki/Pakistan "Pakistan"), [Palestine](https://en.wikivoyage.org/wiki/Palestine "Palestine"), [Russia](https://en.wikivoyage.org/wiki/Russia "Russia"), [Somalia](https://en.wikivoyage.org/wiki/Somalia "Somalia"), [South Sudan](https://en.wikivoyage.org/wiki/South_Sudan "South Sudan"), [Sudan](https://en.wikivoyage.org/wiki/Sudan "Sudan"), [Syria](https://en.wikivoyage.org/wiki/Syria "Syria"), [Tajikistan](https://en.wikivoyage.org/wiki/Tajikistan "Tajikistan"), [Tunisia](https://en.wikivoyage.org/wiki/Tunisia "Tunisia"), [Turkmenistan](https://en.wikivoyage.org/wiki/Turkmenistan "Turkmenistan"), [Ukraine](https://en.wikivoyage.org/wiki/Ukraine "Ukraine"), [Uzbekistan](https://en.wikivoyage.org/wiki/Uzbekistan "Uzbekistan"), and [Yemen](https://en.wikivoyage.org/wiki/Yemen "Yemen").
+Citizens of the following countries have to apply for a visa in advance, and can do so [online](https://eservices.ica.gov.sg/esvclandingpage/save), through a local contact in Singapore or at a Singaporean embassy or consulate: [Afghanistan](https://en.wikivoyage.org/wiki/Afghanistan "Afghanistan"), [Algeria](https://en.wikivoyage.org/wiki/Algeria "Algeria"), [Armenia](https://en.wikivoyage.org/wiki/Armenia "Armenia"), [Azerbaijan](https://en.wikivoyage.org/wiki/Azerbaijan "Azerbaijan"), [Bangladesh](https://en.wikivoyage.org/wiki/Bangladesh "Bangladesh"), [Belarus](https://en.wikivoyage.org/wiki/Belarus "Belarus"), [Egypt](https://en.wikivoyage.org/wiki/Egypt "Egypt"), [Georgia](https://en.wikivoyage.org/wiki/Georgia_\(country\) "Georgia (country)"), [India](https://en.wikivoyage.org/wiki/India "India"), [Iran](https://en.wikivoyage.org/wiki/Iran "Iran"), [Iraq](https://en.wikivoyage.org/wiki/Iraq "Iraq"), [Jordan](https://en.wikivoyage.org/wiki/Jordan "Jordan"), [Kazakhstan](https://en.wikivoyage.org/wiki/Kazakhstan "Kazakhstan"), [Kosovo](https://en.wikivoyage.org/wiki/Kosovo "Kosovo"), [Lebanon](https://en.wikivoyage.org/wiki/Lebanon "Lebanon"), [Libya](https://en.wikivoyage.org/wiki/Libya "Libya"), [Kyrgyzstan](https://en.wikivoyage.org/wiki/Kyrgyzstan "Kyrgyzstan"), [Mali](https://en.wikivoyage.org/wiki/Mali "Mali"), [Morocco](https://en.wikivoyage.org/wiki/Morocco "Morocco"), [Nigeria](https://en.wikivoyage.org/wiki/Nigeria "Nigeria"), [Moldova](https://en.wikivoyage.org/wiki/Moldova "Moldova"), [North Korea](https://en.wikivoyage.org/wiki/North_Korea "North Korea"), [Pakistan](https://en.wikivoyage.org/wiki/Pakistan "Pakistan"), [Palestine](https://en.wikivoyage.org/wiki/Palestine "Palestine"), [Russia](https://en.wikivoyage.org/wiki/Russia "Russia"), [Somalia](https://en.wikivoyage.org/wiki/Somalia "Somalia"), [South Sudan](https://en.wikivoyage.org/wiki/South_Sudan "South Sudan"), [Sudan](https://en.wikivoyage.org/wiki/Sudan "Sudan"), [Syria](https://en.wikivoyage.org/wiki/Syria "Syria"), [Tajikistan](https://en.wikivoyage.org/wiki/Tajikistan "Tajikistan"), [Tunisia](https://en.wikivoyage.org/wiki/Tunisia "Tunisia"), [Turkmenistan](https://en.wikivoyage.org/wiki/Turkmenistan "Turkmenistan"), [Ukraine](https://en.wikivoyage.org/wiki/Ukraine "Ukraine"), [Uzbekistan](https://en.wikivoyage.org/wiki/Uzbekistan "Uzbekistan"), and [Yemen](https://en.wikivoyage.org/wiki/Yemen "Yemen").
 
 Citizens of several former Soviet countries (Georgia, Ukraine, and the Commonwealth of Independent States) are eligible for **[visa-free transit](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility)** for up to 96 hours if you have an onward plane ticket to a third country. You may enter Singapore by any mode of transport, but must depart by air. A similar scheme is available for citizens of [India](https://en.wikivoyage.org/wiki/India "India") who have a valid visa or residence permit issued by Australia, Canada, Germany, Japan, New Zealand, Switzerland, the United Kingdom or the United States (Schengen visas issued by other countries do not count), and have an onward plane, ferry or cruise ticket to a third country. Indian citizens visiting Singapore under the scheme may enter Singapore by any mode of transport, but must depart by air or sea.
 
@@ -1564,143 +284,103 @@ Single women from poorer countries planning long stays for tourism may be denied
 
 Males who enter Singapore illegally or who overstay their permits by more than 14 days face a mandatory sentence of at least three strokes of the cane.
 
-### Customs
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=17 "Edit section: Customs")\]
-
 Singapore has **very strict drug laws**, and drug trafficking carries a mandatory death penalty that is applied to everyone including foreigners. Even if you are only on [sterile transit](https://en.wikivoyage.org/wiki/Sterile_transit "Sterile transit") while in possession of drugs, you would still be subject to Singaporean law and capital punishment. **Poppy seeds** are also prohibited, as they contain morphine and are hence classified as a controlled substance. A positive urine test or a positive swab test of your belongings is sufficient grounds for you to be denied entry to Singapore and deported, even if no drugs are found in your possession.
 
 Bringing in explosives or [firearms](https://en.wikivoyage.org/wiki/Firearms#Singapore "Firearms") without a permit is also a capital offense in Singapore. The importation of some types of weapons such as shuriken, nunchaku, switchblade knives, butterfly knives and chain whips is prohibited, and permits to import these will not be issued under any circumstances. In general, do not bring any type of weapon into Singapore.
 
 Bring prescriptions for any **prescribed medicines** you may have with you. If you are bringing in more than 3 months' supply of any medication or if you are bringing in any sedatives (e.g. Valium/diazepam), strong painkillers (e.g. codeine ingredients), or cannabidiol (CBD)-containing medication you need to apply to the [Singapore Health Sciences Authority](https://www.hsa.gov.sg/travelling-with-medication-and-medical-devices/personal-medications/) for approval at least 10 working days before your expected arrival in Singapore.
 
-Duty free allowances for alcohol are one litre each of wine, beer and spirits, though the 1 L (34 U.S. fl oz) of spirits may be replaced with 1 L of wine or beer. Travellers entering from Malaysia are not entitled to any duty free allowance. Alcohol may not be brought in by persons under the age of 18. You _cannot_ bring **tobacco products** such as cigarettes and e-cigarettes (vapes) into Singapore; failure to declare and dispose of them at customs could potentially result in hefty fines and imprisonment. Importing non-medical **chewing gum** is illegal, but customs officers would usually not bother with a few sticks for personal consumption.
+Duty free allowances for alcohol are one litre each of wine, beer and spirits, though the 1 L (34 U.S. fl oz) of spirits may be replaced with 1 L of wine or beer. Travellers entering from Malaysia are not entitled to any duty free allowance. Alcohol may not be brought in by persons under the age of 18. You _cannot_ bring **tobacco products** such as cigarettes and e-cigarettes (vapes) into Singapore; failure to declare and dispose of them at customs could potentially result in hefty fines and imprisonment. Importing non-medical **chewing gum** is illegal, but customs officers would usually not bother with a few sticks for personal consumption.
 
 There is no restriction on the amount of money that can be brought in or out of Singapore. However, you are required to declare to customs if you are carrying more than $20,000 or its equivalent in foreign currency in or out of Singapore. The declaration can be made when you are filling in your Singapore Arrival Card, or through [this website](https://eservices5.police.gov.sg/e727/CBNIForm). Not declaring exposes you to arrest, heavy fines and possible imprisonment.
 
 **Pornography**, **pirated goods**, and **religious publications** by the Jehovah's Witnesses and the Unification Church may not be imported to Singapore, and all baggage is scanned at land and sea entry points. In theory, all entertainment media including movies and video games must be sent to the Board of Censors for approval before they can be brought into Singapore, but that is rarely if ever enforced for original (non-pirated, non-copied) goods, and it's very unlikely that your hard drives will be searched.
 
-### By plane
+Singapore is one of Southeast Asia's largest aviation hubs, so unless you're coming from [Peninsular Malaysia](https://en.wikivoyage.org/wiki/Peninsular_Malaysia "Peninsular Malaysia") or [Batam](https://en.wikivoyage.org/wiki/Batam "Batam")/[Bintan](https://en.wikivoyage.org/wiki/Bintan "Bintan") in Indonesia, the easiest way to enter Singapore is by air. In addition to its flag-carrier, **[Singapore Airlines](https://www.singaporeair.com/)**, regarded as one of the world's best airlines in terms of customer service, Singapore is also home to low-cost carrier **[Scoot](https://www.flyscoot.com/)**.
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=18 "Edit section: By plane")\]
+In addition to the locals, every carrier of any size in Asia offers flights to Singapore, with pan-Asian discount carrier **[AirAsia](https://www.airasia.com/en/gb)** operating a dense network from Singapore. There are also nonstop services to Europe, the Middle East, Australia, New Zealand, North America, and South Africa. Singapore is particularly popular on the "Kangaroo Route" between Australia and Europe, with **[Qantas](https://www.qantas.com/)** and **[British Airways](https://www.britishairways.com/)** using Singapore as their refuelling stop between London and Sydney.
 
-Singapore is one of Southeast Asia's largest aviation hubs, so unless you're coming from [Peninsular Malaysia](https://en.wikivoyage.org/wiki/Peninsular_Malaysia "Peninsular Malaysia") or [Batam](https://en.wikivoyage.org/wiki/Batam "Batam")/[Bintan](https://en.wikivoyage.org/wiki/Bintan "Bintan") in Indonesia, the easiest way to enter Singapore is by air. In addition to its flag-carrier, **[Singapore Airlines](https://www.singaporeair.com)**, regarded as one of the world's best airlines in terms of customer service, Singapore is also home to low-cost carrier **[Scoot](https://www.flyscoot.com)**.
+In addition to the local airports, travellers from Malaysia or Indonesia can consider flying into [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") (**[JHB](https://en.wikivoyage.org/wiki/Johor_Bahru#By_plane "Johor Bahru")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")), [Batam](https://en.wikivoyage.org/wiki/Batam "Batam") (**[BTH](https://en.wikivoyage.org/wiki/Batam#By_plane "Batam")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) or [Tanjung Pinang](https://en.wikivoyage.org/wiki/Tanjung_Pinang "Tanjung Pinang") (**[TNJ](https://en.wikivoyage.org/wiki/Tanjung_Pinang#By_plane "Tanjung Pinang")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) instead, as flights to those airports are usually cheaper than to Changi or Seletar. The downside is that you'll have to pass through customs and immigration twice, and there are no direct public transportation links between those airports and Singapore, meaning that you will have to arrange your own transportation. If you have a lot of time, flying to [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur") (**[KUL](https://en.wikivoyage.org/wiki/Kuala_Lumpur_International_Airport#By_plane "Kuala Lumpur International Airport")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")), which is served by more destinations than the aforementioned three airports, can also save you some money. Coaches from Kuala Lumpur to Singapore take about 5 hours.
 
-In addition to the locals, every carrier of any size in Asia offers flights to Singapore, with pan-Asian discount carrier **[AirAsia](https://www.airasia.com/en/gb)** operating a dense network from Singapore. There are also nonstop services to Europe, the Middle East, Australia, New Zealand, North America, and South Africa. Singapore is particularly popular on the "Kangaroo Route" between Australia and Europe, with **[Qantas](https://www.qantas.com)** and **[British Airways](https://www.britishairways.com)** using Singapore as their refuelling stop between London and Sydney.
-
-In addition to the local airports, travellers from Malaysia or Indonesia can consider flying into [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") (**[JHB](https://en.wikivoyage.org/wiki/Johor_Bahru#By_plane "Johor Bahru")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")), [Batam](https://en.wikivoyage.org/wiki/Batam "Batam") (**[BTH](https://en.wikivoyage.org/wiki/Batam#By_plane "Batam")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) or [Tanjung Pinang](https://en.wikivoyage.org/wiki/Tanjung_Pinang "Tanjung Pinang") (**[TNJ](https://en.wikivoyage.org/wiki/Tanjung_Pinang#By_plane "Tanjung Pinang")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) instead, as flights to those airports are usually cheaper than to Changi or Seletar. The downside is that you'll have to pass through customs and immigration twice, and there are no direct public transportation links between those airports and Singapore, meaning that you will have to arrange your own transportation. If you have a lot of time, flying to [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur") (**[KUL](https://en.wikivoyage.org/wiki/Kuala_Lumpur_International_Airport#By_plane "Kuala Lumpur International Airport")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")), which is served by more destinations than the aforementioned three airports, can also save you some money. Coaches from Kuala Lumpur to Singapore take about 5 hours.
-
-#### Changi Airport
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=19 "Edit section: Changi Airport")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Jewel_Changi%2C_Singapore_2023_36.jpg/250px-At_Jewel_Changi%2C_Singapore_2023_36.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:At_Jewel_Changi,_Singapore_2023_36.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Jewel_Changi%2C_Singapore_2023_36.jpg/250px-At_Jewel_Changi%2C_Singapore_2023_36.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:At_Jewel_Changi,_Singapore_2023_36.jpg)
 
 The HSBC Rain Vortex at Jewel Changi Airport
 
 _Main article: [Singapore Changi Airport](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport "Singapore Changi Airport")_
 
-.mw-parser-output .listing-coordinates{display:none}.mw-parser-output .listing-name{font-weight:bold}.mw-parser-output a.mw-kartographer-maplink.mw-kartographer-autostyled.mw-kartographer-link{border:1px solid #FFF}@media screen{html.skin-theme-clientpref-night .mw-parser-output .listing-external-url{filter:invert(1)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .listing-external-url{filter:invert(1)}}1.3573103.9885[1](/wiki/Special:Map/17/1.3573/103.9885/en)MISSING WIKILINK [Changi Airport](https://www.changiairport.com/) (**[SIN](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport#By_plane "Singapore Changi Airport")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) is the main airport and serves all commercial jet flights. It regularly shows up in "Best Airport" rankings and is big, pleasant, and well-organised, with remarkably fast immigration and baggage distribution. The airport is split into four main terminals (T1, T2, T3 and T4). At landslide, there is also an indoor shopping mall, called Jewel Changi Airport, which is essentially an indoor park and features the famous Rain Vortex at the centre, which is a good place to hang out for a few hours before your flight.
+1.3573103.9885[1](https://en.wikivoyage.org/wiki/Special:Map/17/1.3573/103.9885/en)MISSING WIKILINK [Changi Airport](https://www.changiairport.com/) (**[SIN](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport#By_plane "Singapore Changi Airport")** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) is the main airport and serves all commercial jet flights. It regularly shows up in "Best Airport" rankings and is big, pleasant, and well-organised, with remarkably fast immigration and baggage distribution. The airport is split into four main terminals (T1, T2, T3 and T4). At landslide, there is also an indoor shopping mall, called Jewel Changi Airport, which is essentially an indoor park and features the famous Rain Vortex at the centre, which is a good place to hang out for a few hours before your flight.
 
 Grab/Gojek rideshare or taxis are the fastest way to the city, and will cost about $20–30 including a $5 airport surcharge ($3 for off-peak hours). An additional 50% surcharge applies 1–6AM. On the MRT, it takes about 45 minutes to town with an easy cross-platform transfer at Tanah Merah. Visitors will need to use a credit/debit card or purchase an EZ-link card at the ticket office to travel within the MRT network (see [#Fares](#Fares), below). An adult fare to City Hall costs $2.30, with trains running from approximately 5:30 am (6 am on Sundays and public holidays) to 11:15 pm for connecting trains to the city at Tanah Merah (the actual last train departs just after midnight, but you won't be able to transfer to a city-bound train). See [Singapore Changi Airport](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport "Singapore Changi Airport") for the full scoop.
 
-#### Seletar Airport
+1.416944103.867778[2](https://en.wikivoyage.org/wiki/Special:Map/17/1.416944/103.867778/en) [Seletar Airport](https://www.seletarairport.com/) [![Seletar Airport on Wikipedia](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Seletar_Airport "Seletar Airport on Wikipedia") (**XSP**  [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) serves all turboprop flights and [general aviation](https://en.wikivoyage.org/wiki/General_aviation "General aviation"). Completed in 1928 and first used for civil aviation in 1930, it was Singapore's first airport. The only commercial flights to Seletar are [Firefly](https://www.fireflyz.com.my/my/en/home.html) services from [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur")'s Subang Airport (a smaller airport closer to the city centre, not the main international airport of Kuala Lumpur) and [Berjaya](https://flight.berjayahotel.com/)'s "scheduled charters" to [Redang](https://en.wikivoyage.org/wiki/Redang "Redang"). Bus 102 runs from Hougang MRT (North-East Line) directly to the airport, but most travellers opt for a taxi instead. A $3 surcharge applies for trips from the airport.
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=20 "Edit section: Seletar Airport")\]
-
-1.416944103.867778[2](/wiki/Special:Map/17/1.416944/103.867778/en) [Seletar Airport](https://www.seletarairport.com/) [![Seletar Airport on Wikipedia](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Seletar_Airport "Seletar Airport on Wikipedia") (**XSP ** [IATA](https://en.wikivoyage.org/wiki/IATA "IATA")) serves all turboprop flights and [general aviation](https://en.wikivoyage.org/wiki/General_aviation "General aviation"). Completed in 1928 and first used for civil aviation in 1930, it was Singapore's first airport. The only commercial flights to Seletar are [Firefly](https://www.fireflyz.com.my/my/en/home.html) services from [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur")'s Subang Airport (a smaller airport closer to the city centre, not the main international airport of Kuala Lumpur) and [Berjaya](https://flight.berjayahotel.com/)'s "scheduled charters" to [Redang](https://en.wikivoyage.org/wiki/Redang "Redang"). Bus 102 runs from Hougang MRT (North-East Line) directly to the airport, but most travellers opt for a taxi instead. A $3 surcharge applies for trips from the airport.
-
-### By train
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=21 "Edit section: By train")\]
-
-The _[Shuttle Tebrau](https://shuttleonline.ktmb.com.my/Home/Shuttle)_, operated by Malaysia's **Keretapi Tanah Melayu** (KTMB), connects 1.443889103.769167[3](/wiki/Special:Map/17/1.443889/103.769167/en) Woodlands Train Checkpoint [![Woodlands Train Checkpoint on Wikipedia](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Woodlands_Train_Checkpoint "Woodlands Train Checkpoint on Wikipedia") , the last Singaporean railway station, with [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") at JB Sentral station, after the closure of Tanjong Pagar railway station. One-way tickets originating in Singapore costs $5 while the reverse costs RM5. From Woodlands, immigration formalities for both countries are carried out before boarding. From Johor Bahru, Malaysian immigration checks are conducted at JB Sentral before boarding, and Singapore immigration checks upon arrival at Woodlands. Taking immigration into account, allow 30-60 minutes for the full journey. This service is expected to be terminated after a new cross-border rapid transit link opens in 2027.
+The _[Shuttle Tebrau](https://shuttleonline.ktmb.com.my/Home/Shuttle)_, operated by Malaysia's **Keretapi Tanah Melayu** (KTMB), connects 1.443889103.769167[3](https://en.wikivoyage.org/wiki/Special:Map/17/1.443889/103.769167/en) Woodlands Train Checkpoint [![Woodlands Train Checkpoint on Wikipedia](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Woodlands_Train_Checkpoint "Woodlands Train Checkpoint on Wikipedia") , the last Singaporean railway station, with [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") at JB Sentral station, after the closure of Tanjong Pagar railway station. One-way tickets originating in Singapore costs $5 while the reverse costs RM5. From Woodlands, immigration formalities for both countries are carried out before boarding. From Johor Bahru, Malaysian immigration checks are conducted at JB Sentral before boarding, and Singapore immigration checks upon arrival at Woodlands. Taking immigration into account, allow 30-60 minutes for the full journey. This service is expected to be terminated after a new cross-border rapid transit link opens in 2027.
 
 Shuttle trains leave at irregular intervals throughout the day. Check the [timetable](https://www.ktmb.com.my/TrainTime.html). Tickets are released for sale 6 months in advance and **sell out quickly**, especially towards Singapore on weekday mornings and towards JB on weekday evenings, when commuters snap up seats.
 
 On the _Shuttle Tebaru_, your passport is your ticket, which is different from other KTMB services where tickets with QR codes are sold instead. For travel from JB Sentral, there are turnstiles installed at the departure gate (Gate A); scan your passport to open the turnstile. For travel from Woodlands, your passport will be manually scanned by KTMB staff before being allowed to clear immigration. For trains beyond Johor Bahru, see [Johor Bahru#By train](https://en.wikivoyage.org/wiki/Johor_Bahru#By_train "Johor Bahru") and [Malaysia#By train](https://en.wikivoyage.org/wiki/Malaysia#By_train "Malaysia") for details.
 
-Don’t confuse Woodlands Train Checkpoint with 1.437094103.786483[4](/wiki/Special:Map/17/1.437094/103.786483/en) Woodlands MRT station [![Woodlands MRT station on Wikipedia](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Woodlands_MRT_station "Woodlands MRT station on Wikipedia") . Take a bus from Kranji, Marsiling or Woodlands MRT to Woodlands _Train_ Checkpoint (not Woodlands Checkpoint), and double-check with the driver since they've been known to skip the train stop in heavy traffic.
+Don’t confuse Woodlands Train Checkpoint with 1.437094103.786483[4](https://en.wikivoyage.org/wiki/Special:Map/17/1.437094/103.786483/en) Woodlands MRT station [![Woodlands MRT station on Wikipedia](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Woodlands_MRT_station "Woodlands MRT station on Wikipedia") . Take a bus from Kranji, Marsiling or Woodlands MRT to Woodlands _Train_ Checkpoint (not Woodlands Checkpoint), and double-check with the driver since they've been known to skip the train stop in heavy traffic.
 
-### By boat
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=22 "Edit section: By boat")\]
-
-Ferries link Singapore with the neighbouring [Indonesian](https://en.wikivoyage.org/wiki/Indonesia "Indonesia") province of [Riau Islands](https://en.wikivoyage.org/wiki/Riau_Islands "Riau Islands"), and the [Malaysian](https://en.wikivoyage.org/wiki/Malaysia "Malaysia") state of [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). Singapore has two terminals that handle international ferries: 1.26394103.82079[5](/wiki/Special:Map/17/1.26394/103.82079/en) [HarbourFront](https://en.wikipedia.org/wiki/HarbourFront_(Singapore)) near [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") and 1.31405103.98872[6](/wiki/Special:Map/17/1.31405/103.98872/en) Tanah Merah near [Changi Airport](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport "Singapore Changi Airport").
+Ferries link Singapore with the neighbouring [Indonesian](https://en.wikivoyage.org/wiki/Indonesia "Indonesia") province of [Riau Islands](https://en.wikivoyage.org/wiki/Riau_Islands "Riau Islands"), and the [Malaysian](https://en.wikivoyage.org/wiki/Malaysia "Malaysia") state of [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). Singapore has two terminals that handle international ferries: 1.26394103.82079[5](https://en.wikivoyage.org/wiki/Special:Map/17/1.26394/103.82079/en) [HarbourFront](https://en.wikipedia.org/wiki/HarbourFront_\(Singapore\)) near [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") and 1.31405103.98872[6](https://en.wikivoyage.org/wiki/Special:Map/17/1.31405/103.98872/en) Tanah Merah near [Changi Airport](https://en.wikivoyage.org/wiki/Singapore_Changi_Airport "Singapore Changi Airport").
 
 HarbourFront Ferry Terminal is located inside HarbourFront Centre shopping mall, not to be confused with the adjoining VivoCity. Alight at HarbourFront MRT station.
 
 Tanah Merah Ferry Terminal is located south of Changi Airport. Alight at Tanah Merah MRT station and proceed to Exit B. From there, take bus 35/35M to the ferry terminal. Alternatively, alight at Bedok MRT station and proceed to the adjacent Bedok Bus Interchange, where the two bus services originate from. If you are arriving _at_ Tanah Merah Ferry Terminal, getting a taxi can be very difficult due to the remote location and 200 other people hailing them simultaneously; it's often faster to take bus 35/M a few stops to the nearest MRT station and try your luck there. If you are arriving on a weekday and hence taking the 35, check the destination carefully. The bus calls twice in its route at the ferry terminal and visitors must pre-register to enter the logistics park ALPS. A shuttle service also connects Tanah Merah Ferry Terminal with Changi Airport, costing $4 each way.
 
-#### From Indonesia
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=23 "Edit section: From Indonesia")\]
-
 Ferries to Indonesia are operated by an ever-changing cast of operators with constantly changing schedules. The Singapore Cruise Centre maintains a [real-time schedule service](https://singaporecruise.com.sg/schedule/ferries/) showing services that can be helpful for ferreting out what is operating.
 
 **From [Batam](https://en.wikivoyage.org/wiki/Batam "Batam"):** Ferries from [Batu Ampar](https://en.wikivoyage.org/wiki/Batu_Ampar "Batu Ampar"), [Sekupang](https://en.wikivoyage.org/wiki/Sekupang "Sekupang") and [Waterfront City](https://en.wikivoyage.org/wiki/Waterfront_City "Waterfront City") ([Teluk Senimba](https://en.wikivoyage.org/wiki/Teluk_Senimba "Teluk Senimba")) use **HarbourFront** Ferry Terminal. Ferries from [Nongsapura](https://en.wikivoyage.org/wiki/Nongsapura "Nongsapura") use **Tanah Merah** Ferry Terminal. Ferries from Batam Centre use both ferry terminals.
 
-*   .mw-parser-output .listing-directions{font-style:italic}.mw-parser-output .listing-phone-symbol{text-decoration:none}.mw-parser-output .listing-tollfree-symbol{text-decoration:none}.mw-parser-output .listing-metadata{font-size:0.8em}.mw-parser-output .listing-lastedit{color:rgb(150,150,150)}.mw-parser-output .vcard a.external,.mw-parser-output .vcard a.external:visited{color:var(--color-base,#252525)}.mw-parser-output .vcard a.external:hover,.mw-parser-output .vcard a.external:focus{color:var(--color-base--hover,#0645ad)} [Indo Falcon](https://www.indofalcon.com.sg/), ☏ [+65 6278 3167](tel:+6562783167). Hourly ferries to Batam Centre, fewer to Waterfront City. This company does not operate from Sekupang. Similar fares. (updated Sep 2026)
+*   [Indo Falcon](https://www.indofalcon.com.sg/), ☏ [+65 6278 3167](tel:+6562783167). Hourly ferries to Batam Centre, fewer to Waterfront City. This company does not operate from Sekupang. Similar fares. (updated Sep 2026)
 
-*    [Horizon Fast Ferry](https://horizonfastferry.com.sg/), ☏ [+65 6276 6711](tel:+6562766711). Operates 16 trips from Harbour Bay Ferry Terminal and Batu Ampar. Fares are similar to the other companies. $32/48 one-way/round-trip, including terminal fees. (updated Sep 2026)
-*    [Dino/Batam Fast](https://www.batamfast.com/home/index.ashx), ☏ [+65 6270 0311](tel:+6562700311) (in Harbourfront), [+62 778 467793](tel:+62778467793) (in Batam Centre), [+62 778 470344](tel:+62778470344) (in Batam Centre), [+62 778 325085](tel:+62778325085) (in Sekupang), [+62 778 3250856](tel:+627783250856) (in Sekupang), [+62 778 381150](tel:+62778381150) (in Waterfront City). Also hourly ferries from Harbour Bay Ferry terminal, fewer ferries from Sekupang and Waterfront City. $19-25 one-way, $39-50 round-trip including fees (lower prices for late night departures, higher prices for peak times). (updated Sep 2026)
-*    [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $49 two-way including fees (depending on departure time). (updated Sep 2026)
-*    [Sindo Ferry](https://www.sindoferry.com.sg/), ☏ [+62 778 465 55](tel:+6277846555), [btc@sindoferry.com.sg](mailto:btc@sindoferry.com.sg). (updated Sep 2026)
+*   [Horizon Fast Ferry](https://horizonfastferry.com.sg/), ☏ [+65 6276 6711](tel:+6562766711). Operates 16 trips from Harbour Bay Ferry Terminal and Batu Ampar. Fares are similar to the other companies. $32/48 one-way/round-trip, including terminal fees. (updated Sep 2026)
+*   [Dino/Batam Fast](https://www.batamfast.com/home/index.ashx), ☏ [+65 6270 0311](tel:+6562700311) (in Harbourfront), [+62 778 467793](tel:+62778467793) (in Batam Centre), [+62 778 470344](tel:+62778470344) (in Batam Centre), [+62 778 325085](tel:+62778325085) (in Sekupang), [+62 778 3250856](tel:+627783250856) (in Sekupang), [+62 778 381150](tel:+62778381150) (in Waterfront City). Also hourly ferries from Harbour Bay Ferry terminal, fewer ferries from Sekupang and Waterfront City. $19-25 one-way, $39-50 round-trip including fees (lower prices for late night departures, higher prices for peak times). (updated Sep 2026)
+*   [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $49 two-way including fees (depending on departure time). (updated Sep 2026)
+*   [Sindo Ferry](https://www.sindoferry.com.sg/), ☏ [+62 778 465 55](tel:+6277846555), [btc@sindoferry.com.sg](mailto:btc@sindoferry.com.sg).  (updated Sep 2026)
 
-*    [Batam Fast](https://www.batamfast.com/home/index.ashx), ☏ [+65 6270 0311](tel:+6562700311) (Singapore), [+62 778 761071](tel:+62778761071) (in Nongsa). Ferries to multiple locations on Batam $19-25 one-way, $39-50 round-trip including fees (lower prices for late night departures, higher prices for peak times). (updated Sep 2026)
-*    [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $19-25 one-way including fees (higher mid-day, lower mornings and evenings). (updated Sep 2026)
-*    [Sindo Ferry](https://www.sindoferry.com.sg/), ☏ [+65 6331 4122](tel:+6563314122), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg). (updated Sep 2026)
+*   [Batam Fast](https://www.batamfast.com/home/index.ashx), ☏ [+65 6270 0311](tel:+6562700311) (Singapore), [+62 778 761071](tel:+62778761071) (in Nongsa). Ferries to multiple locations on Batam $19-25 one-way, $39-50 round-trip including fees (lower prices for late night departures, higher prices for peak times). (updated Sep 2026)
+*   [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $19-25 one-way including fees (higher mid-day, lower mornings and evenings). (updated Sep 2026)
+*   [Sindo Ferry](https://www.sindoferry.com.sg/), ☏ [+65 6331 4122](tel:+6563314122), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg).  (updated Sep 2026)
 
 **From [Bintan](https://en.wikivoyage.org/wiki/Bintan "Bintan"):** Ferries from Bintan use **Tanah Merah** Ferry Terminal. For [Tanjung Pinang](https://en.wikivoyage.org/wiki/Tanjung_Pinang "Tanjung Pinang"), there are four or five departures per day at $30 one-way including taxes and surcharges.
 
-*    [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $31 one-way including fees. (updated Sep 2026)
-*    [Sindo Ferry](https://www.sindoferry.com.sg/), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg). $27-29 one way including fees (promo and normal fares). (updated Sep 2026)
+*   [Majestic Fast Ferry](https://www.majesticfastferry.com.sg/). $31 one-way including fees. (updated Sep 2026)
+*   [Sindo Ferry](https://www.sindoferry.com.sg/), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg). $27-29 one way including fees (promo and normal fares). (updated Sep 2026)
 
-*    [Bintan Resort Ferries](https://www.brf.com.sg/), ☏ [+65 6542 4369](tel:+6565424369). operates five ferries from Tanah Merah FT on weekdays, increasing to 7 during weekends. $34.60/50.20 one-way/return peak period, $26.60/39.20 one-way/return off-peak including taxes and fuel surcharge.. (updated Sep 2026)
+*   [Bintan Resort Ferries](https://www.brf.com.sg/), ☏ [+65 6542 4369](tel:+6565424369). operates five ferries from Tanah Merah FT on weekdays, increasing to 7 during weekends. $34.60/50.20 one-way/return peak period, $26.60/39.20 one-way/return off-peak including taxes and fuel surcharge.. (updated Sep 2026)
 
 **From [Karimun](https://en.wikivoyage.org/wiki/Karimun "Karimun"):** Ferries from Karimun use **HarbourFront** Ferry Terminal. For [Tanjung Balai](https://en.wikivoyage.org/wiki/Tanjung_Balai "Tanjung Balai"), there is one daily departure _on even days only_ at $50 one-way including taxes and surcharges.
 
-*    [Sindo Ferry](https://www.sindoferry.com.sg/), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg). $27-29 one way including fees (promo and normal fares). (updated Sep 2026)
-
-#### From Malaysia
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=24 "Edit section: From Malaysia")\]
+*   [Sindo Ferry](https://www.sindoferry.com.sg/), [tmft@sindoferry.com.sg](mailto:tmft@sindoferry.com.sg). $27-29 one way including fees (promo and normal fares). (updated Sep 2026)
 
 Ferries to Malaysia are surprisingly limited. In particular, there are no services at all to [Borneo](https://en.wikivoyage.org/wiki/Borneo "Borneo"). The on-demand "bumboats" that used to shuttle between Changi Point and Pengerang no longer operate.
 
 **From [Johor:](https://en.wikivoyage.org/wiki/Johor "Johor")** Ferries from Johor use **Tanah Merah** Ferry Terminal.
 
-*    [Batam Fast](https://www.batamfast.com/home/index.ashx). Ferry services from Tanah Merah Ferry Terminal to [Desaru](https://en.wikivoyage.org/wiki/Desaru "Desaru") Coast Ferry Terminal and Tg Pengelih in [Pengerang](https://en.wikivoyage.org/wiki/Pengerang "Pengerang"), [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). (updated Sep 2026)
-
-#### Cruises
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=25 "Edit section: Cruises")\]
+*   [Batam Fast](https://www.batamfast.com/home/index.ashx). Ferry services from Tanah Merah Ferry Terminal to [Desaru](https://en.wikivoyage.org/wiki/Desaru "Desaru") Coast Ferry Terminal and Tg Pengelih in [Pengerang](https://en.wikivoyage.org/wiki/Pengerang "Pengerang"), [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). (updated Sep 2026)
 
 Singapore is a popular stop for round-the-world and major regional cruises. Many of those cruises embark/disembark passengers here during all-day or over-night port visits, while others stop for perhaps just a day. Check with cruise companies and sellers for details. Cruise ships use the Singapore Cruise Centre (which HarbourFront Ferry Terminal is part of) and the Marina Bay Cruise Centre.
 
-### By bus
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=26 "Edit section: By bus")\]
-
 There are long-distance coaches from [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur") and many other destinations in Malaysia through the Woodlands Checkpoint and the Second Link at Tuas, and even from as far as [Hat Yai](https://en.wikivoyage.org/wiki/Hat_Yai "Hat Yai") in [Thailand](https://en.wikivoyage.org/wiki/Thailand "Thailand"). Coaches to Singapore take about 3 hours from [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca"), 5 hours from Kuala Lumpur, 10 hours from [Penang](https://en.wikivoyage.org/wiki/Penang "Penang") and 13 hours from Hat Yai. There is no central bus terminal and different companies leave from all over the city. Major operators include:
 
-*    [Aeroline](https://www.aeroline.com.sg/), ☏ [+65 6258 8800](tel:+6562588800). Luxury buses with meal on-board, power sockets, lounge area etc, to Kuala Lumpur and [Petaling Jaya](https://en.wikivoyage.org/wiki/Petaling_Jaya "Petaling Jaya"). Departures from HarbourFront Centre. From $47 one-way. (updated Sep 2026)
-*    [First Coach](https://www.firstcoach.com.my/), ☏ [+65 6822 2111](tel:+6568222111). No frills, but the buses have good legroom and use the Second Link. Another selling point is convenient public transport: buses depart from Novena Square (Novena MRT) in Singapore and arrive right next to (KJ 16) Bangsar LRT in Kuala Lumpur. $33/55 single/return. (updated Sep 2026)
-*    [NiCE](https://www.transnasional.com.my/), ☏ [+65 6256 5755](tel:+6562565755). Over 20 daily departures from Copthorne Orchid Hotel on Dunearn Rd to Kuala Lumpur's old railway station. Double-decker NiCE 2 buses (27 seats) RM80, luxury NiCE++ buses (18 seats) RM88. (updated Sep 2026)
-*    [Transnasional](https://www.transnasional.com.my/), ☏ [+60 2 6294 7034](tel:+60262947034) (Malaysia). Malaysia's largest bus operator, offers direct buses from Singapore through the peninsula. Departures from Lavender St. Executive/economy buses RM80/35. (updated Sep 2026)
-*    [Transtar](https://www.transtar.com.sg/), ☏ [+65 6299 9009](tel:+6562999009). Transtar's sleeper-equipped Solitaire ($63) and leather-seated First Class ($49) coaches offer frills like massaging chairs, onboard attendants, video on demand and even Wi-Fi. More plebeian SuperVIP/Executive buses are $25/39, direct service to [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca") and [Genting](https://en.wikivoyage.org/wiki/Genting "Genting") also available. Departures from Golden Mile Complex, Beach Rd (near Lavender MRT). (updated Sep 2026)
+*   [Aeroline](https://www.aeroline.com.sg/), ☏ [+65 6258 8800](tel:+6562588800). Luxury buses with meal on-board, power sockets, lounge area etc, to Kuala Lumpur and [Petaling Jaya](https://en.wikivoyage.org/wiki/Petaling_Jaya "Petaling Jaya"). Departures from HarbourFront Centre. From $47 one-way. (updated Sep 2026)
+*   [First Coach](https://www.firstcoach.com.my/), ☏ [+65 6822 2111](tel:+6568222111). No frills, but the buses have good legroom and use the Second Link. Another selling point is convenient public transport: buses depart from Novena Square (Novena MRT) in Singapore and arrive right next to (KJ 16) Bangsar LRT in Kuala Lumpur. $33/55 single/return. (updated Sep 2026)
+*   [NiCE](https://www.transnasional.com.my/), ☏ [+65 6256 5755](tel:+6562565755). Over 20 daily departures from Copthorne Orchid Hotel on Dunearn Rd to Kuala Lumpur's old railway station. Double-decker NiCE 2 buses (27 seats) RM80, luxury NiCE++ buses (18 seats) RM88. (updated Sep 2026)
+*   [Transnasional](https://www.transnasional.com.my/), ☏ [+60 2 6294 7034](tel:+60262947034) (Malaysia). Malaysia's largest bus operator, offers direct buses from Singapore through the peninsula. Departures from Lavender St. Executive/economy buses RM80/35. (updated Sep 2026)
+*   [Transtar](https://www.transtar.com.sg/), ☏ [+65 6299 9009](tel:+6562999009). Transtar's sleeper-equipped Solitaire ($63) and leather-seated First Class ($49) coaches offer frills like massaging chairs, onboard attendants, video on demand and even Wi-Fi. More plebeian SuperVIP/Executive buses are $25/39, direct service to [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca") and [Genting](https://en.wikivoyage.org/wiki/Genting "Genting") also available. Departures from Golden Mile Complex, Beach Rd (near Lavender MRT). (updated Sep 2026)
 
 Most other operators have banded together in three shared booking portals.
 
-*    [redbus](https://www.redbus.sg/), ☏ [+65 3158 2888](tel:+6531582888), [support@redbus.sg](mailto:support@redbus.sg). redBus Singapore includes many destinations bus tickets. (updated Sep 2026)
-*    [Easybook](https://www.easybook.com/en-sg), ☏ [+65 6444 0745](tel:+6564440745). Six bus companies including major budget operator Konsortium. (updated Sep 2026)
-*    [Bus Online Ticket](https://www.busonlineticket.com/). Another six companies, including major operator Fivestars Express, Hasry Express and AirAsia-affiliated StarMart. (updated Sep 2026)
+*   [redbus](https://www.redbus.sg/), ☏ [+65 3158 2888](tel:+6531582888), [support@redbus.sg](mailto:support@redbus.sg). redBus Singapore includes many destinations bus tickets. (updated Sep 2026)
+*   [Easybook](https://www.easybook.com/en-sg), ☏ [+65 6444 0745](tel:+6564440745). Six bus companies including major budget operator Konsortium. (updated Sep 2026)
+*   [Bus Online Ticket](https://www.busonlineticket.com/). Another six companies, including major operator Fivestars Express, Hasry Express and AirAsia-affiliated StarMart. (updated Sep 2026)
 
 In general, the more you pay, the faster and more comfortable your trip. More expensive buses leave on time, use the Second Link, and do not stop along the way; while the cheapest buses may not be punctual, use the perpetually congested Causeway and might make more intercity stops. Book early for popular departure times like Friday evenings (heading from Singapore to Malaysia) and Sunday evenings (heading from Malaysia to Singapore), Chinese New Year, Hari Raya Aidilfitri, etc., and factor in some extra time for the expected congestion at the border; congestion can be assessed from the traffic cameras on the [OneMotoring website](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/traffic_information/traffic-cameras.html).
 
-*   An alternative to taking a direct "international bus", would be making the short hop to [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") and board domestic Malaysian long-distance express buses to various Malaysian destinations from 1.495806103.743[7](/wiki/Special:Map/17/1.495806/103.743/en) Larkin Sentral Bus Terminal [![Larkin Sentral on Wikipedia](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Larkin_Sentral "Larkin Sentral on Wikipedia") in [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru"). Besides having more options, fares are also much lower as you will be paying for a domestic fare in Malaysian ringgit, instead of the identical nominal amount in Singapore dollars. The downside is the time-consuming hassle (at least an additional hour of travelling time) of first getting to Johor Bahru and then getting to Larkin terminal on the outskirts of town. Another downside would also be the lack of domestic bus seats during festive seasons.
+*   An alternative to taking a direct "international bus", would be making the short hop to [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") and board domestic Malaysian long-distance express buses to various Malaysian destinations from 1.495806103.743[7](https://en.wikivoyage.org/wiki/Special:Map/17/1.495806/103.743/en) Larkin Sentral Bus Terminal [![Larkin Sentral on Wikipedia](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Larkin_Sentral "Larkin Sentral on Wikipedia") in [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru"). Besides having more options, fares are also much lower as you will be paying for a domestic fare in Malaysian ringgit, instead of the identical nominal amount in Singapore dollars. The downside is the time-consuming hassle (at least an additional hour of travelling time) of first getting to Johor Bahru and then getting to Larkin terminal on the outskirts of town. Another downside would also be the lack of domestic bus seats during festive seasons.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/9/96/JRJ7790_CW1.jpg/250px-JRJ7790_CW1.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:JRJ7790_CW1.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/JRJ7790_CW1.jpg/250px-JRJ7790_CW1.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:JRJ7790_CW1.jpg)
 
 A Causeway Link bus bound for Kranji MRT
 
@@ -1712,15 +392,11 @@ There are also regular public buses that ply between Johor Bahru and Singapore. 
     *   CW6 runs between Boon Lay in Singapore and Perling Mall in Johor Bahru.
     *   CW7 runs between Tuas Link MRT station and CIQ 2nd Link, where you have to change to a different bus.
 
-EZ-Link is accepted by all Singaporean buses. Meanwhile, Causeway Link buses accept EZ-Link and NETS FlashPay only for buses departing from Singapore, and not in the other direction. ManjaLink cards and cash are accepted for all Causeway Link buses, though they will be phasing out cash payments by October 2026.
+Both Singaporean buses and Causeway Link buses accept Visa and Mastercard. In addition, EZ-Link, American Express, and cash is accepted by all Singaporean buses. Meanwhile, Causeway Link buses accept EZ-Link and NETS FlashPay only for buses departing from Singapore, and not in the other direction. ManjaLink cards are accepted for all Causeway Link buses. Cash onboard Causeway Link buses has been phased out since 20 August 2026.
 
 All buses make two stops at Singapore immigration and at Malaysian immigration. At both immigration points, _you must disembark with all your luggage_ and pass through passport control and customs, then board the next bus by showing your ticket. Expect a minimum of 30 minutes to clear both checkpoints during non-peak periods, with the expectation of an average clearing time of 1 hour during peak periods, 2 hours at the ends of extended holiday periods. There is no need to board the same bus as the one you arrived on, and you can even change bus routes at the immigration bus stops, as long as it is operated by the same company and the fare is the same.
 
-### By taxi
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=27 "Edit section: By taxi")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg/250px-SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg/250px-SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:SIN_Perkhidmatan_Teksi_JB_HJA3136_2023-10-15.jpg)
 
 Johor-Singapore cross border taxi
 
@@ -1730,50 +406,29 @@ Only licensed cross-border taxis can legally travel between Singapore and Malays
 
 Private transfer companies advertise widely on the Internet, offering cheaper fares. These are all illegal and authorities crack down periodically, but it is not a crime to ride one as a passenger.
 
-### By car
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=28 "Edit section: By car")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Empty_Singapore-Malaysia_Causeway.jpg/250px-Empty_Singapore-Malaysia_Causeway.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Empty_Singapore-Malaysia_Causeway.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Empty_Singapore-Malaysia_Causeway.jpg/250px-Empty_Singapore-Malaysia_Causeway.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Empty_Singapore-Malaysia_Causeway.jpg)
 
 The Causeway, with [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") on the other side
 
 Singapore is linked to Peninsular Malaysia by two land crossings:
 
-The 1.4526103.7691[8](/wiki/Special:Map/17/1.4526/103.7691/en) [Causeway](https://en.wikipedia.org/wiki/Johor%E2%80%93Singapore_Causeway) is a very popular and thus terminally congested entry point connecting Woodlands in the north of Singapore directly into the heart of [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru"). By some measures the busiest border crossing in the world, with 350,000 travellers on an _average_ day, the Causeway usually experiences severe congestion on Friday evenings (towards Malaysia), Sunday evenings (towards Singapore) and around extended holiday periods. The Causeway is crossed by trains, buses, taxis, cars and motorcycles. The only reliable way to avoid jams is the train, see [#By train](#By_train), but the most flexible and most popular option is to take one of the many bus services, see [#By bus](#By_bus).
+The 1.4526103.7691[8](https://en.wikivoyage.org/wiki/Special:Map/17/1.4526/103.7691/en) [Causeway](https://en.wikipedia.org/wiki/Johor%E2%80%93Singapore_Causeway) is a very popular and thus terminally congested entry point connecting Woodlands in the north of Singapore directly into the heart of [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru"). By some measures the busiest border crossing in the world, with 350,000 travellers on an _average_ day, the Causeway usually experiences severe congestion on Friday evenings (towards Malaysia), Sunday evenings (towards Singapore) and around extended holiday periods. The Causeway is crossed by trains, buses, taxis, cars and motorcycles. The only reliable way to avoid jams is the train, see [#By train](#By_train), but the most flexible and most popular option is to take one of the many bus services, see [#By bus](#By_bus).
 
-A second crossing between Malaysia and Singapore, known as the 1.3545103.6281[9](/wiki/Special:Map/17/1.3545/103.6281/en) Second Link, was built between Tuas in western Singapore and [Iskandar Puteri](https://en.wikivoyage.org/wiki/Iskandar_Puteri "Iskandar Puteri") in western [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). Much faster and (usually) less congested than the Causeway, it is primarily used by the express bus services from [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca"), [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur"), [Ipoh](https://en.wikivoyage.org/wiki/Ipoh "Ipoh") and [Penang](https://en.wikivoyage.org/wiki/Penang "Penang"). It is more convenient than the Causeway for travellers coming from further up the West Coast of Peninsular Malaysia, but a major detour if you are just coming from Johor Bahru. Bus services across are not as numerous as those that service the Causeway.
+A second crossing between Malaysia and Singapore, known as the 1.3545103.6281[9](https://en.wikivoyage.org/wiki/Special:Map/17/1.3545/103.6281/en) Second Link, was built between Tuas in western Singapore and [Iskandar Puteri](https://en.wikivoyage.org/wiki/Iskandar_Puteri "Iskandar Puteri") in western [Johor](https://en.wikivoyage.org/wiki/Johor "Johor"). Much faster and (usually) less congested than the Causeway, it is primarily used by the express bus services from [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca"), [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur"), [Ipoh](https://en.wikivoyage.org/wiki/Ipoh "Ipoh") and [Penang](https://en.wikivoyage.org/wiki/Penang "Penang"). It is more convenient than the Causeway for travellers coming from further up the West Coast of Peninsular Malaysia, but a major detour if you are just coming from Johor Bahru. Bus services across are not as numerous as those that service the Causeway.
 
 Driving into Singapore with a foreign-registered car is complicated and expensive. If you have your own wheels and insist on using them, see [Driving in Singapore](https://en.wikivoyage.org/wiki/Driving_in_Singapore "Driving in Singapore") for details.
 
-### By bicycle
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=29 "Edit section: By bicycle")\]
-
 **Cycling into Singapore** is possible only across the Causeway. You can take the motorcycle lane and process your entry at the manual motorcycle counters. Once you have cleared Singapore immigration and customs, make sure you avoid the ramp heading onto the expressway, which will be indicated as BKE (short for Bukit Timah Expressway) on road signs. As the Second Link is served by expressways on both sides, bicycles are legally unable to use it.
 
-### On foot
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=30 "Edit section: On foot")\]
-
-Walking across the Causeway is prohibited, although this ban is loosely enforced, and many would walk when there is a traffic jam. Be prepared for a very long walk as Malaysia's customs and immigration complex is now 2 km (1.2 mi) inland. Unlike the previous checkpoint, the current Malaysian immigration checkpoint was not set up for pedestrians, meaning that there are no pedestrian footpaths on the Malaysian side, and you will have to walk on the road alongside potentially dangerous and fast-moving vehicular traffic.
+Walking across the Causeway is prohibited, although this ban is loosely enforced, and many would walk when there is a traffic jam. Be prepared for a very long walk as Malaysia's customs and immigration complex is now 2 km (1.2 mi) inland. Unlike the previous checkpoint, the current Malaysian immigration checkpoint was not set up for pedestrians, meaning that there are no pedestrian footpaths on the Malaysian side, and you will have to walk on the road alongside potentially dangerous and fast-moving vehicular traffic.
 
 Pedestrians are not allowed on the Second Link; not that there would be anything within walking distance on either side anyway.
 
-Get around
-----------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=31 "Edit section: Get around")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Central_Singapore_MRT.png/500px-Central_Singapore_MRT.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Central_Singapore_MRT.png)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Central_Singapore_MRT.png/500px-Central_Singapore_MRT.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Central_Singapore_MRT.png)
 
 Geographic map of MRT lines in the city centre
 
 Getting around Singapore is easy: the public transport network is extremely easy to use, affordable, and covers populated areas extensively. Furthermore, taxis/rideshares are reasonably priced and easy to hail via apps. [CityMapper](https://citymapper.com/singapore?lang=en), Google Maps, and Apple Maps are all capable of figuring out the fastest route by rail and bus and even estimating taxi/rideshare fares between any two points.
-
-### Fares
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=32 "Edit section: Fares")\]
 
 [Fares](https://www.lta.gov.sg/content/ltagov/en/map/fare-calculator.html) are charged based on distance and mode of transport.
 
@@ -1787,11 +442,7 @@ Cash is not accepted on the MRT/LRT. More expensive cash fares are available on 
 
 Remember to tap your device or card against a reader before you exit a bus. Otherwise, you will be charged the maximum fare. The bus operator has no idea where you got off and assumes that you rode to the end of the line.
 
-### By train
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=33 "Edit section: By train")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Singapore_MRT_and_LRT_System_Map.svg/500px-Singapore_MRT_and_LRT_System_Map.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_MRT_and_LRT_System_Map.svg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Singapore_MRT_and_LRT_System_Map.svg/500px-Singapore_MRT_and_LRT_System_Map.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_MRT_and_LRT_System_Map.svg)
 
 MRT and LRT system map
 
@@ -1803,11 +454,7 @@ Eating and drinking (even water) is strictly **prohibited** in the stations and 
 
 Locals refer to the underground metro system as the "MRT". The terms "Metro" or "Subway" are not widely used or understood.
 
-### By boat
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=34 "Edit section: By boat")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bumboat%2C_Singapore.jpg/250px-Bumboat%2C_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Bumboat,_Singapore.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bumboat%2C_Singapore.jpg/250px-Bumboat%2C_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Bumboat,_Singapore.jpg)
 
 Bumboat
 
@@ -1815,11 +462,7 @@ Tourist-oriented **bumboats** cruise the [Singapore River](https://en.wikivoyage
 
 Bumboats also shuttle passengers from **Changi Point Ferry Terminal** to [Pulau Ubin](https://en.wikivoyage.org/wiki/Singapore/East_Coast#Do "Singapore/East Coast") ($4 one-way), a small island off Singapore's northeast coast which is about as close as Singapore gets to unhurried rural living. These boats are the only way to get to Pulau Ubin without your own vessel. Ferries to the southern islands of Sisters' Islands, Kusu Island and St John's Island depart from **Marina South Pier**, next to the MRT station of the same name. Pulau Hantu is also open to the public, though there are no scheduled ferries there; you will need to charter a boat from either Marina South Pier or West Coast Pier.
 
-### By bus
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=35 "Edit section: By bus")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%28SGP-Singapore%29_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg/250px-%28SGP-Singapore%29_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:(SGP-Singapore)_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%28SGP-Singapore%29_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg/250px-%28SGP-Singapore%29_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:\(SGP-Singapore\)_Go-Ahead_Singapore_SG1790J_118B_2026-01-29.jpg)
 
 Singapore bus
 
@@ -1829,41 +472,23 @@ Buses in Singapore **stop on request only**. Flag the bus if you want to board, 
 
 The four bus operators in Singapore are SBS Transit, SMRT Buses, Tower Transit and Go-Ahead.
 
-### By taxi
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=36 "Edit section: By taxi")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%28SGP-Singapore%29_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg/250px-%28SGP-Singapore%29_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:(SGP-Singapore)_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%28SGP-Singapore%29_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg/250px-%28SGP-Singapore%29_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:\(SGP-Singapore\)_ComfortDelgro_Taxi_SH7381L_2024-04-19.jpg)
 
 Taxis in Singapore come in many colors, but Comfort's blue cabs are ubiquitous
 
 **Taxicabs** use meters and are reasonably priced and honest. Outside weekday peak hours, trips within the city centre should not cost you more than $10 and even a trip right across the island from Changi to Jurong will not break the $50 mark. If you are in a group of 3 or 4, it's sometimes cheaper and faster to take a taxi than the MRT. ComfortDelgro, the largest operator, has a [**CDG Zig** booking app](https://www.cdgtaxi.com.sg/) that lets you order and pay for your taxi rides ridehail-style, including the option of a "ComfortRide" fixed price instead of running the meter, or you can call the unified booking system at ☏ [+65 6-DIAL-CAB (3425-222)](tel:+656-3425-222). Hailing a taxi on the street or at a taxi stand lets you avoid the $2.30-3.30 booking fee though.
 
-Taxi pricing is largely identical across all companies at $4.40-5.00 as a flag down rate (depending on the type of vehicle used), which lasts 1 km before increments of $0.26 per 400 m (for the first 10 km) or $0.26 per 350 m (after the first 10 km). Watch out for surprises though: on weekdays, trips before 9:30AM or after 5pm incur a 25-50% tariff, and on weekdays a 25% tariff is applicable between 10AM and 4PM. Extra fees ($3-8) may be added for trips starting at airports, popular attractions, and ferry terminals. Electronic Road Pricing surcharges or City Area fees may also apply at peak hours, which may add a substantial amount to your taxi fare. All such charges are shown on the bottom right-hard corner of the meter, recorded in the printed receipt and explained in tedious detail in a sticker on the window; if you suspect the cabbie is trying to pull a fast one, call the company and ask for an explanation. There is no surcharge for trips _to_ the airport, only from. Paying by credit card will incur an additional surcharge of 10%, or $0.30 using other cards or app-based payments. As usual in Singapore, tips are not expected. In the Central Business District, taxis may pick up passengers only at taxi stands (found outside any shopping mall) or buildings with their own driveways (including virtually all hotels). Outside the centre, you're free to hail taxis on the street or call one to your doorstep.
+Taxi pricing is largely identical across all companies at $4.40-5.00 as a flag down rate (depending on the type of vehicle used), which lasts 1 km before increments of $0.26 per 400 m (for the first 10 km) or $0.26 per 350 m (after the first 10 km). Watch out for surprises though: on weekdays, trips before 9:30AM or after 5pm incur a 25-50% tariff, and on weekdays a 25% tariff is applicable between 10AM and 4PM. Extra fees ($3-8) may be added for trips starting at airports, popular attractions, and ferry terminals. Electronic Road Pricing surcharges or City Area fees may also apply at peak hours, which may add a substantial amount to your taxi fare. All such charges are shown on the bottom right-hard corner of the meter, recorded in the printed receipt and explained in tedious detail in a sticker on the window; if you suspect the cabbie is trying to pull a fast one, call the company and ask for an explanation. There is no surcharge for trips _to_ the airport, only from. Paying by credit card will incur an additional surcharge of 10%, or $0.30 using other cards or app-based payments. As usual in Singapore, tips are not expected. In the Central Business District, taxis may pick up passengers only at taxi stands (found outside any shopping mall) or buildings with their own driveways (including virtually all hotels). Outside the centre, you're free to hail taxis on the street or call one to your doorstep.
 
 Virtually all Singapore taxis are equipped with navigation systems that will get you where you want to go. Some cabbies may ask you which route you want to take; most are satisfied with "whichever way is faster".
 
-### By rideshare
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=37 "Edit section: By rideshare")\]
-
 Rideshare apps have largely supplanted taxis in Singapore. The two biggest players are [**Grab**](https://www.grab.com/sg/) and **[Gojek](https://www.gojek.com/sg)**. Rides are generally reasonably priced, with most off-peak rides in the city centre clocking in around $10-20, although during busy periods (Friday nights, when it rains, etc.) surge fares can be much higher. Most international credit/debit cards are accepted on their apps, and cash payments are also accepted. Other ride sharing apps include **[Ryde](https://www.rydesharing.com/)** and **[Tada](https://tada.global/)**. For the best fare, download a few apps and check the cost of your journey between them, as the cheapest company may change by the time-of-day.
-
-### By car
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=38 "Edit section: By car")\]
-
-Main article: [Driving in Singapore](https://en.wikivoyage.org/wiki/Driving_in_Singapore "Driving in Singapore")
 
 By thumb
 
 [Hitchhiking](https://en.wikivoyage.org/wiki/Hitchhiking "Hitchhiking") is virtually unheard of in Singapore, and given the small size of the country and its cheap, ubiquitous public transport, it's hardly necessary.
 
 Driving is not a popular option for visitors to Singapore, as public transport covers virtually the entire island and it's generally cheaper to take taxis all day than to rent. You will usually be looking at upwards from $100 per day for the smallest vehicle from the major rental companies, although local ones can be cheaper and there are sometimes good weekend prices available. This does not include petrol at around $3/litre or electronic road pricing (ERP) fees, and rentals often charge extra or prohibit driving to [Malaysia](https://en.wikivoyage.org/wiki/Malaysia "Malaysia").
-
-### By bicycle
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=39 "Edit section: By bicycle")\]
 
 Although Singapore is mostly flat and there're only a few locations to climb, commuting on bicycle is challenging. There are few dedicated bicycle lanes on public roads, and road courtesy towards cyclists from motorists is sorely lacking. You may cycle on the road, cycling paths, shared use paths, and footpaths, with each having its own challenges.
 
@@ -1873,11 +498,7 @@ Red cycle paths may be found beside the footpath; these paths frequently turn in
 
 **Electric bicycles** are only permitted on cycle paths, shared use paths and roads. They are not permitted on the footpath.
 
-Shared bicycles can be rented with mobile apps such as [Anywheel](https://www.anywheel.sg/).mw-parser-output .error-deadlink{color:red;background:yellow;display:none;white-space:nowrap}\[dead link\] or [HelloRide](https://www.helloride-global.com/), at designated parking spots, typically indicated by a bright yellow rectangle on the ground. Scan the QR code on the ground to park your bike. Foldable bicycles not exceeding 120cm by 70cm by 40cm when folded can be brought onto public transit all day.
-
-### On foot
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=40 "Edit section: On foot")\]
+Shared bicycles can be rented with mobile apps such as [Anywheel](https://www.anywheel.sg/)\[dead link\] or [HelloRide](https://www.helloride-global.com/), at designated parking spots, typically indicated by a bright yellow rectangle on the ground. Scan the QR code on the ground to park your bike. Foldable bicycles not exceeding 120cm by 70cm by 40cm when folded can be brought onto public transit all day.
 
 Singapore is very pedestrian-friendly. In the main business district and on main roadways, pavements and pedestrian crossings are in good shape and plentiful, and by Asian standards drivers are generally careful and willing to give way at marked crossings. Jaywalking is illegal and punished with fines of $25 and up to three months in jail, but this is rarely enforced.
 
@@ -1887,16 +508,11 @@ A useful tip to combat the tropical weather is to look out for air-conditioned u
 
 Classic walks in Singapore include walking [down the river](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside") from the Merlion through the Boat and Clarke Quays, walking around the entire perimeter of Marina Bay, trekking along the [Southern Ridges Walk](https://en.wikivoyage.org/wiki/Southern_Ridges_Walk "Southern Ridges Walk") or just strolling around [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown"), [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India"), [Bugis](https://en.wikivoyage.org/wiki/Singapore/Bugis "Singapore/Bugis") or [Orchard](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard").
 
-See
----
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=41 "Edit section: See")\]
-
 Otterly cute!
 
 After the Singapore River and its tributaries were cleaned up in the 1990s, **smooth-coated otters** have made their way back to Singapore and into the hearts of its residents. Most active at dawn and dusk, they can most frequently be spotted around the [Kallang River](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") (including the Gardens by the Bay) and Bishan-Ang Mo Kio Park, catching fish and squeakily trooping across pathways. Just don't get too close: they have viciously sharp teeth and are protective of their young. [OtterWatch](https://www.facebook.com/OtterWatch) on Facebook is a good place to keep up to date on otter sightings.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Otters_in_Jurong_Lake_Gardens%2C_Singapore.jpg/250px-Otters_in_Jurong_Lake_Gardens%2C_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Otters_in_Jurong_Lake_Gardens,_Singapore.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Otters_in_Jurong_Lake_Gardens%2C_Singapore.jpg/250px-Otters_in_Jurong_Lake_Gardens%2C_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Otters_in_Jurong_Lake_Gardens,_Singapore.jpg)
 
 An otter family after a swim
 
@@ -1905,34 +521,21 @@ Sights in Singapore are covered in more detail under the various districts. Broa
 *   _Beaches and tourist resorts_: Head to one of the three beaches on [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") or its southern islands. Other beaches can be found on the [East Coast](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast").
 *   _Culture and cuisine_: See [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown") for Chinese treats, [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India") for Indian flavours, [Geylang Serai](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") for a Malay experience or the [East Coast](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") for Eurasian and Peranakan culture and delicious seafood, including the famous chilli and black pepper crab.
 *   _History and museums_: The Bras Basah area east of [Orchard](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard") and north of the [Singapore River](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside") is Singapore's colonial core, with historical buildings and museums. All government-run museums in Singapore are free admission for Singapore citizens and permanent residents except for temporary exhibits, but visitors will be charged an admission fee.
-*   _Nature and wildlife_: Popular tourist attractions in the **Mandai Wildlife Reserve** include the **Singapore Zoo**, **Night Safari**, **Bird Paradise** and **River Wonders**. The **Mandai Boardwalk** is a free scenic walk along the Upper Seletar Reservoir in the Mandai Wildlife Reserve. The **Botanic Gardens** are the only [![](//thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/WV-Unesco-icon-small.svg/20px-WV-Unesco-icon-small.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") [UNESCO World Heritage Site](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") in Singapore. For something closer to the city, visit the futuristic **Gardens by the Bay** in the [Marina](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") district, behind the Marina Bay Sands. Finding "real" nature is a little harder, but the **Bukit Timah Nature Reserve** (in the same district as the zoo) has more plant species than in the whole of North America, and is also home to a thriving population of wild monkeys. **Pulau Ubin**, an island off the [Changi Village](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") in the east, is a flashback to the rural Singapore of yesteryear. Red junglefowl (often called wild chickens) can often be seen in many grassy areas around the city, even in downtown areas. City parks full of locals jogging or doing tai chi can be found everywhere. See [Botanical tourism in Singapore](https://en.wikivoyage.org/wiki/Botanical_tourism_in_Singapore "Botanical tourism in Singapore") for details on where to see trees and plants.
+*   _Nature and wildlife_: Popular tourist attractions in the **Mandai Wildlife Reserve** include the **Singapore Zoo**, **Night Safari**, **Bird Paradise** and **River Wonders**. The **Mandai Boardwalk** is a free scenic walk along the Upper Seletar Reservoir in the Mandai Wildlife Reserve. The **Botanic Gardens** are the only [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/WV-Unesco-icon-small.svg/20px-WV-Unesco-icon-small.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") [UNESCO World Heritage Site](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") in Singapore. For something closer to the city, visit the futuristic **Gardens by the Bay** in the [Marina](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") district, behind the Marina Bay Sands. Finding "real" nature is a little harder, but the **Bukit Timah Nature Reserve** (in the same district as the zoo) has more plant species than in the whole of North America, and is also home to a thriving population of wild monkeys. **Pulau Ubin**, an island off the [Changi Village](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") in the east, is a flashback to the rural Singapore of yesteryear. Red junglefowl (often called wild chickens) can often be seen in many grassy areas around the city, even in downtown areas. City parks full of locals jogging or doing tai chi can be found everywhere. See [Botanical tourism in Singapore](https://en.wikivoyage.org/wiki/Botanical_tourism_in_Singapore "Botanical tourism in Singapore") for details on where to see trees and plants.
 *   _Skyscrapers and shopping_: The heaviest shopping mall concentration is in [Orchard Road](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard"), while skyscrapers are clustered around the [Singapore River](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside"), but also check out [Bugis](https://en.wikivoyage.org/wiki/Singapore/Bugis "Singapore/Bugis") and [Marina Bay](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") to see where Singaporeans shop.
 *   _[Places of worship](https://en.wikivoyage.org/wiki/Places_of_worship_in_Singapore "Places of worship in Singapore")_: Don't miss this aspect of Singapore, where Buddhism, Taoism, Hinduism, Sikhism, Christianity, Islam and Judaism all exist in sizeable numbers. Religious sites can be easily visited and welcome non-followers outside of service times. Particularly worth visiting include: the vast **Kong Meng San Phor Kark See Monastery** near [Ang Mo Kio](https://en.wikivoyage.org/wiki/Singapore/North_and_West "Singapore/North and West")/Bishan, the colourful Hindu **Sri Mariamman Temple** in [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown"), the psychedelic **Burmese Buddhist Temple** in [Balestier](https://en.wikivoyage.org/wiki/Singapore/Balestier "Singapore/Balestier") and the stately Masjid Sultan in [Arab Street](https://en.wikivoyage.org/wiki/Singapore/Bugis "Singapore/Bugis").
 
-### Itineraries
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=42 "Edit section: Itineraries")\]
-
 *   [Three days in Singapore](https://en.wikivoyage.org/wiki/Three_days_in_Singapore "Three days in Singapore") — A three-day sampler set of food, culture and shopping in Singapore, easily divisible into bite-size chunks.
-*   [Southern Ridges Walk](https://en.wikivoyage.org/wiki/Southern_Ridges_Walk "Southern Ridges Walk") — An easy scenic 9 km stroll through the hills and jungles of southern Singapore. Highlights of the trail include a 36 m high Henderson Waves pedestrian bridge providing a stunning view of the sea beyond the jungle.
+*   [Southern Ridges Walk](https://en.wikivoyage.org/wiki/Southern_Ridges_Walk "Southern Ridges Walk") — An easy scenic 9 km stroll through the hills and jungles of southern Singapore. Highlights of the trail include a 36 m high Henderson Waves pedestrian bridge providing a stunning view of the sea beyond the jungle.
     
-    [![](//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Henderson_Waves_04-12-2024%2811%29.jpg/250px-Henderson_Waves_04-12-2024%2811%29.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Henderson_Waves_04-12-2024(11).jpg)
+    [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Henderson_Waves_04-12-2024%2811%29.jpg/250px-Henderson_Waves_04-12-2024%2811%29.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Henderson_Waves_04-12-2024\(11\).jpg)
     
     Henderson Waves
     
 
-Do
---
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=43 "Edit section: Do")\]
-
 While you _can_ find a place to practice nearly any sport in Singapore — golfing, surfing, scuba diving, even ice skating and snow skiing — due to the country's small size your options are rather limited and prices are relatively high. For scuba diving in particular, the busy shipping lanes and sheer population pressure mean that the sea around Singapore is murky, and most locals head across the border into Malaysia (in particular [Pulau Tioman](https://en.wikivoyage.org/wiki/Tioman "Tioman") or Pulau Dayang) to get their fix. On the upside, there is an abundance of dive shops in Singapore, and they often arrange weekend trips to good dive sites off the East Coast of Malaysia.
 
-### Culture
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=44 "Edit section: Culture")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Esplanade_theatre.jpg/250px-Esplanade_theatre.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Esplanade_theatre.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Esplanade_theatre.jpg/250px-Esplanade_theatre.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Esplanade_theatre.jpg)
 
 Esplanade Theatres by the Bay
 
@@ -1944,10 +547,6 @@ Going to the **movies** is a popular Singaporean pastime, but look for "NC16" (a
 
 **Wayang** is a Chinese street opera, performed in open-air theaters by troupes. It combines a wide variety of traditional art forms with singing, mime, dancing, acrobatics and martial arts. It is now a dying art form as dialect proficiency among the younger generation continues to decrease, so catch it while you still can. They are generally most common during the Hungry Ghost Festival, the seventh month of the Chinese calendar. A closely-related and equally endangered genre is **traditional Chinese puppetry**, which is also often performed in open air street theatres during the Hungry Ghost Festival.
 
-### Gambling
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=45 "Edit section: Gambling")\]
-
 Singapore has two massive casinos, always referred to with the euphemism "integrated resort", which pull in nearly as much revenue as the entirety of Las Vegas. **Marina Bay Sands** at [Marina Bay](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") is the larger and swankier of the two, while **Resorts World Sentosa** at [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") aims for a more family-friendly experience. While locals (citizens and permanent residents) have to pay $150/day to get in, foreign visitors can enter for free after presenting their passport.
 
 Besides the casino, there are other forms of legalised betting which are more accessible to the locals. This includes football (soccer) betting and several lotteries run by the **[Singapore Pools](https://www.singaporepools.com.sg/landing/en/Pages/index.html)**. Horse racing in Singapore was terminated in October 2024, but you can bet on foreign races through the Singapore Pools.
@@ -1956,26 +555,14 @@ Besides the casino, there are other forms of legalised betting which are more ac
 
 Gambling in public (e.g. playing poker or blackjack at a park) is illegal and punishable with fines and imprisonment.
 
-### Golf
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=46 "Edit section: Golf")\]
-
 Despite its small size, Singapore has a surprisingly large number of golf courses, but most of the best ones are run by private clubs and open to members and their guests only. The main exceptions are the **[Sentosa Golf Club](https://sentosagolf.com/)**, the **[Sembawang Country Club](https://sembawanggolf.org.sg/)** and the Sime Course of **[Keppel Club](https://www.keppelclub.com.sg/)**, though they charge much higher fees than for members. See the [Singapore Golf Association](https://sga.org.sg/) for the full list; alternatively, head to the nearby Indonesian islands of [Batam](https://en.wikivoyage.org/wiki/Batam "Batam") or [Bintan](https://en.wikivoyage.org/wiki/Bintan "Bintan") or across the Second Link to [Iskandar Puteri](https://en.wikivoyage.org/wiki/Iskandar_Puteri "Iskandar Puteri"), [Malaysia](https://en.wikivoyage.org/wiki/Malaysia "Malaysia").
 
-### Races
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=47 "Edit section: Races")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_Singapore_Flyer_--_2019_--_4720.jpg/250px-Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_Singapore_Flyer_--_2019_--_4720.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_(SG),_View_from_Marina_Bay_Sands,_Singapore_Flyer_--_2019_--_4720.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_Singapore_Flyer_--_2019_--_4720.jpg/250px-Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_Singapore_Flyer_--_2019_--_4720.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_\(SG\),_View_from_Marina_Bay_Sands,_Singapore_Flyer_--_2019_--_4720.jpg)
 
 The Singapore Grand Prix takes place at the Marina Bay Street Circuit
 
 *   **Singapore Grand Prix** is an on-street [Formula One](https://en.wikivoyage.org/wiki/Formula_One "Formula One") motor-race held in the streets of Marina Bay in Sept / Oct. Book well in advance for the tickets, because they get sold out within minutes. Preferably book a seat on the main strait because that is where many overtakes and a lot of action happens.
 *   **[Singapore Polo Club](https://www.singaporepoloclub.org/)** near [Balestier](https://en.wikivoyage.org/wiki/Singapore/Balestier "Singapore/Balestier") is also open to the public on competition days.
-
-### Spas
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=48 "Edit section: Spas")\]
 
 Singapore has experienced a 'spa boom', and there is now plenty of choice for everything from holistic Ayurveda to green tea hydrotherapy. However, prices aren't as rock-bottom as in neighbours Indonesia and Thailand, and you'll generally be looking at upwards of $50 even for a plain one-hour massage. Premium spas can be found in most 5 star hotels and on [Orchard](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard"), and [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa")'s Spa Botanica also has a good reputation. Alternatively, do what many locals do and head across the border to Johor Bahru for cheaper options.
 
@@ -1983,38 +570,17 @@ There are also numerous shops offering traditional Chinese massage and foot refl
 
 When looking for beauty salons on Orchard Road, try out the ones on the fourth floor of Lucky Plaza. They offer most salon services like manicures, pedicures, facials, waxing and hair services. A favourite of flight crews and repeat tourists due to the lower costs as compared to the sky high prices of other salons along the shopping belt. Shop around for prices, some of the better looking ones actually charge less.
 
-### Swimming
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=49 "Edit section: Swimming")\]
-
-Forget your tiny hotel pool if you are into competitive or recreational swimming: Singapore is paradise for swimmers with arguably the highest density of public pools in the world. They are all open-air 50 m pools (some facilities even feature up to three 50 m pools), accessible for an entrance fee of $1–1.50. Some of the visitors don't swim at all. They just come from nearby housing complexes for a few hours to chill out, read and relax in the sun. Most are open daily 8AM-9PM and all feature a small cafe. Just imagine swimming your lanes in the tropical night with lit up palm trees surrounding the pool.
+Forget your tiny hotel pool if you are into competitive or recreational swimming: Singapore is paradise for swimmers with arguably the highest density of public pools in the world. They are all open-air 50 m pools (some facilities even feature up to three 50 m pools), accessible for an entrance fee of $1–1.50. Some of the visitors don't swim at all. They just come from nearby housing complexes for a few hours to chill out, read and relax in the sun. Most are open daily 8AM-9PM and all feature a small cafe. Just imagine swimming your lanes in the tropical night with lit up palm trees surrounding the pool.
 
 The Singapore Sports Council maintains [a list of pools](https://www.activesgcircle.gov.sg/facilities/swimming-pools), most of which are part of a larger sports complex with a gym, running track, tennis courts etc., and are near the MRT station they're named after. Perhaps the best is in Katong (111 Wilkinson Road, on the [East Coast](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast")): after the swim, stroll through the villa neighbourhood directly in front of the pool entrance and have a look at the luxurious, original architecture of the houses that really rich Singaporeans live in. If you get bored with regular swimming pools, head to the **Jurong East Swimming Complex** where you get the wave pool, water slides and Jacuzzi at an insanely affordable entrance fee of $1.50 on weekdays and $2 on weekends. For those who feel richer, visit the **[Wild Wild Wet](https://www.wildwildwet.com/)** water theme park or the **[Adventure Cove Waterpark](https://en.wikivoyage.org/wiki/Singapore/Sentosa#Resorts_World_Sentosa "Singapore/Sentosa")** and get yourself wet with various exciting water slides and tidal wave pools.
 
-For those who don't like pools, head out to the beaches. The **[East Coast Park](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast")** has a scenic coastline that stretches over 15 km. It's a popular getaway spot for Singaporeans to swim, cycle, barbeque and engage in various other sports and recreational activities. **[Sentosa island](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa")** also has three white, sandy beaches - Siloso Beach, Palawan Beach and Tanjong Beach - each with its own distinct characteristics, and also very popular with locals.
-
-### Water sports
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=50 "Edit section: Water sports")\]
+For those who don't like pools, head out to the beaches. The **[East Coast Park](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast")** has a scenic coastline that stretches over 15 km. It's a popular getaway spot for Singaporeans to swim, cycle, barbeque and engage in various other sports and recreational activities. **[Sentosa island](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa")** also has three white, sandy beaches - Siloso Beach, Palawan Beach and Tanjong Beach - each with its own distinct characteristics, and also very popular with locals.
 
 Canoeing and dragon-boating are popular water-sports in Singapore, and there are many beautiful reservoirs and rivers where one can partake in such physical activity. Check out the MacRitchie Reservoir, Kallang River and Marina Bay for reasonably priced options. Besides these more regular water sports, Singapore also offers water sports fans trendy activities such as cable-Skiing and wave surfing in specially created environments.
-
-### Snow sports
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=51 "Edit section: Snow sports")\]
 
 Being just one degree north of the equator, it is obviously not the best place on earth for skiing, but sunny Singapore still has a permanent indoor snow centre. **[Snow City](https://www.snowcity.com.sg/)** offers visitors a chance to experience winter. Visitors can escape from the hot and humid tropical weather to play in snow or even learn to ski and snowboard with certified professional instructors.
 
 Ice skating is also possible in Singapore, in **Kallang Ice World** at [Leisure Park Kallang](https://leisurepark.com.sg/).
-
-Buy
----
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=52 "Edit section: Buy")\]
-
-### Money
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=53 "Edit section: Money")\]
 
 Exchange rates for Singapore dollars
 
@@ -2040,10 +606,6 @@ Unless it includes other initials (e.g., US$ to stand for U.S. dollars), the "$"
 
 The [Brunei](https://en.wikivoyage.org/wiki/Brunei "Brunei") dollar is pegged at par with the Singapore dollar and is legally "customary tender" that can be used interchangeably. In practice, it's very rare to see Brunei notes in Singapore, and if you try to use one, many smaller merchants, being unaware of the peg, will reject it initially. To avoid additional hassle, show the [official website about the peg](https://www.mas.gov.sg/currency/brunei-singapore-currency-interchangeability-agreement) to the merchant, or consider changing your Brunei dollars to Singapore dollars before use. All banks are legally required to exchange Brunei notes free of charge.
 
-#### Currency exchange
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=54 "Edit section: Currency exchange")\]
-
 Currency exchange booths can be found in every shopping mall and usually offer better rates, better opening hours, and much faster service than banks. Exchange rates at Changi Airport and ferry terminals are worse than in town, but not outrageously so. For large amounts, ask for a quote, as it will often get you a better rate than displayed on the board. For small amounts, make sure you're getting at least what it says on the board to avoid surprise fees.
 
 Besides the major world currencies, many Asian currencies that are difficult to exchange elsewhere can be exchanged quite easily in Singapore, including the Malaysian ringgit, Indonesian rupiah, Thai baht, Vietnamese dong and New Taiwan dollar. Mustafa in [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India") accepts almost any major currency at very good rates and many obscure currencies as well, as do the fiercely competitive small shops at or surrounding the aptly named Change Alley (next to Raffles Place MRT). For countries that have larger foreign worker communities in Singapore, look for places where they congregate to get the best rates for their respective currencies. For instance, you will generally find the best rates for Philippine pesos at Lucky Plaza, for Myanmar kyats at Peninsula Plaza, for Chinese yuan and Hong Kong dollars in People's Park (Chinatown) and for South Asian currencies such as the Indian rupee, Sri Lankan rupee and Bangladeshi taka at Mustafa.
@@ -2052,13 +614,9 @@ While many department stores accept major foreign currencies, their rates are us
 
 ### Goods and Services Tax (GST)
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=55 "Edit section: Goods and Services Tax (GST)")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=55 "Edit section: Goods and Services Tax (GST)")\]
 
 Most retailers and service providers in Singapore are required to levy a 9% GST. Merchants are lawfully required to publish the GST-inclusive prices (i.e. you don't need to do further maths) except for hotel and some restaurant (eat-in) prices whereby GST (and service charge) are added right before payment (see _Tipping_ and _Sleep_ sections). Merchants are also required to state the amount of GST in receipts.
-
-### Payments
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=56 "Edit section: Payments")\]
 
 Singapore has adopted cashless payments in a big way and it's possible that you won't see cash during your entire visit.
 
@@ -2070,35 +628,21 @@ There is a plethora of **mobile payments** applications. GrabPay is the easiest 
 
 Travellers cheques are generally _not_ accepted by retailers, but can be cashed at certain limited number of exchange booths or banks.
 
-### Tipping
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=57 "Edit section: Tipping")\]
-
 Tipping is generally _not_ practised in Singapore. However, it is common for hotels and restaurants to levy a 10% service charge before GST, the local Goods and Services Tax. Restaurants and hotel room rates often display prices like $19.99++, which means that service charge (10%) and GST (9%) are not included and will be added to your bill. "Nett" prices already include all taxes and service charges.
 
 Bellhops and hotel porters still expect $2 or so per bag. Tipping is not expected in taxis, who usually return your change to the last 10 cents, or round the fare down by that amount in your favour, if they can't be bothered to dig for change; congestion or Electronic Road Pricing charges are often already included in the final fare. All taxis must advertise a hotline to call if the customer feels dissatisfied. Tipping is prohibited at the airport.
 
 Do _not_ under any circumstances offer a tip to any government employee, especially police officers, as this is regarded as bribery, and would almost certainly get you arrested and pressed with criminal charges relating to corruption.
 
-### Costs
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=58 "Edit section: Costs")\]
-
 Singapore is expensive by Southeast Asian standards, but cheap compared to Western countries: $50 is a perfectly serviceable daily backpacker budget if you are willing to cut some corners, though you would probably wish to double that for comfort. Food in particular is a steal, with excellent hawker food available for under $5 per meal for a generous serving. Accommodation is a little pricier, but a bed in a hostel can cost less than $30 and a cheap hotel room can go for under $150, while branded business hotels would be in the $200-500 range. At the top end of the market you're probably looking at over $500 a night, with places like Raffles and Capella often pushing $1,000.
 
 As rough rules of thumb, prices in Singapore are about twice as high as in Malaysia and Thailand and 3-5 times as high as in Indonesia and the Philippines.
-
-### Shopping
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=59 "Edit section: Shopping")\]
-
-Main article: [Shopping in Singapore](https://en.wikivoyage.org/wiki/Shopping_in_Singapore "Shopping in Singapore")
 
 Cheated?
 
 Ripped off by a shop? Call the Singapore Tourism Board's free hotline at ☏ 1800-736-2000 (domestic)Country code missing. The Small Claims Tribunal at 1 Havelock Square also has a special expedited process for tourists that can solve simple cases within 24 hours.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interior_of_Sim_Lim_Square%2C_Singapore_-_20070127-03.jpg/250px-Interior_of_Sim_Lim_Square%2C_Singapore_-_20070127-03.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Interior_of_Sim_Lim_Square,_Singapore_-_20070127-03.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interior_of_Sim_Lim_Square%2C_Singapore_-_20070127-03.jpg/250px-Interior_of_Sim_Lim_Square%2C_Singapore_-_20070127-03.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Interior_of_Sim_Lim_Square,_Singapore_-_20070127-03.jpg)
 
 Sim Lim Square, Singapore's computing and electronics mecca
 
@@ -2108,36 +652,19 @@ Goods are generally of reasonably good quality and shopkeepers are generally qui
 
 For purchases of over $100 per day per participating shop, you may be able to get a **GST refund**. See [GST refund](https://en.wikivoyage.org/wiki/Shopping_in_Singapore#GST_refund "Shopping in Singapore") for details.
 
-### Souvenirs
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=60 "Edit section: Souvenirs")\]
-
 The most popular souvenir from Singapore is **food**. [Bee Cheng Hiang](https://www.beechenghiang.com.sg/)'s _bak kwa_ smoked pork, [Irvins](https://eatirvins.sg/) salted egg chips, [Prima Taste](https://www.primataste.com/) meal kits, and cakes, cookies and _kueh_ from [Bengawan Solo](https://bengawansolo.sg/) are all delicious, made in Singapore, and can be found in any larger shopping mall (or the airport).
 
 The vast majority of Merlion keychains, "Singapore: It's A Fine City" T-shirts and similar are made outside China, and so are many of the imitation versions of the Singapore original brands listed above. For non-food inspiration, see the [Shopping in Singapore](https://en.wikivoyage.org/wiki/Shopping_in_Singapore "Shopping in Singapore") article.
 
-Eat
----
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=61 "Edit section: Eat")\]
 
-Main article: [Cuisine of Malaysia, Singapore and Brunei](https://en.wikivoyage.org/wiki/Cuisine_of_Malaysia,_Singapore_and_Brunei "Cuisine of Malaysia, Singapore and Brunei")
+* This page uses the following price ranges for a typical meal for one, including soft drink:: Budget
+  * Under $10
+* This page uses the following price ranges for a typical meal for one, including soft drink:: Mid-range
+  * $10-30
+* This page uses the following price ranges for a typical meal for one, including soft drink:: Splurge
+  * Over $30
 
-This page uses the following price ranges for a typical meal _for one_, including soft drink:
-
-**Budget**
-
-Under $10
-
-**Mid-range**
-
-$10-30
-
-**Splurge**
-
-Over $30
-
-.mw-parser-output .pricerange-table{border:1px solid #ccc;border-spacing:0;background:#f9f9f9;color:#333;float:right;clear:right;margin:0.5em 0 0.5em 1em;width:30%;padding:8px}.mw-parser-output .pricerange-table td{padding:0}
 
 Singapore is a melting pot of cuisines from around the world, and many Singaporeans are obsessive gourmands who love to _makan_ ("eat" in Malay). You will find quality Chinese, Malay, Indian, Japanese, Korean, Thai, Italian, French, British, American and other food in this city-state.
 
@@ -2145,15 +672,11 @@ Eating habits run the gamut, but most foods are eaten by **fork and spoon**: pus
 
 Keep an eye out for the **[Singapore Food Festival](https://www.visitsingapore.com/whats-happening/all-happenings/events/singapore-food-festival/)**, held every year in July.
 
-### Local delicacies
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=62 "Edit section: Local delicacies")\]
-
 Singapore is justly famous for its food, a unique mix of Malay, Chinese, Indian and Western elements. The following is only a brief sampler of the most popular dishes.
 
 #### Peranakan/Nonya cuisine
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=63 "Edit section: Peranakan/Nonya cuisine")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=63 "Edit section: Peranakan/Nonya cuisine")\]
 
 Culinary borrowings
 
@@ -2228,32 +751,28 @@ The most identifiable cuisine in the region is **Peranakan** or **Nonya** cuisin
 
 Besides these dishes, the Peranakans are also known for their _kueh_ or snacks, which are somewhat different from the Malay versions due to stronger Chinese influences.
 
-*   [![A plate of chilli crab](//thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chilli_crab-02.jpg/250px-Chilli_crab-02.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Chilli_crab-02.jpg "A plate of chilli crab")
+*   [![A plate of chilli crab](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chilli_crab-02.jpg/250px-Chilli_crab-02.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Chilli_crab-02.jpg "A plate of chilli crab")
     
     A plate of chilli crab
     
-*   [![Laksa, with chilli paste and chopped laksa leaf in a spoon](//thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Food_KatongLaksa.JPG/250px-Food_KatongLaksa.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_KatongLaksa.JPG "Laksa, with chilli paste and chopped laksa leaf in a spoon")
+*   [![Laksa, with chilli paste and chopped laksa leaf in a spoon](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Food_KatongLaksa.JPG/250px-Food_KatongLaksa.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_KatongLaksa.JPG "Laksa, with chilli paste and chopped laksa leaf in a spoon")
     
     Laksa, with chilli paste and chopped laksa leaf in a spoon
     
-*   [![Mee Siam](//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Mee_siam.jpg/250px-Mee_siam.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Mee_siam.jpg "Mee Siam")
+*   [![Mee Siam](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Mee_siam.jpg/250px-Mee_siam.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Mee_siam.jpg "Mee Siam")
     
     Mee Siam
     
-*   [![Laksa with vegetables](//thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup%2C_Brighton.jpg/250px-Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup%2C_Brighton.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup,_Brighton.jpg "Laksa with vegetables")
+*   [![Laksa with vegetables](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup%2C_Brighton.jpg/250px-Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup%2C_Brighton.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Mixed_Vegetables_with_Singapore_Laksa_Noodles_Soup_-_Noodles_Soup,_Brighton.jpg "Laksa with vegetables")
     
     Laksa with vegetables
     
 
-#### Malay cuisine
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=64 "Edit section: Malay cuisine")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nasi_lemak_on_banana_leaf.jpg/250px-Nasi_lemak_on_banana_leaf.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nasi_lemak_on_banana_leaf.jpg/250px-Nasi_lemak_on_banana_leaf.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg)
 
 _Nasi lemak_ with _otah_ (spiced fish paste), fried chicken wing, cucumber and fiery _sambal_ chilli sauce
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Satay_2.jpg/250px-Satay_2.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Satay_2.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Satay_2.jpg/250px-Satay_2.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Satay_2.jpg)
 
 Satay with peanut sauce, onions and cucumber
 
@@ -2268,7 +787,7 @@ The Malays were Singapore's original inhabitants and despite now being outnumber
 *   **Sambal stingray** is prepared by barbecuing stingray with a fiery _sambal_ spice paste spread on top. Stingray flesh is surprisingly meaty, closer to chicken than fish, and often a hit even with visitors who are not huge seafood fans.
 *   **Satay**, originally from Javanese cuisine, are barbecued skewers of meat, typically chicken, mutton or beef. What separates satay from your ordinary kebab are the spices used to season the meat and the slightly spicy peanut-based dipping sauce. The _Satay Club_ at [Lau Pa Sat](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside") near Raffles Place is one popular location for this delicacy. There is also a local Hainanese version of the dish, which unlike the Malay original often uses non-halal meats such as pork, and adds a pineapple puree to the dipping sauce.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Karipap_Chiang_Mai.jpg/250px-Karipap_Chiang_Mai.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Karipap_Chiang_Mai.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Karipap_Chiang_Mai.jpg/250px-Karipap_Chiang_Mai.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Karipap_Chiang_Mai.jpg)
 
 Curry puffs, pastries stuffed with chicken curry
 
@@ -2283,23 +802,19 @@ Malay desserts, especially the sweet pastries and jellies (_kuih_ or _kueh_) mad
 *   **Kuih** (or **kueh**) refer to a plethora of steamed or baked "cakes", mostly made with coconut milk, grated coconut flesh, glutinous rice or tapioca. They are often very colourful and cut into fanciful shapes, but despite their wildly varying appearance tend to taste rather similar. **Ondeh-ondeh**, little green balls dipped in coconut shavings and filled with cane syrup that bursts in your mouth, are worth keeping an eye out for.
 *   **Pisang goreng** is a batter-dipped and deep-fried banana.
 
-#### Chinese cuisine
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=65 "Edit section: Chinese cuisine")\]
-
-*   [![Bak kut teh with rice and you tiao fritters](//thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bak_Kut_Teh%2C_Singapore.JPG/250px-Bak_Kut_Teh%2C_Singapore.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Bak_Kut_Teh,_Singapore.JPG "Bak kut teh with rice and you tiao fritters")
+*   [![Bak kut teh with rice and you tiao fritters](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bak_Kut_Teh%2C_Singapore.JPG/250px-Bak_Kut_Teh%2C_Singapore.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Bak_Kut_Teh,_Singapore.JPG "Bak kut teh with rice and you tiao fritters")
     
     _Bak kut teh_ with rice and _you tiao_ fritters
     
-*   [![Hainanese chicken rice](//thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Chatterbox_ChickenRice.JPG/250px-Chatterbox_ChickenRice.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Chatterbox_ChickenRice.JPG "Hainanese chicken rice")
+*   [![Hainanese chicken rice](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Chatterbox_ChickenRice.JPG/250px-Chatterbox_ChickenRice.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Chatterbox_ChickenRice.JPG "Hainanese chicken rice")
     
     Hainanese chicken rice
     
-*   [![Fried Hokkien mee](//thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Newton_HokkienMee.JPG/250px-Newton_HokkienMee.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Newton_HokkienMee.JPG "Fried Hokkien mee")
+*   [![Fried Hokkien mee](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Newton_HokkienMee.JPG/250px-Newton_HokkienMee.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Newton_HokkienMee.JPG "Fried Hokkien mee")
     
     Fried Hokkien _mee_
     
-*   [![Prawn mee and pork rib soup](//thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Food_PorkRibPrawnMee.JPG/250px-Food_PorkRibPrawnMee.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_PorkRibPrawnMee.JPG "Prawn mee and pork rib soup")
+*   [![Prawn mee and pork rib soup](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Food_PorkRibPrawnMee.JPG/250px-Food_PorkRibPrawnMee.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_PorkRibPrawnMee.JPG "Prawn mee and pork rib soup")
     
     Prawn _mee_ and pork rib soup
     
@@ -2327,10 +842,6 @@ Chinese food as eaten in Singapore commonly originates from southern [China](htt
 *   **Wonton mee** (云吞面) is thin noodles topped with _wantan_ dumplings of seasoned minced pork. Unlike the soupy Hong Kong version, it is usually served 'dry' in soy sauce and chilli.
 *   **Yong tau foo** (酿豆腐) literally means "stuffed tofu", but it's more exciting than it sounds. The diner selects their favourites from a vast assortment of tofu, fish paste, assorted seafood and vegetables, and they are then sliced into bite-size pieces, cooked briefly in boiling water and then served either in broth as soup or "dry" with the broth in a separate bowl. The dish can be eaten by itself or with any choice of noodles. Essential accompaniments are spicy chili sauce and sweet sauce for dipping.
 
-#### Indian cuisine
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=66 "Edit section: Indian cuisine")\]
-
 The smallest of Singapore's big three ethnic groups, Indians have had proportionally the smallest impact on the local culinary scene, but there is no shortage of Indian food even at many hawker centres and most neighborhoods have at least a couple of **mamak** (Indian Muslim) shops, often open 24 hours. Delicious and authentic Indian food can be had at Little India, including south Indian typical meals such as _dosa_ (_thosai_) crepes, _idli_ lentil-rice cakes and _sambar_ soup, as well as north Indian meals including various curries, _naan_ bread, _chapati_, tandoori chicken and more. In addition, however, a number of Indian dishes have been "Singaporeanised" and adopted by the entire population, including:
 
 *   **Fish head curry** is, true to the name, a gigantic curried fish head cooked whole until it's ready to fall apart. Singapore's [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India#Eat "Singapore/Little India") is the place to sample this. There are two styles: the fiery Indian and the milder Chinese kind.
@@ -2338,28 +849,24 @@ The smallest of Singapore's big three ethnic groups, Indians have had proportion
 *   **Roti prata** is the local version of South Indian _parotta_, flat bread repeatedly flipped against a flat surface to thin it out, then folded onto itself, rapidly pan-fried, and eaten dipped in curry. Modern-day variations can incorporate unorthodox ingredients like cheese, chocolate and even ice cream, but some canonical versions include _roti kosong_ (plain), _roti telur_ (with egg) and _murtabak_ (stuffed with chicken, mutton, beef or fish). Vegans beware: unlike Indian _roti_, roti prata batter is usually made with eggs.
 *   **Putu mayam** is a sweet dessert composed of vermicelli-like noodles topped with shredded coconut and orange sugar.
 
-*   [![Fish Head Curry](//thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fisheadcurry.JPG/120px-Fisheadcurry.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Fisheadcurry.JPG "Fish Head Curry")
+*   [![Fish Head Curry](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fisheadcurry.JPG/120px-Fisheadcurry.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Fisheadcurry.JPG "Fish Head Curry")
     
     Fish Head Curry
     
-*   [![Roti kosong (left) and roti telur (centre) with a side order of chicken curry](//thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roti_Prata_Curry_Large.JPG/120px-Roti_Prata_Curry_Large.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Roti_Prata_Curry_Large.JPG "Roti kosong (left) and roti telur (centre) with a side order of chicken curry")
+*   [![Roti kosong (left) and roti telur (centre) with a side order of chicken curry](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roti_Prata_Curry_Large.JPG/120px-Roti_Prata_Curry_Large.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Roti_Prata_Curry_Large.JPG "Roti kosong (left) and roti telur (centre) with a side order of chicken curry")
     
     _Roti kosong_ (left) and _roti telur_ (centre) with a side order of chicken curry
     
-*   [![Nasi biryani](//thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Biryani.JPG/120px-Biryani.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Biryani.JPG "Nasi biryani")
+*   [![Nasi biryani](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Biryani.JPG/120px-Biryani.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Biryani.JPG "Nasi biryani")
     
     Nasi biryani
     
-
-### Hawker centres
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=67 "Edit section: Hawker centres")\]
 
 Social welfare Singapore style
 
 One thing notably absent from Singaporean cheap eateries is any form of napkins or tissues. The solution to the mystery is in Singapore's lack of government welfare: instead, every hawker centre has a resident invalid or two, who make a living by selling tissues ($1 for a few packets).
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Food_court.jpg/250px-Food_court.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_court.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Food_court.jpg/250px-Food_court.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Food_court.jpg)
 
 A typical hawker centre
 
@@ -2383,13 +890,13 @@ Every district in Singapore has its own hawker centres and prices decrease as yo
 
 ### Coffeeshops and bubble tea
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=68 "Edit section: Coffeeshops and bubble tea")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=68 "Edit section: Coffeeshops and bubble tea")\]
 
 Coffee, see and tea, oh!
 
 Coffee and tea in hawker centres and _kopitiam_ goes for around a dollar a cup, a steep discount on Starbucks prices, but you'll need to learn the lingo to get what you want. If you order just _kopi_ (the Malay word for "coffee") or _teh_ (Hokkien for "tea") in Singapore, it will definitely be served with a heaped spoonful of sugar, and more often than not with a squirt of sweet condensed milk. _Kopi-C_ or _teh-C_ substitutes unsweetened evaporated milk, while _kopi-O_ or _teh-O_ makes sure it's served with no milk. To get rid of the sugar, you need to ask for it _kosong_ ("plain"), but if you want a plain black cup of coffee, you need to ask for _kopi-O kosong_. If you want your drink cold, just add a _peng_ to the end of the drink name, eg. _kopi-O-peng_, _teh-peng_, _teh-C-peng_, _Milo-peng_ etc. and it will be served with ice.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg/250px-Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg/250px-Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Dessert_Merlion_Singapore_Cafe_Kaya_Toast.jpg)
 
 The canonical Singaporean breakfast: kopi, kaya toast and runny eggs
 
@@ -2399,33 +906,21 @@ The usual Starbucks and other local cafe chains such as Coffee Bean & Tea Leaf c
 
 Last but not least, the Taiwanese invention of **bubble tea** (aka boba tea, pearl tea) has taken Singapore by storm and every self-respecting shopping mall has numerous outlets hawking variants of sugary, milky tea with chewy tapioca pearls, jazzed up with increasingly inventive ingredients ranging from cream cheese foam to smoky, intense black sugar syrup. [Liho](https://royaltgroup.com/our-brands/liho.html) and [Koi](https://www.koithe.com/en) are the largest chains.
 
-### Food courts
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=69 "Edit section: Food courts")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vivo_City_Food_Republic.jpg/250px-Vivo_City_Food_Republic.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Vivo_City_Food_Republic.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vivo_City_Food_Republic.jpg/250px-Vivo_City_Food_Republic.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Vivo_City_Food_Republic.jpg)
 
 _Food Republic_ retro theme food court
 
 Found in the basement or top floor of nearly every shopping mall, food courts are the air-conditioned version of hawker centres. The variety of food on offer is almost identical, but a dish that would be $3-5 at a hawker centre or coffeeshop will be $5-10 at a food court. Locals will also grumble that the dish also tastes worse, because food court stalls are mostly franchised operations instead of mom & pop shops pouring their heart and soul into the food.
 
-### Fast food
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=70 "Edit section: Fast food")\]
-
 International fast food chains like McDonald's, Burger King, KFC, MOS Burger, Subway etc. are commonly found in various shopping malls. Prices range from $5 for a basic burger to upwards of $15 for a set meal. All restaurants are self-service and clearing your table after your meal is strongly encouraged. In addition to the usual suspects, look out for these uniquely Singaporean brands:
 
-*    [Bengawan Solo](https://bengawansolo.sg/). Malay and Peranakan-style _kueh_ cakes and Chinese-style cookies, sold both fresh by the piece and in large packs for gifting. Their pineapple tarts ($25) are famous, keep well and make a great souvenir; the _kueh lapis_ layer cake is also excellent, but has to be kept refrigerated. Every shopping mall has an outlet and they have branches at Changi Airport as well. (updated Sep 2026)
-*    [BreadTalk](https://www.breadtalk.com.sg/). This self-proclaimed "designer bread" chain has taken not just Singapore but much of Southeast Asia by storm. Everything is jazzily shaped, funkily named (e.g. _Crouching Tiger, Hidden Bacon_) and baked on premises. To the Western palate, almost everything is rather sweet. (updated Sep 2026)
-*    [Jollibean](https://www.jollibean.com). Fresh soy drinks, beancurd and tasty _mee chiang kueh_ Chinese pancakes. (updated Sep 2026)
-*    [Killiney Kopitiam](https://killiney-kopitiam.com/). Serves kaya toast, kopi and ginger tea (with ice or without); waiters at the original Somerset location shout your order towards the back with gusto. (updated Sep 2026)
-*    [Mr Bean](https://www.mrbean.com.sg/). Offers a variety of soya bean drinks, ice-creams and pastries snacks. (updated Sep 2026)
-*    [Old Chang Kee](https://www.oldchangkee.com/). Famous for their curry puffs, but their range now covers anything and everything deep-fried. Take-away only. (updated Sep 2026)
-*    [Ya Kun Kaya Toast](https://app.yakun.com/). Serves the classic Singaporean breakfast all day long: kaya toast, runny eggs and strong, sweet coffee (plus some other drinks). Arguably one of the more successful chains with branches as far away as South Korea and Japan. The main branch at Far East Square generally gets better reviews than the other branches. (updated Sep 2026)
-
-### Restaurants
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=71 "Edit section: Restaurants")\]
+*   [Bengawan Solo](https://bengawansolo.sg/). Malay and Peranakan-style _kueh_ cakes and Chinese-style cookies, sold both fresh by the piece and in large packs for gifting. Their pineapple tarts ($25) are famous, keep well and make a great souvenir; the _kueh lapis_ layer cake is also excellent, but has to be kept refrigerated. Every shopping mall has an outlet and they have branches at Changi Airport as well. (updated Sep 2026)
+*   [BreadTalk](https://www.breadtalk.com.sg/). This self-proclaimed "designer bread" chain has taken not just Singapore but much of Southeast Asia by storm. Everything is jazzily shaped, funkily named (e.g. _Crouching Tiger, Hidden Bacon_) and baked on premises. To the Western palate, almost everything is rather sweet. (updated Sep 2026)
+*   [Jollibean](https://www.jollibean.com/). Fresh soy drinks, beancurd and tasty _mee chiang kueh_ Chinese pancakes. (updated Sep 2026)
+*   [Killiney Kopitiam](https://killiney-kopitiam.com/). Serves kaya toast, kopi and ginger tea (with ice or without); waiters at the original Somerset location shout your order towards the back with gusto. (updated Sep 2026)
+*   [Mr Bean](https://www.mrbean.com.sg/). Offers a variety of soya bean drinks, ice-creams and pastries snacks. (updated Sep 2026)
+*   [Old Chang Kee](https://www.oldchangkee.com/). Famous for their curry puffs, but their range now covers anything and everything deep-fried. Take-away only. (updated Sep 2026)
+*   [Ya Kun Kaya Toast](https://app.yakun.com/). Serves the classic Singaporean breakfast all day long: kaya toast, runny eggs and strong, sweet coffee (plus some other drinks). Arguably one of the more successful chains with branches as far away as South Korea and Japan. The main branch at Far East Square generally gets better reviews than the other branches. (updated Sep 2026)
 
 Kee-ping up with the Lims
 
@@ -2447,17 +942,13 @@ Most hotels also offer lunch and dinner buffets. **Champagne brunches** on Sunda
 
 Some restaurants put small side dishes (usually braised peanuts or prawn crackers) and wet paper towels on the table without asking. You will be charged a dollar or two for them unless you ask to take them away.
 
-#### Fine dining
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=72 "Edit section: Fine dining")\]
-
 Singapore has no fewer than 44 [Michelin](https://guide.michelin.com/sg/en/)\-starred restaurants, ranging from French degustations at 3-star Odette in the National Gallery to the eponymous $5 bowl at Tai Hwa Pork Noodle. The opening of the two casinos in [Marina Bay](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") and [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa") has led to several of the world's top chefs opening local branches of their restaurants. Prices are generally what you would expect for eating at a fine dining restaurant in the West, with $400 per person or more not unheard of for a tasting menu with drinks.
 
 ### Dietary restrictions
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=73 "Edit section: Dietary restrictions")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=73 "Edit section: Dietary restrictions")\]
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Vegan_tali_Annalakshmi.JPG/250px-Vegan_tali_Annalakshmi.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Vegan_tali_Annalakshmi.JPG)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Vegan_tali_Annalakshmi.JPG/250px-Vegan_tali_Annalakshmi.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Vegan_tali_Annalakshmi.JPG)
 
 A vegan _thali_ platter in [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India")
 
@@ -2473,12 +964,7 @@ Awareness of **allergies** is generally limited. Severe **shellfish allergy** is
 
 **Coeliac disease** is relatively unheard of in Singapore, so don't expect to find information on menus about whether dishes contain gluten or not. Gluten awareness is spreading in Singapore as well, and many upmarket restaurants will have internationally trained chefs who can cater to your needs. Gluten-free products are available in most **[Cold Storage](https://coldstorage.com.sg/)** and Marketplace supermarkets. You can also treat yourself to many naturally gluten-free regional specialities, such as Hainanese chicken rice (be sure to ask for chicken without sauce) and Indian _masala dosa_ rice/lentil crepes.
 
-Drink
------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=74 "Edit section: Drink")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/14/ClarkeQuay_Purple.JPG/500px-ClarkeQuay_Purple.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:ClarkeQuay_Purple.JPG)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/ClarkeQuay_Purple.JPG/500px-ClarkeQuay_Purple.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:ClarkeQuay_Purple.JPG)
 
 Clarke Quay by night
 
@@ -2494,11 +980,7 @@ For a night out Singapore style, gather a group of friends and head for the near
 
 At the other end of the karaoke spectrum are various non-chain, glitzy (or dodgy) looking, neon-covered **KTV lounges**, in which attractive female hostesses flirt and drink with male patrons in exchange for tips. These are typically much more expensive than the family-friendly establishments. Perhaps unique to Singapore is the **Thai disco** (_siam diu_), where patrons compete for the affections of attractive female entertainers — who, despite the name, can be from anywhere in the region as well as Singapore itself — by purchasing expensive drinks and "flowers" (garlands or sashes) for anywhere from $50 to $10,000 or more. Unlike some neighboring countries, there's no nudity or sex involved: your money buys the chance to chat with them, nothing more, and there's enough non-obvious social etiquette involved that these places are best visited with a Singaporean guide or not at all.
 
-### Alcohol
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=75 "Edit section: Alcohol")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Singapore_Sling.jpg/250px-Singapore_Sling.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Sling.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Singapore_Sling.jpg/250px-Singapore_Sling.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Sling.jpg)
 
 The original Singapore Sling at the Raffles Hotel
 
@@ -2512,11 +994,7 @@ Prices when drinking out vary. You can enjoy a large bottle of beer of your choi
 
 Tourists flock to the Long Bar in the [Raffles Hotel](https://en.wikivoyage.org/wiki/Singapore/Riverside#Drink "Singapore/Riverside") to sample the original **Singapore Sling**, a sickly sweet pink mix of pineapple juice, gin, Peter Heering, D.O.M., Cointreau, Angostura and lime juice invented at the Long Bar in 1915, but locals rarely touch the stuff. The tipple of choice in Singapore is the local beer, **Tiger**, a refreshing if unexciting lager, but a microbrewery boom has led to outlets such as **Brewerkz** (Riverside Point), **Paulaner Brauhaus** (Millenia Walk) and **Pump Room** (Clarke Quay) offering interesting alternatives.
 
-### Tobacco
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=76 "Edit section: Tobacco")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Singapore-Designated-smoking-area-sign-01.jpg/250px-Singapore-Designated-smoking-area-sign-01.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore-Designated-smoking-area-sign-01.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Singapore-Designated-smoking-area-sign-01.jpg/250px-Singapore-Designated-smoking-area-sign-01.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore-Designated-smoking-area-sign-01.jpg)
 
 Smoking is allowed only in designated areas
 
@@ -2524,28 +1002,15 @@ Tobacco is heavily taxed, and you are not allowed to bring cigarettes into Singa
 
 The legal smoking age is 21, and shops selling cigarettes may ask for identification before selling you some. Most public places including hawker centres have restrictions on smoking, and it is prohibited in public transport as well. There is a total ban on smoking in all air-conditioned places (including pubs and discos), and strict limitations on where you can smoke outside as well (e.g., within 5 metres of bus stops and building entrances, parks, covered walkways and shelters, playgrounds are off limits). The designated zone should be marked with a yellow outline, and may have a green garbage can with an ashtray and/or have a sign reading "smoking zone". The list of places where smoking is prohibited and the (much shorter) list of where it is allowed is published on a [government website](https://www.nea.gov.sg/our-services/smoking-prohibition/overview).
 
-Sleep
------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=77 "Edit section: Sleep")\]
-
 _Individual listings can be found in Singapore's [district](#Districts) articles_
 
-This guide uses the following price ranges for a standard _double_ room:
 
-**Budget**
+|This guide uses the following price ranges for a standard double room:|          |
+|----------------------------------------------------------------------|----------|
+|Budget                                                                |Under $100|
+|Mid-range                                                             |$100-300  |
+|Splurge                                                               |Over $300 |
 
-Under $100
-
-**Mid-range**
-
-$100-300
-
-**Splurge**
-
-Over $300
-
- 
 
 Accommodation in Singapore is expensive by South-East Asian standards. Particularly in the higher price brackets, demand outstrips supply and during big events like the F1 race or some of the larger conventions it's not uncommon for pretty much everything to sell out. Lower-end hotels and hostels, though, remain affordable and available throughout the year.
 
@@ -2557,47 +1022,27 @@ GST and Service charge are generally not included in the advertised rates. There
 
 As it is a crime to harbour illegal immigrants, hotels will need to check the passports and electronic visit passes of all guests at check-in to ensure that they are in the country legally; make sure you have a working mobile data connection or have your visit pass saved offline as you won't be able to check in without it. Likewise, for long-term accommodation, your landlord will need to check your passport and long-term visit pass (e.g. work permit, student pass, etc.); if they do not, this is a red flag, as they might be using their property to conceal illegal vice activities.
 
-### Budget
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=78 "Edit section: Budget")\]
-
 [Backpackers' hostels](https://en.wikivoyage.org/wiki/Hostels "Hostels") can be found primarily in [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India"), [Bugis](https://en.wikivoyage.org/wiki/Singapore/Bugis "Singapore/Bugis"), [Clarke Quay](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside") and the [East Coast](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast"). Backpacker hostels cost from $20–40 for a dorm bed. There seems to be a [bedbug](https://en.wikivoyage.org/wiki/Bedbugs "Bedbugs") epidemic among many of the very cheapest hostels — read the reviews carefully before booking.
 
 Cheap hotels are clustered in the [Geylang](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast"), [Balestier](https://en.wikivoyage.org/wiki/Singapore/Balestier "Singapore/Balestier") and [Little India](https://en.wikivoyage.org/wiki/Singapore/Little_India "Singapore/Little India") districts, where they service mostly the type of customer who rents rooms by the hour. Rooms are generally small and not fancy, but are still clean and provide basic facilities such as a bathroom and television. Prices start as low as $30 for "day use" of a few hours and $60 for a full night's stay. The three major chains, with hotels throughout the island, are:
 
-*    [Hotel 81](https://www.wwhotels.com/hotel-81/), ☏ [+65 6767 8181](tel:+6567678181). Singapore's largest budget hotel chain, with over 20 functional hotels with rates starting at $69 for two. (updated Sep 2026)
-*    [Ibis Budget](https://ibis.accor.com/gb/city/hotels-singapore-v5579.shtml). French chain Accor operates no less than 14 Ibis Budgets in Singapore, many of them rebadged Fragrances. (updated Sep 2026)
-*    [Fragrance Hotel](https://www.fragrancehotel.com/), ☏ [+65 6345 6116](tel:+6563456116). Chain of 8 hotels. Rooms from $80, discounts on weekends and for ISIC holders. (updated Sep 2026)
+*   [Hotel 81](https://www.wwhotels.com/hotel-81/), ☏ [+65 6767 8181](tel:+6567678181). Singapore's largest budget hotel chain, with over 20 functional hotels with rates starting at $69 for two. (updated Sep 2026)
+*   [Ibis Budget](https://ibis.accor.com/gb/city/hotels-singapore-v5579.shtml). French chain Accor operates no less than 14 Ibis Budgets in Singapore, many of them rebadged Fragrances. (updated Sep 2026)
+*   [Fragrance Hotel](https://www.fragrancehotel.com/), ☏ [+65 6345 6116](tel:+6563456116). Chain of 8 hotels. Rooms from $80, discounts on weekends and for ISIC holders. (updated Sep 2026)
 
 If room card is used to activate room electricity supply, you might want to request an additional room card to keep air conditioning on when you are out, thus preventing heat and humid accumulating in the room when you are out.
 
 **[Camping](https://en.wikivoyage.org/wiki/Camping "Camping")** is only allowed at designated campsites, and you must apply for a camping permit a least 14 days in advance. Depending on who owns the campsite, you can obtain the permit from either the National Parks Board or the [Singapore Land Authority](https://www.sla.gov.sg/properties/management-of-state-land-and-property/visiting-the-sla-managed-islands). The permit is free, but you will need someone with a Singapore ID to apply on your behalf.
 
-### Mid-range
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=79 "Edit section: Mid-range")\]
-
 Much of Singapore's mid-range accommodation is in rather featureless but functional older hotels, with a notable cluster near the western end of the [Singapore River](https://en.wikivoyage.org/wiki/Singapore/Riverside "Singapore/Riverside"). There has, however, been a surge of "boutique" hotels in renovated shophouses here and in [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown"), these can be pretty good value, with rates starting from $200/night.
 
-### Splurge
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=80 "Edit section: Splurge")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Raffles_Hotel%2C_frontage.jpg/250px-Raffles_Hotel%2C_frontage.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Raffles_Hotel,_frontage.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Raffles_Hotel%2C_frontage.jpg/250px-Raffles_Hotel%2C_frontage.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Raffles_Hotel,_frontage.jpg)
 
 Raffles Hotel
 
 Singapore has an extensive selection of luxury accommodation, including the [grand old](https://en.wikivoyage.org/wiki/Grand_old_hotels "Grand old hotels") **Raffles Hotel** and all the usual multinational brands. You will generally be looking at upwards of $600 per night for a room in a five-star hotel. Hotel rates fluctuate quite a bit: a large conference can double prices, while on weekends in the off-peak season heavy discounts are often available. The largest hotel clusters can be found at [Marina Bay](https://en.wikivoyage.org/wiki/Singapore/Marina_Bay "Singapore/Marina Bay") (good for sightseeing) and around [Orchard Road](https://en.wikivoyage.org/wiki/Singapore/Orchard "Singapore/Orchard") (good for shopping), but if you're looking for a tropical beach resort feel, check out [Sentosa](https://en.wikivoyage.org/wiki/Singapore/Sentosa "Singapore/Sentosa").
 
-### Vacation rentals
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=81 "Edit section: Vacation rentals")\]
-
 Short-term home or room rentals (of 6 months or less) such as provided by platforms such as Airbnb are _illegal_ in Singapore. Advertising rooms or houses on such platforms is _not_ illegal, so don't be surprised to find a handful of Singapore listings on Airbnb. Although enforcement of the law has been lenient so far, immediate action will be taken if there is any complaint by the neighbours. In case this happens, the guests will not face any adverse consequences other than having to find another place to stay at relatively short notice, but the host may be subject to legal action.
-
-### Long-term
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=82 "Edit section: Long-term")\]
 
 Housing in Singapore is expensive, as the high population density and sheer scarcity of land drives real estate prices through the roof. As a result, you would generally be looking at rentals on par with the likes of [New York](https://en.wikivoyage.org/wiki/New_York_City "New York City") and [London](https://en.wikivoyage.org/wiki/London "London").
 
@@ -2609,42 +1054,28 @@ One or two-month security deposits are standard practice and you usually need to
 
 Malaysians and Indonesians who work or study in Singapore often choose to live across the border in [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") and [Batam](https://en.wikivoyage.org/wiki/Batam "Batam") respectively, where housing costs are much cheaper, the obvious downside being that this results in a very long commute.
 
-Learn
------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=83 "Edit section: Learn")\]
-
 Singapore's universities are generally well-regarded and draw exchange students from near and far.
 
-*    [National University of Singapore (NUS)](https://www.nus.edu.sg/). Singapore's oldest university, strong in law, medicine, computing and science. One of the premier universities in Asia. (updated Sep 2026)
-*    [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). The second university, created after the original Chinese-medium Nanyang University was shut down in favour of English teaching. More geared towards engineering, media and business studies, and also the host for Youth Olympics 2010. (updated Sep 2026)
-*    [Singapore Management University (SMU)](https://www.smu.edu.sg/). The third, and the only publicly-funded private university in Singapore. Geared towards finance and business. (updated Sep 2026)
-*    [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). The fourth autonomous university in Singapore, established in collaboration with MIT. Teaches engineering and architecture with a special focus on design. (updated Sep 2026)
-*    [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/). Previously known as Singapore Institute of Management (SIM) Singapore's private university with a number of international degree courses. The school offers a wide range of first degrees, from the arts to business to technology studies. As of 17 March 2017, SUSS is restructuring to become Singapore's newest autonomous university. (updated Sep 2026)
+*   [National University of Singapore (NUS)](https://www.nus.edu.sg/). Singapore's oldest university, strong in law, medicine, computing and science. One of the premier universities in Asia. (updated Sep 2026)
+*   [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). The second university, created after the original Chinese-medium Nanyang University was shut down in favour of English teaching. More geared towards engineering, media and business studies, and also the host for Youth Olympics 2010. (updated Sep 2026)
+*   [Singapore Management University (SMU)](https://www.smu.edu.sg/). The third, and the only publicly-funded private university in Singapore. Geared towards finance and business. (updated Sep 2026)
+*   [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). The fourth autonomous university in Singapore, established in collaboration with MIT. Teaches engineering and architecture with a special focus on design. (updated Sep 2026)
+*   . Previously known as Singapore Institute of Management (SIM) Singapore's private university with a number of international degree courses. The school offers a wide range of first degrees, from the arts to business to technology studies. As of 17 March 2017, SUSS is restructuring to become Singapore's newest autonomous university. (updated Sep 2026)
 
 A number of foreign universities, business schools and specialised institutes have also set up their Asian campuses in Singapore.
 
-*    [SP Jain School of Global Management (SPJ)](https://www.spjain.sg/). International campus of the business school in [Mumbai](https://en.wikivoyage.org/wiki/Mumbai "Mumbai"). (updated Sep 2026)
-*    [INSEAD](https://www.insead.edu/about-insead/campuses). The Asian campus of European business school, INSEAD. (updated Sep 2026)
-*    [University of Chicago Booth School of Business](https://www.chicagobooth.edu/visit/singapore/index). The Asian campus of the University of Chicago Graduate School of Business, offering one of the most expensive MBAs in the world. (updated Sep 2026)
-*    [DigiPen Institute of Technology](https://www.digipen.edu/). The Asian campus of the DigiPen Institute of Technology, [Redmond](https://en.wikivoyage.org/wiki/Redmond_(Washington) "Redmond (Washington)"), [Seattle](https://en.wikivoyage.org/wiki/Seattle "Seattle"), [Washington](https://en.wikivoyage.org/wiki/Washington_(state) "Washington (state)"). (updated Sep 2026)
-*    [ESSEC](https://www.essec.edu/en/campus/singapore/). International campus of the business school in [Paris](https://en.wikivoyage.org/wiki/Paris "Paris"). (updated Sep 2026)
+*   [SP Jain School of Global Management (SPJ)](https://www.spjain.sg/). International campus of the business school in [Mumbai](https://en.wikivoyage.org/wiki/Mumbai "Mumbai"). (updated Sep 2026)
+*   [INSEAD](https://www.insead.edu/about-insead/campuses). The Asian campus of European business school, INSEAD. (updated Sep 2026)
+*   [University of Chicago Booth School of Business](https://www.chicagobooth.edu/visit/singapore/index). The Asian campus of the University of Chicago Graduate School of Business, offering one of the most expensive MBAs in the world. (updated Sep 2026)
+*   [DigiPen Institute of Technology](https://www.digipen.edu/). The Asian campus of the DigiPen Institute of Technology, [Redmond](https://en.wikivoyage.org/wiki/Redmond_\(Washington\) "Redmond (Washington)"), [Seattle](https://en.wikivoyage.org/wiki/Seattle "Seattle"), [Washington](https://en.wikivoyage.org/wiki/Washington_\(state\) "Washington (state)"). (updated Sep 2026)
+*   [ESSEC](https://www.essec.edu/en/campus/singapore/). International campus of the business school in [Paris](https://en.wikivoyage.org/wiki/Paris "Paris"). (updated Sep 2026)
 
-### Cooking
+*   [at-Sunrice](https://www.at-sunrice.com/news-and-events/spiceodyssey/), Fort Canning Park, ☏ [+65 6336 3307](tel:+6563363307). A professional cooking academy that also does day classes for the public. The crowd-pleaser is the "Spice Garden Walk" ($40) at Fort Canning, where a chef introduces you to local herbs and spices and their uses in cuisine and medicine, and then guides you in the fine art of making your own curry paste. Reservations essential. (updated Sep 2026)
+*   [Cookery Magic](https://cookerymagic.com/), 179 Haig Rd, ☏ [+65 6348 9667](tel:+6563489667), [info@cookerymagic.com](mailto:info@cookerymagic.com). Cooking classes in an old colonial black-and-white home, with themes varying by day and cuisines from all over the continent. 8 students maximum. From $65. (updated Sep 2026)
+*   [Palate Sensations](https://www.palatesensations.com/), 1 Westbourne Road #03-05, ☏ [+65 6479 9025](tel:+6564799025), [info@palatesensations.com](mailto:info@palatesensations.com). Hands-on cooking classes in both European and Asian styles, held in a colonial black and white bungalow in rural western Singapore. 12 students maximum. From $100. (updated Sep 2026)
+*   [D'Open Kitchen](https://www.dopenkitchen.com.sg/), 6A Shenton Way, #B1-07, Singapore 068815, ☏ [+65 82286217](tel:+6582286217), [info@dopenkitchen.com](mailto:info@dopenkitchen.com). Cooking team building classes. Market tours, virtual cooking and baking classes. From $80. (updated Sep 2026)
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=84 "Edit section: Cooking")\]
-
-*    [at-Sunrice](https://www.at-sunrice.com/news-and-events/spiceodyssey/), Fort Canning Park, ☏ [+65 6336 3307](tel:+6563363307). A professional cooking academy that also does day classes for the public. The crowd-pleaser is the "Spice Garden Walk" ($40) at Fort Canning, where a chef introduces you to local herbs and spices and their uses in cuisine and medicine, and then guides you in the fine art of making your own curry paste. Reservations essential. (updated Sep 2026)
-*    [Cookery Magic](https://cookerymagic.com/), 179 Haig Rd, ☏ [+65 6348 9667](tel:+6563489667), [info@cookerymagic.com](mailto:info@cookerymagic.com). Cooking classes in an old colonial black-and-white home, with themes varying by day and cuisines from all over the continent. 8 students maximum. From $65. (updated Sep 2026)
-*    [Palate Sensations](https://www.palatesensations.com/), 1 Westbourne Road #03-05, ☏ [+65 6479 9025](tel:+6564799025), [info@palatesensations.com](mailto:info@palatesensations.com). Hands-on cooking classes in both European and Asian styles, held in a colonial black and white bungalow in rural western Singapore. 12 students maximum. From $100. (updated Sep 2026)
-*    [D'Open Kitchen](https://www.dopenkitchen.com.sg/), 6A Shenton Way, #B1-07, Singapore 068815, ☏ [+65 82286217](tel:+6582286217), [info@dopenkitchen.com](mailto:info@dopenkitchen.com). Cooking team building classes. Market tours, virtual cooking and baking classes. From $80. (updated Sep 2026)
-
-Work
-----
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=85 "Edit section: Work")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Marina_Bay_Financial_Centre%2C_Asia_Square%2C_The_Sail_%40_Marina_Bay%2C_and_One_Raffles_Quay%2C_Singapore_-_20140819.jpg/250px-Marina_Bay_Financial_Centre%2C_Asia_Square%2C_The_Sail_%40_Marina_Bay%2C_and_One_Raffles_Quay%2C_Singapore_-_20140819.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Marina_Bay_Financial_Centre,_Asia_Square,_The_Sail_@_Marina_Bay,_and_One_Raffles_Quay,_Singapore_-_20140819.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Marina_Bay_Financial_Centre%2C_Asia_Square%2C_The_Sail_%40_Marina_Bay%2C_and_One_Raffles_Quay%2C_Singapore_-_20140819.jpg/250px-Marina_Bay_Financial_Centre%2C_Asia_Square%2C_The_Sail_%40_Marina_Bay%2C_and_One_Raffles_Quay%2C_Singapore_-_20140819.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Marina_Bay_Financial_Centre,_Asia_Square,_The_Sail_@_Marina_Bay,_and_One_Raffles_Quay,_Singapore_-_20140819.jpg)
 
 Banks in Marina Bay
 
@@ -2660,12 +1091,7 @@ Once you have been legally working in Singapore for a few years on an EP/S-Pass,
 
 Those gaining permanent residency through the Professionals/Technical Personnel and Skilled Workers Scheme or Investor Scheme are not required to report for the national service (conscription), but male second-generation PRs are required to register and report for enlistment once they attained the specified ages.
 
-Stay safe
----------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=86 "Edit section: Stay safe")\]
-
-[![](//thumb.wikimedia.org/wikivoyage/en/thumb/d/de/Singapore_FineCity.JPG/250px-Singapore_FineCity.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_FineCity.JPG)
+[![](https://thumb.wikimedia.org/wikivoyage/en/thumb/d/de/Singapore_FineCity.JPG/250px-Singapore_FineCity.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_FineCity.JPG)
 
 Forbidden items in the MRT trains and stations
 
@@ -2685,10 +1111,6 @@ There's more to the list than just porn, firearms, and drugs, although not all o
 
 Singapore is one of the safest major cities in the world by virtually any measure. Most people, including female travellers, will not face any problems walking along the streets alone at night. But as the local police say, "low crime does not mean no crime" — beware of [pickpockets](https://en.wikivoyage.org/wiki/Pickpockets "Pickpockets") in crowded areas and don't forget your common sense entirely.
 
-### Crime
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=87 "Edit section: Crime")\]
-
 The **[Singapore Police Force](https://www.police.gov.sg/)** is responsible for law enforcement throughout the country, and you can recognise police officers by their distinctive dark blue uniforms. Police officers are required to carry their warrant cards while on duty, and are required to present it when performing their duties out of uniform (e.g. when making arrests or asking members of the public for information about crimes) Most visitors will find Singaporean police officers to be professional and helpful, and you should report any crimes that you encounter to them as soon as possible: timely police reports often result in the apprehension of criminals within _hours_.
 
 If you get arrested, Singaporean police have broader powers than their Western counterparts. While you are entitled to have a lawyer represent you at trial, the police will not allow you to speak to a lawyer until after they have finished their interrogation. You do not have the right to silence and are required to answer the police's questions truthfully. You should always disclose all facts in your defence during your interrogation, as failure to do so could result in the judge not believing you should you raise them for the first time at your trial.
@@ -2697,13 +1119,13 @@ Singapore's squeaky cleanliness is achieved in part by its strict rules against 
 
 **Chewing gum**, famously long banned, is now available at pharmacies for medical purposes (e.g., nicotine gum) if you ask for it directly, show your ID and sign the register. While importing gum is still officially an offence, you can usually bring in a few packs for personal consumption without any problem.
 
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/K-9_Unit_Singapore.jpg/250px-K-9_Unit_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:K-9_Unit_Singapore.jpg)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/K-9_Unit_Singapore.jpg/250px-K-9_Unit_Singapore.jpg?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:K-9_Unit_Singapore.jpg)
 
 Police officers in Singapore
 
 For some crimes, most notably **illegal entry** and **overstaying your visa**, Singapore imposes caning as a punishment for male offenders. Other offences which have caning as a punishment include vandalism, robbery, molestation and rape. Having sex with a girl under the age of 16 is a crime under Singapore law even if she consents to it. Strokes from the thick rattan cane are excruciatingly painful, take weeks to heal and scar for life. Crimes such as murder, kidnapping, unauthorised possession of firearms and drug trafficking are punished with death.
 
-Long criminalized under a colonial-era statute, male homosexuality was legalized in January 2023, while female homosexuality has always been legal. While attitudes towards gays, lesbians and transgender people still often leave much to be desired, especially among the Muslim and Christian communities, unprovoked violence is almost unheard of, and you are unlikely to get anything beyond drawing stares and whispers. Under Singapore law, transgender people may change their legal gender and use public toilets accordingly – _after_ undergoing sex reassignment surgery. The closest Singapore comes to a "gaybourhood" is Tanjong Pagar near [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown"), and **[Pink Dot](https://pinkdot.sg)** is Singapore's largest LGBTQ+ organisation; they hold an annual pride rally every June in Hong Lim Park, though foreigners are not allowed to participate.
+Long criminalized under a colonial-era statute, male homosexuality was legalized in January 2023, while female homosexuality has always been legal. While attitudes towards gays, lesbians and transgender people still often leave much to be desired, especially among the Muslim and Christian communities, unprovoked violence is almost unheard of, and you are unlikely to get anything beyond drawing stares and whispers. Under Singapore law, transgender people may change their legal gender and use public toilets accordingly – _after_ undergoing sex reassignment surgery. The closest Singapore comes to a "gaybourhood" is Tanjong Pagar near [Chinatown](https://en.wikivoyage.org/wiki/Singapore/Chinatown "Singapore/Chinatown"), and **[Pink Dot](https://pinkdot.sg/)** is Singapore's largest LGBTQ+ organisation; they hold an annual pride rally every June in Hong Lim Park, though foreigners are not allowed to participate.
 
 **Begging** is illegal in Singapore, but you'll occasionally see [beggars](https://en.wikivoyage.org/wiki/Begging "Begging") on the streets. Most are not Singaporean – even the "monks" dressed in robes, who occasionally pester tourists for donations, are usually bogus.
 
@@ -2711,102 +1133,62 @@ Singapore's constitution pledges "freedom of expression", but in practice this r
 
 It is illegal to display the **flags or emblems of foreign countries or territories** in public unless you are a diplomat representing that country, or have otherwise received special permission from the government. The government usually grants permission for spectators at major international sporting events, but do double-check with the organisers beforehand.
 
-### Natural disasters
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=88 "Edit section: Natural disasters")\]
-
 Singapore is virtually immune to **natural disasters**: there are no fault lines nearby, although slight tremors from Indonesia's earthquakes can sometimes be felt from the upper storeys of buildings. Other landmasses shield it from tsunamis, and the local conditions are not conducive to the formation of typhoons and tornadoes. Flooding in the November–January monsoon season and flash-flooding from heavy rainfall is an occasional hazard, especially in low-lying parts of the East Coast, but any water usually drains off within a day and life continues as normal.
 
-### Drugs
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=89 "Edit section: Drugs")\]
-
-Singapore treats **drug offences** _extremely_ severely. The death penalty is mandatory for those convicted of trafficking, manufacturing, importing or exporting more than 15 g of heroin, 30 g of morphine, 30 g of cocaine, 250 g of methamphetamine, 500 g of cannabis, 200 g of cannabis resin and 1.2 kg of opium, and possession of these quantities is all that is needed for you to be convicted.
+Singapore treats **drug offences** _extremely_ severely. The death penalty is mandatory for those convicted of trafficking, manufacturing, importing or exporting more than 15 g of heroin, 30 g of morphine, 30 g of cocaine, 250 g of methamphetamine, 500 g of cannabis, 200 g of cannabis resin and 1.2 kg of opium, and possession of these quantities is all that is needed for you to be convicted.
 
 Drug consumption can result in up to 10 years in prison, a fine of $20,000, or both. Possession of drug paraphernalia can result in up to 3 years' imprisonment, a fine of $10,000 or both, even if you test negative and no drugs are found in your possession. First-timers are usually sent for a six-month stint at the Changi Drug Rehabilitation Centre, which is jail in all but name.
 
-[Central Narcotics Bureau](https://www.cnb.gov.sg) plainclothes officers are often stationed undercover at bars and nightclubs, and have the right to search anywhere without a warrant for drugs, as well as subject you to a drug test. You can be charged as long as drugs are found in your possession, even if they aren't yours and regardless of whether you're aware of them. Drug consumption outside Singapore is _not_ a crime for visitors, but you can still expect to be deported if you test positive.
+[Central Narcotics Bureau](https://www.cnb.gov.sg/) plainclothes officers are often stationed undercover at bars and nightclubs, and have the right to search anywhere without a warrant for drugs, as well as subject you to a drug test. You can be charged as long as drugs are found in your possession, even if they aren't yours and regardless of whether you're aware of them. Drug consumption outside Singapore is _not_ a crime for visitors, but you can still expect to be deported if you test positive.
 
 If you must bring **potentially forbidden medicines**, check with the [Singapore Health Sciences Authority](https://www.hsa.gov.sg/) to find out, and (as needed and allowed) obtain written permission to bring them.
 
-### Bribery
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=90 "Edit section: Bribery")\]
-
 Singapore is generally considered to be relatively free from corruption in both public and private life. **Bribery** is a very serious offence penalised with long jail terms together with fines. Do _not_, under any circumstances, offer a bribe to a police officer or any other public servant, since that is likely to result in your immediate arrest. It is a crime for public servants to accept gifts from anyone they have official dealings with, even if no favours were given in exchange. While the laws governing private sector employees are not as strict, presenting a gift during business negotiations could raise suspicions over corrupt intent, which may lead to legal issues.
-
-*    [Corrupt Practices Investigation Bureau](https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct), 2 Lengkok Bahru/247 Whitley Road, ☏ [+65-1800-376-0000](tel:+65-1800-376-0000), [report@cpib.gov.sg](mailto:report@cpib.gov.sg). The main corruption investigation and law enforcement agency for Singapore which effectively eradicated corruption after its establishment, and has been emulated by other jurisdictions.  [![Corrupt Practices Investigation Bureau on Wikipedia](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Antu_wikipedia.svg/20px-Antu_wikipedia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/w:Corrupt_Practices_Investigation_Bureau "Corrupt Practices Investigation Bureau on Wikipedia") [![Corrupt Practices Investigation Bureau (Q1045329) on Wikidata](//thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/d:Q1045329 "Corrupt Practices Investigation Bureau (Q1045329) on Wikidata") (updated Sep 2026)
 
 ### Racial and religious discrimination
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=91 "Edit section: Racial and religious discrimination")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=91 "Edit section: Racial and religious discrimination")\]
 
 Singapore has made great efforts to ensure a peaceful integrated society; making disparaging remarks against _any_ ethnicity or religion is punishable by 5 years of imprisonment. Bloggers have been arrested and imprisoned for making racist remarks on their blogs, and religious leaders have also gotten into trouble with the law for insulting other religions in their sermons.
 
 The Jehovah's Witnesses are banned for locals in Singapore (due to their avoidance of military service), but this generally does not affect tourists so long as they do not proselytise.
 
-### Prostitution
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=92 "Edit section: Prostitution")\]
-
 Prostitution is legal in designated red-light districts. While the **age of consent** in Singapore is 16, a higher minimum age of 18 applies to prostitutes (ignorance of the prostitute's age is no excuse). The industry keeps a low profile, and you are unlikely to run into it unless you go looking for it. Prostitutes soliciting business in the street are unlicensed, thus illegal and not screened for STDs; some of them may be victims of human trafficking or underaged.
 
 Be sure to avoid the street vendors peddling sex enhancement drugs. These are unlicensed, and people have been hospitalised or even died from consuming these drugs.
 
-### Emergency numbers
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=93 "Edit section: Emergency numbers")\]
-
-*    Police (main number for Emergency Services), ☏ 999.
-    *    Police (emergency SMS), ☏ 71999 (local rate)Country code missing.
-    *    Police (scam enquiry), ☏ 1799 (local rate).
-*    Ambulance / Fire Services, ☏ 995.
-    *    Ambulance / Fire Services (emergency SMS for deaf people), ☏ 70995 (local rate)Country code missing.
-*    Non-emergency ambulance, ☏ 1777.
-*    Singapore General Hospital, ☏ [+65 6222 3322](tel:+6562223322).
-*    Drug & Poison Information Centre, ☏ [+65 6423 9119](tel:+6564239119).
-
-Stay healthy
-------------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=94 "Edit section: Stay healthy")\]
+*   Police (main number for Emergency Services), ☏ 999.  
+    *   Police (emergency SMS), ☏ 71999 (local rate)Country code missing.  
+    *   Police (scam enquiry), ☏ 1799 (local rate).  
+*   Ambulance / Fire Services, ☏ 995.  
+    *   Ambulance / Fire Services (emergency SMS for deaf people), ☏ 70995 (local rate)Country code missing.  
+*   Non-emergency ambulance, ☏ 1777.  
+*   Singapore General Hospital, ☏ [+65 6222 3322](tel:+6562223322).  
+*   Drug & Poison Information Centre, ☏ [+65 6423 9119](tel:+6564239119).  
 
 **[Tap water](https://en.wikivoyage.org/wiki/Tap_water "Tap water")** is safe for drinking with very high sanitation standards. The hot and humid climate means that drinking plenty of water is advisable.
 
 [Malaria](https://en.wikivoyage.org/wiki/Malaria "Malaria") is not an issue, but [dengue fever](https://en.wikivoyage.org/wiki/Dengue_fever "Dengue fever") is endemic to the region and there are occasional cases of [Zika virus](https://en.wikivoyage.org/wiki/Zika_virus "Zika virus"). Singapore maintains strict mosquito control (leaving standing water around will get you fined), but the government's reach does not extend into the island's nature reserves, so if you're planning on hiking bring along mosquito repellent.
 
-### Medical care
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=95 "Edit section: Medical care")\]
-
 The standard of medical care in Singapore is uniformly excellent, and Singapore is a popular destination for [medical tourism](https://en.wikivoyage.org/wiki/Medical_tourism "Medical tourism") and medical evacuations in the region. Despite the lower prices, standards are usually as good as those in the West at public and private clinics and hospitals, making this a good place to get your jabs and tabs if heading off into the jungle elsewhere. You'll still want to make sure your insurance is in order before a prolonged hospitalisation or major surgery.
 
 For minor ailments, head down to the nearest suburban shopping mall or HDB shopping district and look for a general practitioner (GP), or do a search in SingHealth's comprehensive [Find-a-doctor](https://www.singhealth.com.sg/doctor?) directory. They usually receive patients without appointment and can prescribe drugs on the spot or refer you to specialists, and the total cost of a consultation, medicine included, rarely exceeds $30. Public polyclinics are usually more expensive for foreigners (from $50) and generally have longer waits. All clinics, private or public, are generally only open during business hours Monday-Friday and Saturday mornings.
 
-*    [RESCU](https://www.rescu.sg/), ☏ [+65 8779 9441](tel:+6587799441). If it can't wait until Monday, RESCU offers 24/7 telemedicine consultations and house calls, including basic medications like antibiotics dispensed on the spot. Home visit $68-108 depending on time of day.
+*   [RESCU](https://www.rescu.sg/), ☏ [+65 8779 9441](tel:+6587799441). If it can't wait until Monday, RESCU offers 24/7 telemedicine consultations and house calls, including basic medications like antibiotics dispensed on the spot. Home visit $68-108 depending on time of day. 
 
 For urgent problems, head to a hospital emergency department or call **995** for an ambulance. The ambulance is free in the event of a genuine medical emergency, but you will be charged a $274 callout fee and refused transport otherwise. Public hospitals will charge the full rate for visitors. They are legally required to provide emergency medical care regardless of your ability to pay, but you will be billed for it.
 
-*   [**Raffles Hospital**](https://www.rafflesmedicalgroup.com/services/hospital/), [**Raffles Medical Group**](https://Www.rafflesmedicalgroup.com) (near Bugis MRT station). ☏ [+65 6311 1111](tel:+6563111111). 585 North Bridge Road. Raffles Medical Group operates a fully integrated healthcare organization comprising of a tertiary hospital, a network of family medicine and dental clinics, insurance services, Japanese and traditional Chinese medicine clinics, and a consumer healthcare division. Raffles Accident and Emergency (A&E) Department is fully equipped and staffed to manage high-risk injuries and critical medical conditions.
-*    [Gleneagles Hospital](https://www.gleneagles.com.sg/), 6A Napier Road (near Napier MRT station), ☏ [+65 6575 7575](tel:+6565757575). Urgent Care Centre operates 24/7. Large private hospital with a large number of specialist clinics, popular with expatriates and medical tourists. Has a 24-hour walk-in Urgent Care Centre. (updated Sep 2026)
-*    [KK Women’s and Children’s Hospital](https://www.kkh.com.sg/), 100 Bukit Timah Road (near Novena MRT station). A&E operates 24/7. Singapore's oldest dedicated women and children's hospital. Has a well-regarded but often busy 24/7 children's emergency department. (updated Sep 2026)
-*    [Mount Elizabeth Hospital](https://www.mountelizabeth.com.sg/), Mount Elizabeth (near Orchard MRT station), ☏ [+65 6737 2666](tel:+6567372666). A&E operates 24/7. Singapore's largest private hospital with a large number of specialist clinics, popular among expatriates and medical tourists. Also features a suite built for the Sultan of Brunei, but is now available to anybody with the means to pay when not in use by the Brunei royal family, with prices starting from $5,043 per night. Consultations with specialists start from $100. (updated Sep 2026)
-*    [Singapore General Hospital](https://www.sgh.com.sg/), College Rd, 1st-3rd Hospital Ave (next to Outram Park MRT station). Singapore's oldest and largest public hospital with many specialist clinics, including the only specialised burns department in Singapore. (updated Sep 2026)
-*    [Tan Tock Seng Hospital](https://www.ttsh.com.sg/Pages/default.aspx), 11 Jalan Tan Tock Seng (next to Novena MRT station), ☏ [+65 6256 6011](tel:+6562566011). Mon-Fri 8AM-1PM & 2-5PM; Sat 8AM-noon, no appointment needed. One of Singapore's largest public hospitals, fully equipped to handle almost anything. Specialist departments here include a one-stop **Travellers' Health & Vaccination Centre** for immunizations, malaria prophylaxis, pre-trip and post-trip evaluations and general advice. $80 fee for doctor's consultation, vaccines for $10 plus cost (consultation unnecessary). (updated Sep 2026)
-*    [National University Hospital](https://www.nuh.com.sg/), 5 Lower Kent Ridge Road,, ☏ [+65 6779 5555](tel:+6567795555). It has many specialist clinics. (updated Sep 2026)
+*   [**Raffles Hospital**](https://www.rafflesmedicalgroup.com/services/hospital/), [**Raffles Medical Group**](https://www.rafflesmedicalgroup.com/) (near Bugis MRT station). ☏ [+65 6311 1111](tel:+6563111111). 585 North Bridge Road. Raffles Medical Group operates a fully integrated healthcare organization comprising of a tertiary hospital, a network of family medicine and dental clinics, insurance services, Japanese and traditional Chinese medicine clinics, and a consumer healthcare division. Raffles Accident and Emergency (A&E) Department is fully equipped and staffed to manage high-risk injuries and critical medical conditions.
+*   [Gleneagles Hospital](https://www.gleneagles.com.sg/), 6A Napier Road (near Napier MRT station), ☏ [+65 6575 7575](tel:+6565757575). Urgent Care Centre operates 24/7. Large private hospital with a large number of specialist clinics, popular with expatriates and medical tourists. Has a 24-hour walk-in Urgent Care Centre. (updated Sep 2026)
+*   [KK Women’s and Children’s Hospital](https://www.kkh.com.sg/), 100 Bukit Timah Road (near Novena MRT station). A&E operates 24/7. Singapore's oldest dedicated women and children's hospital. Has a well-regarded but often busy 24/7 children's emergency department. (updated Sep 2026)
+*   [Mount Elizabeth Hospital](https://www.mountelizabeth.com.sg/), Mount Elizabeth (near Orchard MRT station), ☏ [+65 6737 2666](tel:+6567372666). A&E operates 24/7. Singapore's largest private hospital with a large number of specialist clinics, popular among expatriates and medical tourists. Also features a suite built for the Sultan of Brunei, but is now available to anybody with the means to pay when not in use by the Brunei royal family, with prices starting from $5,043 per night. Consultations with specialists start from $100. (updated Sep 2026)
+*   [Singapore General Hospital](https://www.sgh.com.sg/), College Rd, 1st-3rd Hospital Ave (next to Outram Park MRT station). Singapore's oldest and largest public hospital with many specialist clinics, including the only specialised burns department in Singapore. (updated Sep 2026)
+*   [Tan Tock Seng Hospital](https://www.ttsh.com.sg/Pages/default.aspx), 11 Jalan Tan Tock Seng (next to Novena MRT station), ☏ [+65 6256 6011](tel:+6562566011). Mon-Fri 8AM-1PM & 2-5PM; Sat 8AM-noon, no appointment needed. One of Singapore's largest public hospitals, fully equipped to handle almost anything. Specialist departments here include a one-stop **Travellers' Health & Vaccination Centre** for immunizations, malaria prophylaxis, pre-trip and post-trip evaluations and general advice. $80 fee for doctor's consultation, vaccines for $10 plus cost (consultation unnecessary). (updated Sep 2026)
+*   [National University Hospital](https://www.nuh.com.sg/), 5 Lower Kent Ridge Road,, ☏ [+65 6779 5555](tel:+6567795555). It has many specialist clinics. (updated Sep 2026)
 
 Practitioners of traditional Chinese medicine (TCM) are widespread in Singapore. **[Eu Yan Sang](https://sg.euyansangclinic.com/)** runs a chain of over 20 clinics, while the **[Singapore Chinese Physicians' Association](https://www.singaporetcm.edu.sg/en/index.php)** offers a directory of TCM physicians.
 
-### Toilets
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=96 "Edit section: Toilets")\]
-
 Nearly all shopping centres, hotels, MRT stations, bus interchanges and hawker centres are likely to have clean public toilet facilities available. The vast majority are free but those at hawker centres may charge 10 or 20 cents per entry. If there's no toilet paper in the stall, take a look around, as it's sometimes provided on a shared giant roll outside. Most toilets have bowls, but there is usually one squatting cubicle in every public toilet. Being free, McDonald's toilets are popular and the staff do not make a fuss.
-
-Respect
--------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=97 "Edit section: Respect")\]
 
 What's in a name?
 
@@ -2826,10 +1208,6 @@ When visiting Chinese temples, do not point at the statues of deities with your 
 
 Swastikas are commonly seen in Buddhist and Hindu temples and altars. This is an ancient religious symbol that has nothing to do with Nazism.
 
-### Sensitive topics
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=98 "Edit section: Sensitive topics")\]
-
 Sensitive issues in Singapore include immigration, politics, race, religion, and LGBT rights. In a country where only 60% of the population are citizens, **immigration** is particularly sensitive, and while few Singaporeans are explicitly xenophobic, many resent the influx of "foreign talents" (once the government's term, now heavily loaded with sarcasm) competing for jobs while not integrating into society or having to fulfill obligations like military service.
 
 **Singapore is not China**, and despite being a majority of the population, most ethnic Chinese identify themselves as Singaporeans instead of Chinese nationals, who are commonly referred to as "PRCs" or "Ah Tiong". That said, anti-China sentiment is generally less prevalent than in Hong Kong, Taiwan or overseas Chinese communities in the West. There is similar tension between Singaporeans of Indian descent and recent Indian immigrants, dubbed "CECA" after an unpopular free trade agreement.
@@ -2840,21 +1218,13 @@ The **Israeli-Palestinian conflict** is a deeply divisive issue, with most Jews 
 
 Singaporeans have a tense relationship with their cultural identity. On the one hand, Singapore's first prime minister Lee Kuan Yew was reportedly proud of being called "the best bloody Englishman east of Suez"; on the other, there is an understandable desire to display a pride for genuinely Singaporean cultural aspects including food. One area in which this tension manifests is the use of Singlish, which is officially discouraged by the government through its "Speak Good English Campaign", but is often employed deliberately by all strata of society as a means to display "Singaporean-ness". Tread lightly in these fields and be respectful.
 
-### Visiting homes
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=99 "Edit section: Visiting homes")\]
-
 If invited to somebody's house, always remove your shoes before you enter as most Singaporeans do not wear their shoes at home. Socks are perfectly acceptable though. Some households may provide slippers in the bathroom, but these are generally not meant to be worn anywhere else.
 
 Beware of taboos if bringing gifts. Any products (food or otherwise) involving animals may cause offence and are best avoided, as are white flowers (usually reserved for funerals). Knives and clocks are also symbols of cutting ties and death, respectively, and some Chinese are superstitious about the number four. Many Singaporean Muslims and some Hindus abstain from alcohol. Nicely packaged cookies or cakes are a safe bet, as is a bouquet of flowers from a local florist.
 
 In Singapore, it is considered rude to open a gift in front of the person who gave it to you. Instead, wait until the person has left and open it in private.
 
-### Business
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=100 "Edit section: Business")\]
-
-[![](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Singapore_Skyline_in_the_Early_Morning.JPG/250px-Singapore_Skyline_in_the_Early_Morning.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Skyline_in_the_Early_Morning.JPG)
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Singapore_Skyline_in_the_Early_Morning.JPG/250px-Singapore_Skyline_in_the_Early_Morning.JPG?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/File:Singapore_Skyline_in_the_Early_Morning.JPG)
 
 Singapore skyline
 
@@ -2866,15 +1236,6 @@ Business cards are often exchanged when people meet for business for the first t
 
 Business gifts are generally frowned on as they may equate to bribery, and government employees are strictly forbidden from accepting gifts. Small talk and bringing up the subject indirectly are neither necessary nor expected. Most meetings get straight down to business.
 
-Connect
--------
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=101 "Edit section: Connect")\]
-
-### By phone
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=102 "Edit section: By phone")\]
-
 The international telephone country code for Singapore is **65**. Phone numbers in Singapore have the format `+65 XXXX XXXX`. There are no area codes. Any number starting with `8` or `9` is a mobile phone, while numbers starting with `3` or `6`are fixed lines. Toll-free numbers start with `800` or `1800`, followed by 7 digits, and usually cannot be dialled from outside the country.
 
 Singapore has four mobile telecommunication providers: **[Singtel](https://www.singtel.com/)**, **[Simba](https://simba.sg/home)**, **[StarHub](https://www.starhub.com/personal.html)** and **[MobileOne (M1)](https://www.m1.com.sg/)**. They have generally excellent coverage throughout the island, which is blanketed with both 4G and 5G. There are many minor virtual operators operating off these networks but are generally unavailable to short-term travellers. Travellers can obtain prepaid SIM cards from 7-Eleven convenience stores, telecommunication shops, currency exchange counters, and at Changi International Airport. An international passport or Singapore ID is required to register for the SIM card. Basic plans including 1 GB of data start from only $4 for 30 days. If you're planning to continue to nearby countries, every carrier has their own options for international roaming, some more affordable than others. Starhub is the roaming-friendliest; their [Happy Roam](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards/happy-roam.html) policy means that domestic data plans can be used in any of their Happy Roam destinations at no extra cost. All of these carriers now starter packs that include a small allowance of roaming data in Malaysia and Indonesia, and some other countries beyond.
@@ -2882,10 +1243,6 @@ Singapore has four mobile telecommunication providers: **[Singtel](https://www.s
 In northern parts of Singapore near Malaysia (e.g. Woodlands, Sungei Buloh, Pulau Ubin), your phone may automatically switch to a Malaysian network, incurring international roaming charges even though you haven't left Singapore. Check the operating network (or switch to manual network selection) before you call or browse, disable roaming on your device, or pay a little extra at the beginning for a SIM that includes some roaming allowances.
 
 **[WhatsApp](https://whatsapp.com/)** is the most common messaging app used in Singapore, and is almost essential if you are a frequent visitor or staying long term, as it is widely used by businesses to communicate with their clients and by the government for public communications. **[Telegram](https://telegram.org/)** is mainly popular among teenagers and young adults, and also used by many businesses as well as the government as an alternative to WhatsApp, while **[WeChat](https://www.wechat.com/)** may be used by businesses that regularly deal with Chinese clients.
-
-### By net
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=103 "Edit section: By net")\]
 
 **Free Wi-Fi** is standard at paid accommodations, and public Wi-Fi is common but not everywhere. Many, but not all, free public Wi-Fi networks require you to register your phone number and receive a verification text message (SMS) - they do not require a Singapore number, so if your phone has roaming service from another country this might still work. Some networks ask for your phone number or email but do not require you to verify it. For free public Wi-Fi without a complicated sign-in, try local shopping centres (though not all have it) and the Gardens by the Bay.
 
@@ -2895,186 +1252,38 @@ Singapore has a nationwide free **Wireless@SG** system, with hotspots at many pu
 
 **Internet censorship** is generally restricted to pornography, gambling and copyright violating websites. In addition, Singapore has laws that ban online contents deemed as fake news and foreign interference by authority. From time to time, you may see mandatory corrective notices placed on social media posts or articles deemed as containing falsehoods by authorities if accessed from within Singapore.
 
-### By mail
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=104 "Edit section: By mail")\]
-
 **[SingPost](https://www.singpost.com/)** has offices throughout the island, generally open M-F 8:30AM-5PM, 08:30-13;00 Sa 8:30AM-5PM, closed Sundays. The Changi Airport T2 (transit side) Post Office is open daily 6AM-midnight, while the 1 Killeney Rd branch is open M-F until 9PM and Su 9AM-4PM. Service is fast and reliable; domestic mail usually gets delivered by the next business day if posted before the collection time indicated on the postbox. A postcard to anywhere in the world costs 50 cents, and postage labels can also be purchased from the self-service SAM machines found in many MRT stations.
 
-Small packets up to 2 kg cost $3.50/100 g for airmail, or $1/100 g for surface mail. For larger packages, [DHL](https://www.dhl.com/sg-en/home.html), [FedEx](https://www.fedex.com/en-sg/home.html) or [UPS](https://www.ups.com/sg/en/home) may offer competitive rates.
+Small packets up to 2 kg cost $3.50/100 g for airmail, or $1/100 g for surface mail. For larger packages, [DHL](https://www.dhl.com/sg-en/home.html), [FedEx](https://www.fedex.com/en-sg/home.html) or [UPS](https://www.ups.com/sg/en/home) may offer competitive rates.
 
-Cope
-----
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=105 "Edit section: Cope")\]
-
-### Electricity
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=106 "Edit section: Electricity")\]
-
-Singapore uses the British BS 1363 three-pin rectangular socket (230 V/50 Hz). Plug adaptors are available at any hardware store.
+Singapore uses the British BS 1363 three-pin rectangular socket (230 V/50 Hz). Plug adaptors are available at any hardware store.
 
 ### Embassies and High Commissions
 
-\[[edit](/w/index.php?title=Singapore&action=edit&section=107 "Edit section: Embassies and High Commissions")\]
+\[[edit](https://en.wikivoyage.org/w/index.php?title=Singapore&action=edit&section=107 "Edit section: Embassies and High Commissions")\]
 
 Singapore is a good place to obtain regional visas. The [Ministry of Foreign Affairs](https://www.mfa.gov.sg/visiting-singapore/foreign-representatives-to-singapore/) maintains a complete searchable database of diplomatic institutions. Many more countries serve Singapore through their embassies in [Bangkok](https://en.wikivoyage.org/wiki/Bangkok "Bangkok"), [Beijing](https://en.wikivoyage.org/wiki/Beijing "Beijing"), [Jakarta](https://en.wikivoyage.org/wiki/Jakarta "Jakarta"), [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur"), [New Delhi](https://en.wikivoyage.org/wiki/New_Delhi "New Delhi") or [Tokyo](https://en.wikivoyage.org/wiki/Tokyo "Tokyo").
 
-[Diplomatic missions](https://en.wikivoyage.org/wiki/Diplomatic_missions "Diplomatic missions")
 
-list
 
-  
+* Diplomatic missions:   Argentina, 7 Temasek Boulevard, #15-03 Suntec Tower One, ☏ +65 6887 9808, fax: +65 6887 9809, esing@mrecic.gov.ar.    Australia, 25 Napier Rd, ☏ +65 6836 4100, fax: +65 6737 5481, enquiries.singapore@dfat.gov.au.   Australia visa application, immigration.singapore@dfat.gov.au.   Austria, 600 N Bridge Rd #24-06/07 Parkview Sq, ☏ +65 6229 0190, singapur-ob@bmeia.gv.at.    Bangladesh, 19 Keppel Road, #04-00 & #10-00 Jit Poh Building, ☏ +65 6255 0075, fax: +65 6255 1824, mission.singapore@mofa.gov.bd.    Belgium, 79 Robinson Road, #25-01, ☏ +65 6220 7677, singapore@diplobel.fed.be.    Brazil, 101 Thomson Road, #29-01/03 United Square Office Tower, ☏ +65 6603 9365 (ambassador's office), +65 6603 9361 (consular), +65 6603 9363 (consular), brasemb.singapura@itamaraty.gov.br.   Brazil consular services, consular.singapura@itamaraty.gov.br.  Brazil visa services, visas.singapore@itamaraty.gov.br.  Brazil trade and economic section, secom.singapura@itamaraty.gov.br.   Brunei, 325 Tanglin Rd, ☏ +65 6733 9055, fax: +65 6737 5275,  +65 6733 7082,  +65 6737 4928, singapore@mfa.gov.bn.    Cambodia, 400 Orchard Rd, #10-03/04 Orchard Towers, ☏ +65 6341 9785, fax: +65 6341 9201, recamsingapore@gmail.com.    Canada, One George St, #11-01, ☏ +65 6854 5900, fax: +65 6854 5930, spore@international.gc.ca.   Canadian citzen services, sporeconsular@international.gc.ca.  Canadian visa applications, singapore-im-enquiry@international.gc.ca.   Chile, 8 Temasek Boulevard, #24-01 Suntec Tower Three, ☏ +65 6223 8577, fax: +65 6225 0677, consulate@embassyofchile.org.sg.    China, 150 Tanglin Rd, ☏ +65 6418 0135 (administrative), +65 6471 2117 (consular), fax: +65 6418 0250 (administrative),  +65 6479 5345 (consular), chinaemb_sg@mfa.gov.cn. Visa applications are handled by the separate Chinese Visa Application Service Center (see below).  Chinese Visa Application Service Center, 80 Robinson Road, #16-01/02/02A, ☏ +65 6713 9380, fax: +65 6226 0852, singaporecentre@visaforchina.org. Also handles Hong Kong and Macau visas. Only issues visas to citizens and legal residents of Singapore.  Chinese citizen consular services, singapore@csm.mfa.gov.cn.   Colombia, 152 Beach Road, #03-04 Gateway East, ☏ +65 6341 7155, +65 6341 7156, csingapur@cancilleria.gov.co.    Costa Rica, 138 Robinson Road #07-01 Oxley Tower 1, ☏ +65 6467 1355.    Cuba, 390 Havelock Road, #08-04 King's Centre, ☏ +65 6635 8172, +65 6635 8173, embajada@sg.embacuba.cu.    Czech Republic, 47 Scotts Road, #11-02/03 Goldbell Towers, ☏ +65 6797 1050, +65 6797 1069, singapore@embassy.mzv.cz.   Czech consular services, consulate_singapore@mzv.cz.  Czech business enquiries, commerce_singapore@mzv.cz.   Denmark, 101 Thomson Rd, #13-01/02 United Sq, ☏ +65 6355 5010, fax: +65 6253 3764, sinamb@um.dk. Visa applications are handled by VFS Global (see below).  VFS Global, 79 Anson Road, #15-02, ☏ +65 3105 1548, info.dnsin@vfshelpline.com. Also handles visa applications for Norway, Finland and Iceland   East Timor, 3 Killiney Road, #04-09 Winsland House, ☏ +65 6235 6318, fax: +65 6235 9218, timorleste.singapore2010@gmail.com.    Egypt, 8 Eu Tong Sen Street, #25-82/83/84/85/86 The Central, ☏ +65 6225 5503, admin@egyptemb-sin.org.    El Salvador, 10 Anson Road, #18-12 International Plaza Building, embajadasingapur@rree.gob.sv.    Estonia, 18 Robinson Rd, #21-01, ☏ +65 6229 6740, embassy.singapore@mfa.ee.    Finland, 101 Thomson Rd, #21-03 United Sq, ☏ +65 6254 4042, sanomat.SIN@formin.fi. Visa applications are handled by the Danish embassy.   France, 101-103 Cluny Park Rd, ☏ +65 6880 7800.    Germany, 50 Raffles Pl, #12-00 Singapore Land Tower, ☏ +65 9817 0414.    Greece, 47 Scotts Rd, #06-03/04 Goldbell Towers,, ☏ +65 6732 3011, fax: +65 6732 3012, gremb.sg@mfa.gr.    Hungary, 250 N Bridge Rd, #29-01 Raffles City Tower, ☏ +65 6883 0882.    India, 31 Grange Rd, ☏ +65 6737 6777. Warning: Only issues visas to residents of Singapore. All visa applications are handled by BLS International (see below).  BLS International Services S Pte Ltd — CBD Area, 10 Anson Road, #30-08 International Plaza, ☏ +65 3163 5611, +65 3163 2615, info@blsindia.sg.   BLS International Services S Pte Ltd — Little India, 10 Jalan Besar, #14-02/04/05 Sim Lim Tower, ☏ +65 3163 5611, +65 3163 2615, info@blsindia.sg.    Indonesia, 7 Chatsworth Rd, ☏ +65 6737 7422, fax: +65 6737 5037,  +65 6235 5783, singapura.kbri@kemlu.go.id.    Ireland, 541 Orchard Rd, #08-00 Liat Towers, ☏ +65 6732 3430.    Israel, 24 Stevens Close, ☏ +65 6834 9200, +65 68349212 (24 hr).    Italy, 101 Thomson Rd, #27-02/03 United Square, ☏ +65 6250 6022, +65 6253 8429 (/4340 consular), +65 90629004 (Emergency).    Japan, 16 Nassim Rd, ☏ +65 6235 8855, fax: +65 6733 1039 (chancery),  +65 6733 5612 (consular), ryoji@sn.mofa.go.jp.   Japan visa applications, japan-visa@sn.mofa.go.jp.   Jordan, 9 Temasek Boulevard, #15-01 Suntec Tower 2, ☏ +65 6921 7590, fax: +65 6909 0994, info@joembassy.sg.   Jordan consular services, consular@joembassy.sg.   Kazakhstan, 1 Kim Seng Promenade, 09-04/05 Great World City, East Office Tower, ☏ +65 6235 1482, fax: +65 6438 8990, singapore@mfa.kz.   Kazakhstan consular services, ☏ +65 6536 6100, info.singapore@mfa.kz.   Kuwait, 170 Bukit Timah Rd, ☏ +65 6804 9550, fax: +65 6316 9074, kuwaitembassy.singapore@gmail.com.    Laos, 51 Goldhill Plaza, #13-04/05, ☏ +65 6250 6044, fax: +65 6250 6014, laoembsg@singnet.com.sg.   Laos alternate email address, laoembsg@gmail.com.   Lithuania, 18 Robinson Rd, #10-01, ☏ +65 6232 3772 (chancery), +65 6232 3773 (consular), amb.sg@mfa.lt.   Lithuania consular services, consul.sg@mfa.lt.   Luxembourg, 18 Robinson Rd, #06-00, ☏ +65 9370 9031, singapour.amb@mae.etat.lu.  
+  * list:   Malaysia, 301 Jervois Rd, ☏ +65 6887 6256 (passport and visa), +65 6887 6243 (passport and visa), +65 6887 6231 (other consular matters), +65 6887 6230 (other consular matters), +65 6235 0111 (general enquiries), fax: +65 6733 6135, singapore@imi.gov.my.   Malaysia passport and visa (alternate), singapore.imi@mhc.org.sg.  Malaysia consular services, consular@mhc.org.sg.  Malaysia general inquiries, mwsingapore@kln.gov.my.   Maldives, 101 Thomson Rd, #30-01A United Square, ☏ +65 6720 9012, fax: +65 6720 9015, info@maldivesmission.sg.    Mexico, 152 Beach Rd, #03-01/03 The Gateway East, ☏ +65 6298 2678, fax: +65 6293 3484, embsingapur@sre.gob.mx.    Mongolia, 600 North Bridge Rd, #24-08 Parkview Sq, ☏ +65 6348 0745, singapore@mfa.gov.mn.    Myanmar, 15 St Martin's Dr, ☏ +65 6735 0209.    Netherlands, 541 Orchard Rd, #13-01 Liat Towers, ☏ +65 6737 1155, sin@minbuza.nl.    New Zealand, One George Street, #21-04, ☏ +65 6235 9966 (general enquiries), +65 3105 1587 (visa applications), fax: +65 6536 8180, nzhc.sin@mfat.govt.nz.    Nigeria, 70 Shenton Way, #08-01 EON Shenton, ☏ +65 6732 1743, nigeria.singapore@foreignaffairs.gov.ng.    North Korea, 1 North Bridge Road, #15-01 High Street Centre, ☏ +65 6265 9766, fax: +65 6348 2026, embdprk@singnet.com.sg.    Norway, 16 Raffles Quay, #44-01 Hong Leong Bldg, ☏ +65 6818 2000, emb.singapore@mfa.no. Visa applications are handled by the Danish embassy.  Norway consular services, consular.singapore@mfa.no.   Oman, 600 North Bridge Road, #04–03/04/05 Parkview Square, ☏ +65 6333 1761, +65 6333 1762, fax: +65 6333 1763, singapore@fm.gov.om. 9AM-4PM.    Pakistan, 1 Scotts Rd, #24-02/04 Shaw Centre, ☏ +65 6737 6988, +65 6737 6203, consularsingapore@pakhicom.org.sg.    Panama, 16 Raffles Quay, #41-06 Hong Leong Bldg, ☏ +65 6221 8677, general@panamaemb.org.sg.    Papua New Guinea, 1 Marine Parade Central, #08-05 Parkway Centre, ☏ +65 6222 9177, fax: +65 6222 9179, Kundusgp@pnghcom.org.sg.    Peru, 390 Orchard Rd, #12-03 Palais Renaissance, ☏ +65 6738 8595, peru@embassyperu.org.sg.   Peru consular services, consular@embassyperu.org.sg.   Philippines, 111 Somerset Road, Level 16 (Lobby B), #12A, 13-14, Devonshire Wing, TripleOne Somerset Building, ☏ +65 6737 3977, +65 6506 0540 (consular), singapore.pe@dfa.gov.ph.    Poland, 435 Orchard Rd #17-02/03, Wisma Atria, ☏ +65 6235 9478.    Portugal, 3 Killiney Road, #05-08 Winsland House 1, ☏ +65 6224 2256, singapura@mne.pt.   Portugal consular services, sconsular.singapura@mne.pt.   Qatar, 7 Temasek Boulevard, #44-01/02 Suntec Tower One, ☏ +65 6593 9900, fax: +65 6836 5731, singapore@mofa.gov.qa.    Romania, 390 Havelock Road, #03–04/05 King’s Centre, ☏ +65 6735 5023, fax: +65 6735 5021, singapore@mae.ro.  (updated Oct 2023) Romania consular services, singapore.consul@mae.ro.   Russia, 51 Nassim Rd, ☏ +65 6235 1832, +65 6235 1834, fax: +65 6733 4780, singapore@mid.ru.   Consular section, 53 Nassim Rd, ☏ +65 6737 0048, fax: +65 6836 4921, consulsg@mid.ru, info.rusg@russia-visacentre.comMULTIPLE EMAIL.   Rwanda, 8 Temasek Boulevard, #14-03 Suntec Tower 3, ☏ +65 6884 4621, infosingapore@embassy.gov.rw.  (updated Oct 2023)  Saudi Arabia, 163 Penang Road, #03-01/02/03 Winsland House II, ☏ +65 6734 5876, fax: +65 6738 5291, sgemb@mofa.gov.sa.    South Africa, 331 North Bridge Rd, 15F Odeon Towers, ☏ +65 6339 3319, Singapore.political@dirco.gov.za.   South Africa consular services, Singapore.consular@dirco.gov.za.   South Korea, 47 Scotts Rd, #08-00 Goldbell Towers, ☏ +65 6256 1188, fax: +65 6258 3191, korembsg@mofa.go.kr.   Consular section, 47 Scotts Rd, #16-03/04 Goldbell Towers, fax: +65 6258 3302, consg@mofa.go.kr.   Spain, 7 Temasek Blvd, #39-00 Suntec Tower 1, ☏ +65 6725 9217, +65 6725 9215, fax: +65 6333 3025, emb.singapur@maec.es​.   Spain consular services, emb.singapur.​sc@maec.es​.   Sri Lanka, 51 Newton Rd, #13-07/12 Goldhill Plaza, ☏ +65 6254 4595, +65 6254 4596, +65 6254 4597, slhcs@lanka.com.sg.    Sweden, 1 Temasek Avenue, #14-03 Millenia Tower, ☏ +65 6415 9720, fax: +65 6415 9747, ambassaden.singapore@gov.se. Visa applications are outsourced to VFS Global.  VFS Global, 79 Anson Road, #15-02, ☏ +65 3105 1830, info.swedensg@vfshelpline.com.    Switzerland, 1 Swiss Club Link, ☏ +65 6468 5788, fax: +65 6466 8245, singapore@eda.admin.ch, singapore.consular@eda.admin.ch, singapore.visa@eda.admin.chMULTIPLE EMAIL.    Taiwan (Taipei Representative Office in Singapore), 460 Alexandra Rd, #23-00 mTower, ☏ +65 6500 0100, sgp@mofa.gov.tw.    Thailand, 370 Orchard Rd, ☏ +65 6737 2475 (main), +65 6737 2476 (main), +65 6737 2158 (Thai citizen services), +65 6736 2644 (visa applications), fax: +65 6732 0778, thaiembassy.sin@mfa.go.th.   Thailand consular services, consular.sin@mfa.go.th.   Turkey, 2 Shenton Way, # 10-03 SGX Centre Tower 1, ☏ +65 6422 7322, +65 6533 3390, fax: +65 6533 3360, embassy.singapore@mfa.gov.tr.    Ukraine, 50 Raffles Pl, #16-05 Singapore Land Tower, ☏ +65 6535 6550, fax: +65 6535 2116, emb_sg@mfa.gov.ua.   Ukraine consular services, consul_sg@mfa.gov.ua.   United Arab Emirates, 3 Temasek Avenue, #19-01/02 Centennial Tower, ☏ +65 6238 8206, fax: +65 6238 0081, SingaporeEmb@mofaic.gov.ae.    United Kingdom, 100 Tanglin Rd, ☏ +65 6424 4200, enquiries.singapore@fcdo.gov.uk.    United States of America, 27 Napier Rd, ☏ +65 6476 9100 (general enquiries), +65 3158 5400 (visa applications), fax: +65 6476 9232, singaporeacs@state.gov.   United States visa applications, support-singapore@ustraveldocs.com.   Uzbekistan, 20 Kramat Ln, #04-01/02 United House, ☏ +65 6734 3942, +65 6734 3943, fax: +65 6734-5849, sg.uzembassy@mfa.uz.   Uzbekistan additional email address, office@uzembassy.sg.   Vatican City, 55 Waterloo St, #09-01 & 09-02 Catholic Centre, ☏ +65 6337 2466, apostolic@nunciature.sg.    Venezuela, 163 Penang Road, #02-01 Winsland House II, ☏ +65 6491 1172.    Vietnam, 10 Leedon Park, ☏ +65 6462 5938 (general enquiries), +65 6462 5994 (consular), fax: +65 6468 9863 (general enquiries),  +65 6462 5936 (consular), vnemb.sg@mofa.gov.vn.  
 
-*   ![Argentina](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Argentina](https://esing.cancilleria.gob.ar/en), 7 Temasek Boulevard, #15-03 Suntec Tower One, ☏ [+65 6887 9808](tel:+6568879808), fax: +65 6887 9809, [esing@mrecic.gov.ar](mailto:esing@mrecic.gov.ar).
-*   ![Australia](//thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/20px-Flag_of_Australia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Australia](https://singapore.embassy.gov.au/), 25 Napier Rd, ☏ [+65 6836 4100](tel:+6568364100), fax: +65 6737 5481, [enquiries.singapore@dfat.gov.au](mailto:enquiries.singapore@dfat.gov.au).
-    *    Australia visa application, [immigration.singapore@dfat.gov.au](mailto:immigration.singapore@dfat.gov.au).
-*   ![Austria](//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Austria](https://www.bmeia.gv.at/en/austrian-embassy-singapore), 600 N Bridge Rd #24-06/07 Parkview Sq, ☏ [+65 6229 0190](tel:+6562290190), [singapur-ob@bmeia.gv.at](mailto:singapur-ob@bmeia.gv.at).
-*   ![Bangladesh](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/20px-Flag_of_Bangladesh.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Bangladesh](https://singapore.mofa.gov.bd/), 19 Keppel Road, #04-00 & #10-00 Jit Poh Building, ☏ [+65 6255 0075](tel:+6562550075), fax: +65 6255 1824, [mission.singapore@mofa.gov.bd](mailto:mission.singapore@mofa.gov.bd).
-*   ![Belgium](//thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Belgium](https://singapore.diplomatie.belgium.be/en), 79 Robinson Road, #25-01, ☏ [+65 6220 7677](tel:+6562207677), [singapore@diplobel.fed.be](mailto:singapore@diplobel.fed.be).
-*   ![Brazil](//thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Brazil](https://www.gov.br/mre/pt-br/embaixada-singapura/english), 101 Thomson Road, #29-01/03 United Square Office Tower, ☏ [+65 6603 9365](tel:+6566039365) (ambassador's office), [+65 6603 9361](tel:+6566039361) (consular), [+65 6603 9363](tel:+6566039363) (consular), [brasemb.singapura@itamaraty.gov.br](mailto:brasemb.singapura@itamaraty.gov.br).
-    *    Brazil consular services, [consular.singapura@itamaraty.gov.br](mailto:consular.singapura@itamaraty.gov.br).
-    *    Brazil visa services, [visas.singapore@itamaraty.gov.br](mailto:visas.singapore@itamaraty.gov.br).
-    *    Brazil trade and economic section, [secom.singapura@itamaraty.gov.br](mailto:secom.singapura@itamaraty.gov.br).
-*   ![Brunei](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/20px-Flag_of_Brunei.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Brunei](https://www.mfa.gov.bn/singapore/Theme/Home2.aspx), 325 Tanglin Rd, ☏ [+65 6733 9055](tel:+6567339055), fax: +65 6737 5275, +65 6733 7082, +65 6737 4928, [singapore@mfa.gov.bn](mailto:singapore@mfa.gov.bn).
-*   ![Cambodia](//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/20px-Flag_of_Cambodia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Cambodia](https://www.camemb-sg.com/), 400 Orchard Rd, #10-03/04 Orchard Towers, ☏ [+65 6341 9785](tel:+6563419785), fax: +65 6341 9201, [recamsingapore@gmail.com](mailto:recamsingapore@gmail.com).
-*   ![Canada](//thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Canada](https://www.international.gc.ca/country-pays/singapore-singapour/singapore-singapour.aspx?lang=eng), One George St, #11-01, ☏ [+65 6854 5900](tel:+6568545900), fax: +65 6854 5930, [spore@international.gc.ca](mailto:spore@international.gc.ca).
-    *    Canadian citzen services, [sporeconsular@international.gc.ca](mailto:sporeconsular@international.gc.ca).
-    *    Canadian visa applications, [singapore-im-enquiry@international.gc.ca](mailto:singapore-im-enquiry@international.gc.ca).
-*   ![Chile](//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Chile](https://www.chile.gob.cl/en/republica-de-singapur), 8 Temasek Boulevard, #24-01 Suntec Tower Three, ☏ [+65 6223 8577](tel:+6562238577), fax: +65 6225 0677, [consulate@embassyofchile.org.sg](mailto:consulate@embassyofchile.org.sg).
-*   ![China](//thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/20px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [China](https://sg.china-embassy.gov.cn/eng/), 150 Tanglin Rd, ☏ [+65 6418 0135](tel:+6564180135) (administrative), [+65 6471 2117](tel:+6564712117) (consular), fax: +65 6418 0250 (administrative), +65 6479 5345 (consular), [chinaemb\_sg@mfa.gov.cn](mailto:chinaemb_sg@mfa.gov.cn). Visa applications are handled by the separate Chinese Visa Application Service Center (see below).
-    *    [Chinese Visa Application Service Center](https://www.visaforchina.org/SGP_EN/), 80 Robinson Road, #16-01/02/02A, ☏ [+65 6713 9380](tel:+6567139380), fax: +65 6226 0852, [singaporecentre@visaforchina.org](mailto:singaporecentre@visaforchina.org). Also handles Hong Kong and Macau visas. Only issues visas to citizens and legal residents of Singapore.
-    *    Chinese citizen consular services, [singapore@csm.mfa.gov.cn](mailto:singapore@csm.mfa.gov.cn).
-*   ![Colombia](//thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Colombia](https://singapur.embajada.gov.co/), 152 Beach Road, #03-04 Gateway East, ☏ [+65 6341 7155](tel:+6563417155), [+65 6341 7156](tel:+6563417156), [csingapur@cancilleria.gov.co](mailto:csingapur@cancilleria.gov.co).
-*   ![Costa Rica](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/20px-Flag_of_Costa_Rica.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Costa Rica](https://www.embassycrsg.com/), 138 Robinson Road #07-01 Oxley Tower 1, ☏ [+65 6467 1355](tel:+6564671355).
-*   ![Cuba](//thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/20px-Flag_of_Cuba.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Cuba, 390 Havelock Road, #08-04 King's Centre, ☏ [+65 6635 8172](tel:+6566358172), [+65 6635 8173](tel:+6566358173), [embajada@sg.embacuba.cu](mailto:embajada@sg.embacuba.cu).
-*   ![Czech Republic](//thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Czech Republic](https://www.mzv.cz/singapore/en/index.html), 47 Scotts Road, #11-02/03 Goldbell Towers, ☏ [+65 6797 1050](tel:+6567971050), [+65 6797 1069](tel:+6567971069), [singapore@embassy.mzv.cz](mailto:singapore@embassy.mzv.cz).
-    *    Czech consular services, [consulate\_singapore@mzv.cz](mailto:consulate_singapore@mzv.cz).
-    *    Czech business enquiries, [commerce\_singapore@mzv.cz](mailto:commerce_singapore@mzv.cz).
-*   ![Denmark](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Denmark](https://singapore.um.dk/en), 101 Thomson Rd, #13-01/02 United Sq, ☏ [+65 6355 5010](tel:+6563555010), fax: +65 6253 3764, [sinamb@um.dk](mailto:sinamb@um.dk). Visa applications are handled by VFS Global (see below).
-    *    [VFS Global](https://visa.vfsglobal.com/sgp/en/dnk/), 79 Anson Road, #15-02, ☏ [+65 3105 1548](tel:+6531051548), [info.dnsin@vfshelpline.com](mailto:info.dnsin@vfshelpline.com). Also handles visa applications for Norway, Finland and Iceland
-*   ![Timor-Leste](//thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/20px-Flag_of_East_Timor.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [East Timor](https://timor-leste.gov.tl/?p=142&lang=en#sg), 3 Killiney Road, #04-09 Winsland House, ☏ [+65 6235 6318](tel:+6562356318), fax: +65 6235 9218, [timorleste.singapore2010@gmail.com](mailto:timorleste.singapore2010@gmail.com).
-*   ![Egypt](//thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/20px-Flag_of_Egypt.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Egypt, 8 Eu Tong Sen Street, #25-82/83/84/85/86 The Central, ☏ [+65 6225 5503](tel:+6562255503), [admin@egyptemb-sin.org](mailto:admin@egyptemb-sin.org).
-*   ![El Salvador](//thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/20px-Flag_of_El_Salvador.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  El Salvador, 10 Anson Road, #18-12 International Plaza Building, [embajadasingapur@rree.gob.sv](mailto:embajadasingapur@rree.gob.sv).
-*   ![Estonia](//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/20px-Flag_of_Estonia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Estonia](https://singapore.mfa.ee/), 18 Robinson Rd, #21-01, ☏ [+65 6229 6740](tel:+6562296740), [embassy.singapore@mfa.ee](mailto:embassy.singapore@mfa.ee).
-*   ![Finland](//thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/20px-Flag_of_Finland.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Finland](https://finlandabroad.fi/web/sgp/frontpage), 101 Thomson Rd, #21-03 United Sq, ☏ [+65 6254 4042](tel:+6562544042), [sanomat.SIN@formin.fi](mailto:sanomat.SIN@formin.fi). Visa applications are handled by the Danish embassy.
-*   ![France](//thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [France](https://sg.ambafrance.org/-English-), 101-103 Cluny Park Rd, ☏ [+65 6880 7800](tel:+6568807800).
-*   ![Germany](//thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Germany](https://singapur.diplo.de/sg-en), 50 Raffles Pl, #12-00 Singapore Land Tower, ☏ [+65 9817 0414](tel:+6598170414).
-*   ![Greece](//thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Greece](https://www.mfa.gr/missionsabroad/en/singapore.html), 47 Scotts Rd, #06-03/04 Goldbell Towers,, ☏ [+65 6732 3011](tel:+6567323011), fax: +65 6732 3012, [gremb.sg@mfa.gr](mailto:gremb.sg@mfa.gr).
-*   ![Hungary](//thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/20px-Flag_of_Hungary.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Hungary](https://szingapur.mfa.gov.hu/eng), 250 N Bridge Rd, #29-01 Raffles City Tower, ☏ [+65 6883 0882](tel:+6568830882).
-*   ![India](//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [India](https://www.hcisingapore.gov.in/), 31 Grange Rd, ☏ [+65 6737 6777](tel:+6567376777). Warning: Only issues visas to residents of Singapore. All visa applications are handled by BLS International (see below).
-    *    [BLS International Services S Pte Ltd — CBD Area](https://www.blsindia.sg/), 10 Anson Road, #30-08 International Plaza, ☏ [+65 3163 5611](tel:+6531635611), [+65 3163 2615](tel:+6531632615), [info@blsindia.sg](mailto:info@blsindia.sg).
-    *    [BLS International Services S Pte Ltd — Little India](https://www.blsindia.sg/), 10 Jalan Besar, #14-02/04/05 Sim Lim Tower, ☏ [+65 3163 5611](tel:+6531635611), [+65 3163 2615](tel:+6531632615), [info@blsindia.sg](mailto:info@blsindia.sg).
-*   ![Indonesia](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Indonesia](https://kemlu.go.id/singapore/en), 7 Chatsworth Rd, ☏ [+65 6737 7422](tel:+6567377422), fax: +65 6737 5037, +65 6235 5783, [singapura.kbri@kemlu.go.id](mailto:singapura.kbri@kemlu.go.id).
-*   ![Ireland](//thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Ireland](https://www.ireland.ie/en/singapore/embassy/), 541 Orchard Rd, #08-00 Liat Towers, ☏ [+65 6732 3430](tel:+6567323430).
-*   ![Israel](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/20px-Flag_of_Israel.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Israel](https://new.embassies.gov.il/singapore/en/the-embassy), 24 Stevens Close, ☏ [+65 6834 9200](tel:+6568349200), [+65 68349212](tel:+6568349212) (24 hr).
-*   ![Italy](//thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Italy](https://ambsingapore.esteri.it/en/), 101 Thomson Rd, #27-02/03 United Square, ☏ [+65 6250 6022](tel:+6562506022), [+65 6253 8429](tel:+6562538429) (/4340 consular), [+65 90629004](tel:+6590629004) (Emergency).
-*   ![Japan](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Japan](https://www.sg.emb-japan.go.jp/itprtop_en/index.html), 16 Nassim Rd, ☏ [+65 6235 8855](tel:+6562358855), fax: +65 6733 1039 (chancery), +65 6733 5612 (consular), [ryoji@sn.mofa.go.jp](mailto:ryoji@sn.mofa.go.jp).
-    *    Japan visa applications, [japan-visa@sn.mofa.go.jp](mailto:japan-visa@sn.mofa.go.jp).
-*   ![Jordan](//thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/20px-Flag_of_Jordan.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Jordan](https://joembassy.sg/), 9 Temasek Boulevard, #15-01 Suntec Tower 2, ☏ [+65 6921 7590](tel:+6569217590), fax: +65 6909 0994, [info@joembassy.sg](mailto:info@joembassy.sg).
-    *    Jordan consular services, [consular@joembassy.sg](mailto:consular@joembassy.sg).
-*   ![Kazakhstan](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Kazakhstan](https://www.gov.kz/memleket/entities/mfa-singapore?lang=en), 1 Kim Seng Promenade, 09-04/05 Great World City, East Office Tower, ☏ [+65 6235 1482](tel:+6562351482), fax: +65 6438 8990, [singapore@mfa.kz](mailto:singapore@mfa.kz).
-    *    Kazakhstan consular services, ☏ [+65 6536 6100](tel:+6565366100), [info.singapore@mfa.kz](mailto:info.singapore@mfa.kz).
-*   ![Kuwait](//thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/20px-Flag_of_Kuwait.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Kuwait, 170 Bukit Timah Rd, ☏ [+65 6804 9550](tel:+6568049550), fax: +65 6316 9074, [kuwaitembassy.singapore@gmail.com](mailto:kuwaitembassy.singapore@gmail.com).
-*   ![Laos](//thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/20px-Flag_of_Laos.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Laos, 51 Goldhill Plaza, #13-04/05, ☏ [+65 6250 6044](tel:+6562506044), fax: +65 6250 6014, [laoembsg@singnet.com.sg](mailto:laoembsg@singnet.com.sg).
-    *    Laos alternate email address, [laoembsg@gmail.com](mailto:laoembsg@gmail.com).
-*   ![Lithuania](//thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/20px-Flag_of_Lithuania.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Lithuania](https://sg.mfa.lt/), 18 Robinson Rd, #10-01, ☏ [+65 6232 3772](tel:+6562323772) (chancery), [+65 6232 3773](tel:+6562323773) (consular), [amb.sg@mfa.lt](mailto:amb.sg@mfa.lt).
-    *    Lithuania consular services, [consul.sg@mfa.lt](mailto:consul.sg@mfa.lt).
-*   ![Luxembourg](//thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/20px-Flag_of_Luxembourg.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Luxembourg](https://singapour.mae.lu/en.html), 18 Robinson Rd, #06-00, ☏ [+65 9370 9031](tel:+6593709031), [singapour.amb@mae.etat.lu](mailto:singapour.amb@mae.etat.lu).
-
-  
-
-*   ![Malaysia](//thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/20px-Flag_of_Malaysia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Malaysia](https://www.kln.gov.my/web/sgp_singapore/home), 301 Jervois Rd, ☏ [+65 6887 6256](tel:+6568876256) (passport and visa), [+65 6887 6243](tel:+6568876243) (passport and visa), [+65 6887 6231](tel:+6568876231) (other consular matters), [+65 6887 6230](tel:+6568876230) (other consular matters), [+65 6235 0111](tel:+6562350111) (general enquiries), fax: +65 6733 6135, [singapore@imi.gov.my](mailto:singapore@imi.gov.my).
-    *    Malaysia passport and visa (alternate), [singapore.imi@mhc.org.sg](mailto:singapore.imi@mhc.org.sg).
-    *    Malaysia consular services, [consular@mhc.org.sg](mailto:consular@mhc.org.sg).
-    *    Malaysia general inquiries, [mwsingapore@kln.gov.my](mailto:mwsingapore@kln.gov.my).
-*   ![Maldives](//thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/20px-Flag_of_Maldives.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Maldives](https://maldivesmission.sg/), 101 Thomson Rd, #30-01A United Square, ☏ [+65 6720 9012](tel:+6567209012), fax: +65 6720 9015, [info@maldivesmission.sg](mailto:info@maldivesmission.sg).
-*   ![Mexico](//thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/20px-Flag_of_Mexico.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Mexico](https://embamex.sre.gob.mx/singapur/), 152 Beach Rd, #03-01/03 The Gateway East, ☏ [+65 6298 2678](tel:+6562982678), fax: +65 6293 3484, [embsingapur@sre.gob.mx](mailto:embsingapur@sre.gob.mx).
-*   ![Mongolia](//thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/20px-Flag_of_Mongolia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Mongolia](https://singaporetest.embassy.mn/eng/), 600 North Bridge Rd, #24-08 Parkview Sq, ☏ [+65 6348 0745](tel:+6563480745), [singapore@mfa.gov.mn](mailto:singapore@mfa.gov.mn).
-*   ![Myanmar](//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/20px-Flag_of_Myanmar.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Myanmar](https://www.myanmarembassy.sg/), 15 St Martin's Dr, ☏ [+65 6735 0209](tel:+6567350209).
-*   ![the Netherlands](//thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Netherlands](https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/singapore/embassy-singapore), 541 Orchard Rd, #13-01 Liat Towers, ☏ [+65 6737 1155](tel:+6567371155), [sin@minbuza.nl](mailto:sin@minbuza.nl).
-*   ![New Zealand](//thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/20px-Flag_of_New_Zealand.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [New Zealand](https://www.mfat.govt.nz/en/countries-and-regions/asia/singapore/new-zealand-high-commission-singapore/), One George Street, #21-04, ☏ [+65 6235 9966](tel:+6562359966) (general enquiries), [+65 3105 1587](tel:+6531051587) (visa applications), fax: +65 6536 8180, [nzhc.sin@mfat.govt.nz](mailto:nzhc.sin@mfat.govt.nz).
-*   ![Nigeria](//thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Nigeria](https://singapore.foreignaffairs.gov.ng/), 70 Shenton Way, #08-01 EON Shenton, ☏ [+65 6732 1743](tel:+6567321743), [nigeria.singapore@foreignaffairs.gov.ng](mailto:nigeria.singapore@foreignaffairs.gov.ng).
-*   ![North Korea](//thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/20px-Flag_of_North_Korea.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  North Korea, 1 North Bridge Road, #15-01 High Street Centre, ☏ [+65 6265 9766](tel:+6562659766), fax: +65 6348 2026, [embdprk@singnet.com.sg](mailto:embdprk@singnet.com.sg).
-*   ![Norway](//thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Norway](https://www.norway.no/en/singapore/), 16 Raffles Quay, #44-01 Hong Leong Bldg, ☏ [+65 6818 2000](tel:+6568182000), [emb.singapore@mfa.no](mailto:emb.singapore@mfa.no). Visa applications are handled by the Danish embassy.
-    *    Norway consular services, [consular.singapore@mfa.no](mailto:consular.singapore@mfa.no).
-*   ![Oman](//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/20px-Flag_of_Oman.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Oman](https://www.fm.gov.om/singapore/), 600 North Bridge Road, #04–03/04/05 Parkview Square, ☏ [+65 6333 1761](tel:+6563331761), [+65 6333 1762](tel:+6563331762), fax: +65 6333 1763, [singapore@fm.gov.om](mailto:singapore@fm.gov.om). 9AM-4PM.
-*   ![Pakistan](//thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/20px-Flag_of_Pakistan.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Pakistan](https://phcsingapore.org/), 1 Scotts Rd, #24-02/04 Shaw Centre, ☏ [+65 6737 6988](tel:+6567376988), [+65 6737 6203](tel:+6567376203), [consularsingapore@pakhicom.org.sg](mailto:consularsingapore@pakhicom.org.sg).
-*   ![Panama](//thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/20px-Flag_of_Panama.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Panama](https://www.panamaemb.org.sg/), 16 Raffles Quay, #41-06 Hong Leong Bldg, ☏ [+65 6221 8677](tel:+6562218677), [general@panamaemb.org.sg](mailto:general@panamaemb.org.sg).
-*   ![Papua New Guinea](//thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Papua New Guinea, 1 Marine Parade Central, #08-05 Parkway Centre, ☏ [+65 6222 9177](tel:+6562229177), fax: +65 6222 9179, [Kundusgp@pnghcom.org.sg](mailto:Kundusgp@pnghcom.org.sg).
-*   ![Peru](//thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Peru](https://www.gob.pe/en/embajada-del-peru-en-singapur), 390 Orchard Rd, #12-03 Palais Renaissance, ☏ [+65 6738 8595](tel:+6567388595), [peru@embassyperu.org.sg](mailto:peru@embassyperu.org.sg).
-    *    Peru consular services, [consular@embassyperu.org.sg](mailto:consular@embassyperu.org.sg).
-*   ![the Philippines](//thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/20px-Flag_of_the_Philippines.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Philippines](https://www.philippine-embassy.org.sg/), 111 Somerset Road, Level 16 (Lobby B), #12A, 13-14, Devonshire Wing, TripleOne Somerset Building, ☏ [+65 6737 3977](tel:+6567373977), [+65 6506 0540](tel:+6565060540) (consular), [singapore.pe@dfa.gov.ph](mailto:singapore.pe@dfa.gov.ph).
-*   ![Poland](//thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/20px-Flag_of_Poland.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Poland](https://www.gov.pl/web/singapore), 435 Orchard Rd #17-02/03, Wisma Atria, ☏ [+65 6235 9478](tel:+6562359478).
-*   ![Portugal](//thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Portugal](https://singapura.embaixadaportugal.mne.gov.pt/en/), 3 Killiney Road, #05-08 Winsland House 1, ☏ [+65 6224 2256](tel:+6562242256), [singapura@mne.pt](mailto:singapura@mne.pt).
-    *    Portugal consular services, [sconsular.singapura@mne.pt](mailto:sconsular.singapura@mne.pt).
-*   ![Qatar](//thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/20px-Flag_of_Qatar.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Qatar](https://singapore.embassy.qa/en), 7 Temasek Boulevard, #44-01/02 Suntec Tower One, ☏ [+65 6593 9900](tel:+6565939900), fax: +65 6836 5731, [singapore@mofa.gov.qa](mailto:singapore@mofa.gov.qa).
-*   ![Romania](//thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/20px-Flag_of_Romania.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Romania](https://singapore.mae.ro/en#null), 390 Havelock Road, #03–04/05 King’s Centre, ☏ [+65 6735 5023](tel:+6567355023), fax: +65 6735 5021, [singapore@mae.ro](mailto:singapore@mae.ro). (updated Oct 2023)
-    *    Romania consular services, [singapore.consul@mae.ro](mailto:singapore.consul@mae.ro).
-*   ![Russia](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Russia](https://singapore.mid.ru/en/), 51 Nassim Rd, ☏ [+65 6235 1832](tel:+6562351832), [+65 6235 1834](tel:+6562351834), fax: +65 6733 4780, [singapore@mid.ru](mailto:singapore@mid.ru).
-    *    Consular section, 53 Nassim Rd, ☏ [+65 6737 0048](tel:+6567370048), fax: +65 6836 4921, [consulsg@mid.ru](mailto:consulsg@mid.ru), [info.rusg@russia-visacentre.com](mailto:info.rusg@russia-visacentre.com)MULTIPLE EMAIL.
-*   ![Rwanda](//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/20px-Flag_of_Rwanda.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Rwanda](https://www.rwandainsingapore.gov.rw/), 8 Temasek Boulevard, #14-03 Suntec Tower 3, ☏ [+65 6884 4621](tel:+6568844621), [infosingapore@embassy.gov.rw](mailto:infosingapore@embassy.gov.rw). (updated Oct 2023)
-*   ![Saudi Arabia](//thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/20px-Flag_of_Saudi_Arabia.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Saudi Arabia](https://embassies.mofa.gov.sa/sites/singapore/EN/Pages/default.aspx), 163 Penang Road, #03-01/02/03 Winsland House II, ☏ [+65 6734 5876](tel:+6567345876), fax: +65 6738 5291, [sgemb@mofa.gov.sa](mailto:sgemb@mofa.gov.sa).
-*   ![South Africa](//thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/20px-Flag_of_South_Africa.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [South Africa](https://dirco1.azurewebsites.net/singapore/), 331 North Bridge Rd, 15F Odeon Towers, ☏ [+65 6339 3319](tel:+6563393319), [Singapore.political@dirco.gov.za](mailto:Singapore.political@dirco.gov.za).
-    *    South Africa consular services, [Singapore.consular@dirco.gov.za](mailto:Singapore.consular@dirco.gov.za).
-*   ![South Korea](//thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [South Korea](https://overseas.mofa.go.kr/sg-en/index.do), 47 Scotts Rd, #08-00 Goldbell Towers, ☏ [+65 6256 1188](tel:+6562561188), fax: +65 6258 3191, [korembsg@mofa.go.kr](mailto:korembsg@mofa.go.kr).
-    *    Consular section, 47 Scotts Rd, #16-03/04 Goldbell Towers, fax: +65 6258 3302, [consg@mofa.go.kr](mailto:consg@mofa.go.kr).
-*   ![Spain](//thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Spain](https://www.exteriores.gob.es/Embajadas/singapur/en/Paginas/index.aspx), 7 Temasek Blvd, #39-00 Suntec Tower 1, ☏ [+65 6725 9217](tel:+6567259217), [+65 6725 9215](tel:+6567259215), fax: +65 6333 3025, [emb.singapur@maec.es​](mailto:emb.singapur@maec.es).
-    *    Spain consular services, [emb.singapur.​sc@maec.es​](mailto:emb.singapur.sc@maec.es).
-*   ![Sri Lanka](//thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/20px-Flag_of_Sri_Lanka.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Sri Lanka](https://www.lanka.com.sg/), 51 Newton Rd, #13-07/12 Goldhill Plaza, ☏ [+65 6254 4595](tel:+6562544595), [+65 6254 4596](tel:+6562544596), [+65 6254 4597](tel:+6562544597), [slhcs@lanka.com.sg](mailto:slhcs@lanka.com.sg).
-*   ![Sweden](//thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/20px-Flag_of_Sweden.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Sweden](https://www.swedenabroad.se/en/embassies/singapore-singapore/), 1 Temasek Avenue, #14-03 Millenia Tower, ☏ [+65 6415 9720](tel:+6564159720), fax: +65 6415 9747, [ambassaden.singapore@gov.se](mailto:ambassaden.singapore@gov.se). Visa applications are outsourced to VFS Global.
-    *    [VFS Global](https://visa.vfsglobal.com/sgp/en/swe/), 79 Anson Road, #15-02, ☏ [+65 3105 1830](tel:+6531051830), [info.swedensg@vfshelpline.com](mailto:info.swedensg@vfshelpline.com).
-*   ![Switzerland](//thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Switzerland](https://www.eda.admin.ch/countries/singapore/en/home/representations/embassy-singapore.html), 1 Swiss Club Link, ☏ [+65 6468 5788](tel:+6564685788), fax: +65 6466 8245, [singapore@eda.admin.ch](mailto:singapore@eda.admin.ch), [singapore.consular@eda.admin.ch](mailto:singapore.consular@eda.admin.ch), [singapore.visa@eda.admin.ch](mailto:singapore.visa@eda.admin.ch)MULTIPLE EMAIL.
-*   ![Taiwan](//thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/20px-Flag_of_the_Republic_of_China.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Taiwan](https://www.roc-taiwan.org/sg_en/index.html) (Taipei Representative Office in Singapore), 460 Alexandra Rd, #23-00 mTower, ☏ [+65 6500 0100](tel:+6565000100), [sgp@mofa.gov.tw](mailto:sgp@mofa.gov.tw).
-*   ![Thailand](//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/20px-Flag_of_Thailand.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Thailand](https://singapore.thaiembassy.org/en/index), 370 Orchard Rd, ☏ [+65 6737 2475](tel:+6567372475) (main), [+65 6737 2476](tel:+6567372476) (main), [+65 6737 2158](tel:+6567372158) (Thai citizen services), [+65 6736 2644](tel:+6567362644) (visa applications), fax: +65 6732 0778, [thaiembassy.sin@mfa.go.th](mailto:thaiembassy.sin@mfa.go.th).
-    *    Thailand consular services, [consular.sin@mfa.go.th](mailto:consular.sin@mfa.go.th).
-*   ![Turkey](//thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/20px-Flag_of_Turkey.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Turkey](https://singapur-be.mfa.gov.tr/), 2 Shenton Way, # 10-03 SGX Centre Tower 1, ☏ [+65 6422 7322](tel:+6564227322), [+65 6533 3390](tel:+6565333390), fax: +65 6533 3360, [embassy.singapore@mfa.gov.tr](mailto:embassy.singapore@mfa.gov.tr).
-*   ![Ukraine](//thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/20px-Flag_of_Ukraine.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Ukraine](https://singapore.mfa.gov.ua/en), 50 Raffles Pl, #16-05 Singapore Land Tower, ☏ [+65 6535 6550](tel:+6565356550), fax: +65 6535 2116, [emb\_sg@mfa.gov.ua](mailto:emb_sg@mfa.gov.ua).
-    *    Ukraine consular services, [consul\_sg@mfa.gov.ua](mailto:consul_sg@mfa.gov.ua).
-*   ![United Arab Emirates](//thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/20px-Flag_of_the_United_Arab_Emirates.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [United Arab Emirates](https://www.mofa.gov.ae/en/missions/singapore), 3 Temasek Avenue, #19-01/02 Centennial Tower, ☏ [+65 6238 8206](tel:+6562388206), fax: +65 6238 0081, [SingaporeEmb@mofaic.gov.ae](mailto:SingaporeEmb@mofaic.gov.ae).
-*   ![United Kingdom](//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/20px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [United Kingdom](https://www.gov.uk/world/organisations/british-high-commission-singapore), 100 Tanglin Rd, ☏ [+65 6424 4200](tel:+6564244200), [enquiries.singapore@fcdo.gov.uk](mailto:enquiries.singapore@fcdo.gov.uk).
-*   ![United States](//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [United States of America](https://sg.usembassy.gov/), 27 Napier Rd, ☏ [+65 6476 9100](tel:+6564769100) (general enquiries), [+65 3158 5400](tel:+6531585400) (visa applications), fax: +65 6476 9232, [singaporeacs@state.gov](mailto:singaporeacs@state.gov).
-    *    United States visa applications, [support-singapore@ustraveldocs.com](mailto:support-singapore@ustraveldocs.com).
-*   ![Uzbekistan](//thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/20px-Flag_of_Uzbekistan.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Uzbekistan](https://singapore.mfa.uz/), 20 Kramat Ln, #04-01/02 United House, ☏ [+65 6734 3942](tel:+6567343942), [+65 6734 3943](tel:+6567343943), fax: +65 6734-5849, [sg.uzembassy@mfa.uz](mailto:sg.uzembassy@mfa.uz).
-    *    Uzbekistan additional email address, [office@uzembassy.sg](mailto:office@uzembassy.sg).
-*   ![Vatican City](//thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/20px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  Vatican City, 55 Waterloo St, #09-01 & 09-02 Catholic Centre, ☏ [+65 6337 2466](tel:+6563372466), [apostolic@nunciature.sg](mailto:apostolic@nunciature.sg).
-*   ![Venezuela](//thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Venezuela](https://singapur.embajada.gob.ve), 163 Penang Road, #02-01 Winsland House II, ☏ [+65 6491 1172](tel:+6564911172).
-*   ![Vietnam](//thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/20px-Flag_of_Vietnam.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)  [Vietnam](https://vnembassy-singapore.mofa.gov.vn/en-us/Pages/default.aspx), 10 Leedon Park, ☏ [+65 6462 5938](tel:+6564625938) (general enquiries), [+65 6462 5994](tel:+6564625994) (consular), fax: +65 6468 9863 (general enquiries), +65 6462 5936 (consular), [vnemb.sg@mofa.gov.vn](mailto:vnemb.sg@mofa.gov.vn).
-
-### Hair cuts
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=108 "Edit section: Hair cuts")\]
 
 Singaporeans are particular about their hair and there is no shortage of fancy hair salons charging from $20 up for the latest Chinese popstar look. If you are willing to splurge, there is Passion Hair Salon at Palais Renaissance with celebrity hairstylist David Gan (hairstylist of Zhang Ziyi and other famous celebrities) doing the haircut. Le Salon at Ngee Ann City offers haircuts up to $2,000. The middle range hair salons in town or in the heartlands, offer haircuts with hair wash as well as other frills. Chains include Reds Hairdressing, Supercuts, Toni & Guy salons that are all over Singapore. For a more backpacker-friendly price, almost every shopping mall in Singapore has a branch of **[EC House](https://ec-house.com.sg/)** or one of its many imitators, offering fuss-free 10 min haircuts for $15, although the hairdressers are mostly happy to spend as long as necessary on your hair, within reasonable limits. Most HDB estates have barbershops which charge $5 to $10 for adults and less for students and children.
 
-### Laundry
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=109 "Edit section: Laundry")\]
-
 Hotels often provide a one-day laundry service (at a price), whereas hostels often have communal self-service washing machines. Full-service laundry and dry cleaning shops can be found in every shopping mall; unfortunately turnaround times are usually upwards of three days unless you opt for express service. There are also self-service laundromat chains and franchises with various outlets located within the business district and around the country:
 
-*    [Wonder Wash Self-service Laundromat](https://wonderwash.com.sg/), ☏ [+65 9786 2038](tel:+6597862038). 24 hrs. Totally self-service laundromat with no attendants, Various sizes of machines from 8 kg to 20 kg. Price starts from $4 per 8 kg, modern and clean. (updated Sep 2026)
-*    [DIY Laundry](https://diylaundry.com.sg/). 24 hrs. Coin-operated, self-serviced laundromat. Various sizes of machines from 11kg to 20kg, $5-$20. (updated Sep 2026)
-
-### Photo processing
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=110 "Edit section: Photo processing")\]
+*   [Wonder Wash Self-service Laundromat](https://wonderwash.com.sg/), ☏ [+65 9786 2038](tel:+6597862038). 24 hrs. Totally self-service laundromat with no attendants, Various sizes of machines from 8 kg to 20 kg. Price starts from $4 per 8 kg, modern and clean. (updated Sep 2026)
+*   [DIY Laundry](https://diylaundry.com.sg/). 24 hrs. Coin-operated, self-serviced laundromat. Various sizes of machines from 11kg to 20kg, $5-$20. (updated Sep 2026)
 
 Practically every shopping mall has a photo shop that will print digital pictures and take passport photos. Many pharmacies and supermarkets also have self-service kiosks which print digital photos from CD, SD-card, USB drive, etc.
-
-### Sports
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=111 "Edit section: Sports")\]
 
 The **[Singapore Sports Council](https://www.sportsingapore.gov.sg/)** runs a chain of affordable sports facilities, often featuring fantastic outdoor 50 m pools (see [Swimming](#Swimming) for a list). Facilities are somewhat sparse but the prices are unbeatable, with e.g. swimming pools charging $1 for entry and access to ClubFITT gyms only $2.50. The main downside is the inconvenient location of most facilities out in the suburbs, although most are close to an MRT station and can be reached within 10-20 min from downtown. The gyms also have a total ban on bringing in any reading material (aimed at students but enforced blindly).
 
 Major private gym chains include [**Anytime Fitness**](https://www.anytimefitness.sg/), **[Fitness First](https://www.fitnessfirst.com/sg/en)**, **[Gold's Gym](https://www.goldsgym.com.sg/)** and **[True Fitness](https://truefitness.com.sg/)**. Facilities are better and locations more central, but the prices are also much higher as non-members have to fork out steep day pass fees (around $40). If you are a member of Anytime Fitness in your home country, you may be able to access any of the franchise's gyms in Singapore.
 
-Some of the **[parks](https://www.nparks.gov.sg/)** offer rental of bicycles and inline skates ($3–6/hr, open until 8PM). You can either rent skates, attend a skate class or send the children off to a skate camp at major parks like West Coast and East Coast Park. Especially rewarding for skaters and cyclists is the 10 km long stretch along [East Coast Park](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") with a paved track and lots of rental shops, bars and cafes around the McDonald's. There are toilets and showers along the track. Furthermore, every park has a couple of fitness stations.
-
-### Television
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=112 "Edit section: Television")\]
+Some of the **[parks](https://www.nparks.gov.sg/)** offer rental of bicycles and inline skates ($3–6/hr, open until 8PM). You can either rent skates, attend a skate class or send the children off to a skate camp at major parks like West Coast and East Coast Park. Especially rewarding for skaters and cyclists is the 10 km long stretch along [East Coast Park](https://en.wikivoyage.org/wiki/Singapore/East_Coast "Singapore/East Coast") with a paved track and lots of rental shops, bars and cafes around the McDonald's. There are toilets and showers along the track. Furthermore, every park has a couple of fitness stations.
 
 Free-to-air digital terrestrial televisions (DTT) are readily available at all sides of Singapore, though most houses and hotels have cable or internet protocol TV that enable them to get more channels. The four official languages of Singapore each gets at least one TV station, and the main news at night for each language is always subtitled to the respective languages. All free-to-air TV channels are owned by the state-owned Mediacorp, as such news contents, especially from Singapore, generally do not differ much between channels. Satellite TV is illegal in Singapore.
 
@@ -3089,15 +1298,7 @@ DTT channels include:
 *   **Vasantham**, Tamil general entertainment channel, locally produced dramas and Bollywood or Kollywood movies. News broadcasts at 8:30PM daily.
 *   **Suria**, Malay general entertainment channel from local productions, Malaysia, and Indonesia. News broadcasts at daily at 8PM.
 
-### Newspapers
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=113 "Edit section: Newspapers")\]
-
-Singapore regularly scrapes the bottom of press freedom rankings, and all local newspapers in Singapore are published by the state-owned Singapore Press Holdings. That being said, they generally do provide reasonably balanced coverage of hard news. The main English-language newspaper is **[The Straits Times](https://www.straitstimes.com)**, which is published every Monday to Saturday, with **The Sunday Times** filling in on Sunday. **[Business Times](https://www.businesstimes.com.sg/)** focuses on business and financial news. Papers are also available in Singapore's three other official languages, with **[Lianhe Zaobao](https://www.zaobao.com.sg/)** (联合早报) being the main Chinese newspaper, **[Berita Harian](https://www.beritaharian.sg/)** (or **Berita Minggu** on Sunday) being the main Malay newspaper, and **[Tamil Murasu](https://www.tamilmurasu.com.sg/)** (தமிழ் முரசு) being the main Tamil newspaper.
-
-### Weather
-
-\[[edit](/w/index.php?title=Singapore&action=edit&section=114 "Edit section: Weather")\]
+Singapore regularly scrapes the bottom of press freedom rankings, and all local newspapers in Singapore are published by the state-owned Singapore Press Holdings. That being said, they generally do provide reasonably balanced coverage of hard news. The main English-language newspaper is **[The Straits Times](https://www.straitstimes.com/)**, which is published every Monday to Saturday, with **The Sunday Times** filling in on Sunday. **[Business Times](https://www.businesstimes.com.sg/)** focuses on business and financial news. Papers are also available in Singapore's three other official languages, with **[Lianhe Zaobao](https://www.zaobao.com.sg/)** (联合早报) being the main Chinese newspaper, **[Berita Harian](https://www.beritaharian.sg/)** (or **Berita Minggu** on Sunday) being the main Malay newspaper, and **[Tamil Murasu](https://www.tamilmurasu.com.sg/)** (தமிழ் முரசு) being the main Tamil newspaper.
 
 If you are travelling to Singapore, be sure to carry the following:
 
@@ -3108,6 +1309,29 @@ If you are travelling to Singapore, be sure to carry the following:
 *   **Cotton or dri-fit shirts** - Wear comfortable shirts that can let the air flow through.
 *   **Slippers** - Singaporeans love to wear slippers (called "flip-flops" in the United States, "thongs" in Australia or "jandals" in New Zealand). Be sure to carry a pair, just to blend in. Try sandals if you're not used to flip flops, but beware that in some formal establishments (e.g. the theatre, concert hall, and recital studio at the Esplanade), no flip flops, sandals, or shorts are allowed.
 *   **Sweater** - In cinemas, shopping malls, and museums, air conditioning can be relatively colder than expected, though this is likely to be a welcome relief from the heat.
+
+Singapore makes a good base for exploring [South-East Asia](https://en.wikivoyage.org/wiki/Southeast_Asia "Southeast Asia"), with nearly all of the region's countries and their main tourist destinations — including [Bangkok](https://en.wikivoyage.org/wiki/Bangkok "Bangkok"), [Phuket](https://en.wikivoyage.org/wiki/Phuket "Phuket"), [Angkor Wat](https://en.wikivoyage.org/wiki/Angkor_Wat "Angkor Wat"), [Ho Chi Minh City](https://en.wikivoyage.org/wiki/Ho_Chi_Minh_City "Ho Chi Minh City") and [Bali](https://en.wikivoyage.org/wiki/Bali "Bali") — under 2 hr away by plane. Thanks to budget carriers, Singapore is an excellent place for catching cheap flights to China and India. Singapore also has direct flights to many of the smaller cities in [Malaysia](https://en.wikivoyage.org/wiki/Malaysia "Malaysia"), [Indonesia](https://en.wikivoyage.org/wiki/Indonesia "Indonesia") and [Thailand](https://en.wikivoyage.org/wiki/Thailand "Thailand"), which can be convenient points of entry if you wish to skip the ever-present queues and touts at their main airports.
+
+For day or weekend trips from Singapore, the following are popular:
+
+*   [Batam](https://en.wikivoyage.org/wiki/Batam "Batam") — The nearest Indonesian island to Singapore, just a short ferry trip away. Mainly industrial and infamous for its vice trade, but has some resorts.
+*   [Bintan](https://en.wikivoyage.org/wiki/Bintan "Bintan") — Indonesian island just 55 min away by ferry, offering both high-end resorts and the "real Indonesia" experience.
+*   [Johor Bahru](https://en.wikivoyage.org/wiki/Johor_Bahru "Johor Bahru") — Malaysian city just across the Causeway. Just 20 min by bus 950 from Woodlands Bus Interchange. Not much to look at, but popular for cheap eating, shopping, spa experiences and Legoland Malaysia.
+*   [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur") — Malaysia's vibrant capital. 45 min by plane, 4–5 hr by bus or 10 hr by train.
+*   [Malacca](https://en.wikivoyage.org/wiki/Malacca "Malacca") — Once one of the three Straits Settlements, now a sleepy colonial town and a [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/WV-Unesco-icon-small.svg/20px-WV-Unesco-icon-small.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") [UNESCO World Heritage Site](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List"). 3–4 hr by bus, although it might take a little longer due to border congestion.
+*   [Pulau Tioman](https://en.wikivoyage.org/wiki/Pulau_Tioman "Pulau Tioman") — The nearest of Malaysia's [East Coast](https://en.wikivoyage.org/wiki/East_Coast_\(Malaysia\) "East Coast (Malaysia)") paradise islands, reachable by bus & ferry.
+
+For those who can afford more time to travel, here are several destinations that are popular long weekend (i.e. when a weekend coincides with a public holiday) trips for Singaporeans:
+
+*   [Bali](https://en.wikivoyage.org/wiki/Bali "Bali") — One of Indonesia's biggest tourist draws with its nice beaches and good food. About 2.5 hr away by plane.
+*   [Bangkok](https://en.wikivoyage.org/wiki/Bangkok "Bangkok") — Thailand's capital and considered a food, shopping, and clubbing paradise by many Singaporeans. It is less than 2 hr flight away, or 2 nights by train, assuming you don't stop off in [Kuala Lumpur](https://en.wikivoyage.org/wiki/Kuala_Lumpur "Kuala Lumpur") or Butterworth (for [Penang](https://en.wikivoyage.org/wiki/Penang "Penang")).
+*   [Phuket](https://en.wikivoyage.org/wiki/Phuket "Phuket") — One of the largest islands in Thailand, is another popular destination for Singaporeans. It offers a great weekend getaway and is less than 2 hr flight away. Relatively cheaper than Singapore, it is a great destination to hang around.
+*   [Ipoh](https://en.wikivoyage.org/wiki/Ipoh "Ipoh") — The capital of the Malaysian state of Perak with many well-preserved colonial buildings, it is famous among Singaporeans for its food. 7–8 hr away by coach, or 1 hr by plane.
+*   [Langkawi](https://en.wikivoyage.org/wiki/Langkawi "Langkawi") — An island in the Malaysian state of Kedah, just south of the Thai border, famed for endless beaches. Just over an hour by plane.
+*   [Penang](https://en.wikivoyage.org/wiki/Penang "Penang") — One of the Straits Settlements, with a rich history and fabulous food. Its capital [George Town](https://en.wikivoyage.org/wiki/George_Town_\(Malaysia\) "George Town (Malaysia)") is a [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/WV-Unesco-icon-small.svg/20px-WV-Unesco-icon-small.svg.png?utm_source=en.wikivoyage.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List") [UNESCO World Heritage Site](https://en.wikivoyage.org/wiki/UNESCO_World_Heritage_List "UNESCO World Heritage List"). About 12 hr away by coach, or 1 hr if you choose to fly. Also popular for its medical tourism.
+*   [Hong Kong](https://en.wikivoyage.org/wiki/Hong_Kong "Hong Kong") — A business hub and often regarded as a rival of Singapore. About 3 1/2 hours away by flight, and a popular shopping and dining destination for Singaporeans.
+
+
 
 Source: Wikivoyage Singapore Travel Guide
 URL: https://en.wikivoyage.org/wiki/Singapore

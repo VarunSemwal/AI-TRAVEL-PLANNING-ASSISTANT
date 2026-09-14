@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Wikivoyage Singapore Travel Guide",
+    "url": "https://en.wikivoyage.org/wiki/Singapore",
+    "path": "wikivoyage-singapore.md",
+    "license_notes": "Review Wikivoyage and Wikimedia reuse terms before redistributing extracted content."
+  },
+  {
+    "title": "Visit Singapore: Essential Travel Information",
+    "url": "https://www.visitsingapore.com/travel-tips/essential-travel-information/",
+    "path": "visit-singapore-essential-information.md",
+    "license_notes": "Review Visit Singapore reuse terms before redistributing extracted content."
+  },
+  {
+    "title": "Visit Singapore: Sample Itineraries",
+    "url": "https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/",
+    "path": "visit-singapore-itineraries.md",
+    "license_notes": "Review Visit Singapore reuse terms before redistributing extracted content."
+  }
+]

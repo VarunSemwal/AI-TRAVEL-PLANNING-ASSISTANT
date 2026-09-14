@@ -1,0 +1,1 @@
+"""Singapore travel assistant package."""

@@ -76,16 +76,20 @@ def fetch_currency(
 
 def parse_currency_question(question: str) -> tuple[float, str, str] | None:
     match = re.search(
-        r"(?:convert\s+)?(?:([A-Z]{3})\s*)?([\d,]+(?:\.\d+)?)\s*"
-        r"(?:from\s+([A-Z]{3})\s+)?(?:to|in)\s+([A-Z]{3})",
+        r"(?:\b([A-Z]{3})\s*)?\b([\d,]+(?:\.\d+)?)(?:\s*([A-Z]{3})\b)?",
         question,
         re.I,
     )
     if not match:
         return None
+    target = re.search(r"\b(?:to|in)\s+([A-Z]{3})\b", question, re.I)
+    source = re.search(r"\bfrom\s+([A-Z]{3})\b", question, re.I)
     amount = float(match.group(2).replace(",", ""))
-    from_currency = (match.group(1) or match.group(3) or "INR").upper()
-    return amount, from_currency, match.group(4).upper()
+    from_currency = (
+        match.group(1) or match.group(3) or (source.group(1) if source else "INR")
+    ).upper()
+    to_currency = target.group(1).upper() if target else "SGD"
+    return amount, from_currency, to_currency
 
 
 def next_week_dates() -> list[str]:

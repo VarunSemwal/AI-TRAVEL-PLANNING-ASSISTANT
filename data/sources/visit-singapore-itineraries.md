@@ -1,218 +1,425 @@
-# Singapore itinerary notes
+# Singapore – Sample Travel Itineraries
 
-## Table of Contents
-
-- [Solo Travel in Singapore](#solo-travel-in-singapore)
-- [A City Explorer's Guide](#a-city-explorers-guide)
-      - [2 days](#2-days)
-- [Your Dream Girls Trip in Singapore](#your-dream-girls-trip-in-singapore)
-      - [4 days](#4-days)
-- [Family Getaway in Singapore](#family-getaway-in-singapore)
-      - [4 days](#4-days-1)
-- [Other Popular Itineraries](#other-popular-itineraries)
-    - [A Singapore Guide for Outdoor Adventurers](#a-singapore-guide-for-outdoor-adventurers)
-    - [Honeymoon in Singapore](#honeymoon-in-singapore)
-    - [24 Hours in Singapore](#24-hours-in-singapore)
-        - [Related Sites](#related-sites)
-        - [Need Help?](#need-help)
-        - [Connect with Us](#connect-with-us)
-        - [Related Sites](#related-sites-1)
-        - [Need Help?](#need-help-1)
-        - [Connect with Us](#connect-with-us-1)
+> Sample Singapore itineraries for different trip durations and traveller
+> profiles. These itineraries combine Singapore's major attractions,
+> cultural districts, food experiences, shopping, nature and entertainment.
+>
+> Source: Visit Singapore
+> https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/
 
 ---
 
-Itineraries
+# How to Use This Guide
 
-[![Visit Singapore](https://www.visitsingapore.com/content/dam/visitsingapore/VS%20Logo%20(Black).svg)](https://www.visitsingapore.com/)
+Singapore is a compact destination with an efficient public transportation
+system. Many attractions can be combined based on their location.
 
-- What's Happening
-- Neighbourhoods
-- Things To Do
-- Travel Tips
-  [Get Recommendations](https://www.visitsingapore.com/personalised-travel-itinerary/)
+The itineraries in this guide are sample plans and can be adjusted according
+to:
 
-- Global
+- Traveller interests
+- Trip duration
+- Weather
+- Attraction opening hours
+- Travel pace
+- Budget
+- Family requirements
+- Shopping preferences
+- Food preferences
+- Accessibility requirements
 
-- Global
+Singapore is hot and humid throughout the year, so it is useful to combine
+outdoor sightseeing with indoor attractions, shopping malls, museums,
+restaurants and cafés.
 
-- [Global](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/)
-- [中文](https://www.visitsingapore.com.cn/travel-tips/travelling-to-singapore/itineraries/)
-- [Deutsch](https://www.visitsingapore.com/de_de/travel-tips/travelling-to-singapore/itineraries/)
-- [Bahasa Indonesia](https://www.visitsingapore.com/id_id/travel-tips/travelling-to-singapore/itineraries/)
-- [日本語](https://www.visitsingapore.com/ja_jp/travel-tips/travelling-to-singapore/itineraries/)
-- [한국어](https://www.visitsingapore.com/ko_kr/travel-tips/travelling-to-singapore/itineraries/)
-- [Tiếng Việt](https://www.visitsingapore.com/vi_vn/travel-tips/travelling-to-singapore/itineraries/)
-- [ไทย](https://www.visitsingapore.com/th_th/travel-tips/travelling-to-singapore/itineraries/)
+Popular attractions can become busy, particularly on weekends and holidays.
+Check attraction opening hours, ticket availability and reservation
+requirements before visiting.
 
-[Get Recommendations](https://www.visitsingapore.com/personalised-travel-itinerary/)
+---
 
-[All Happenings ](https://www.visitsingapore.com/whats-happening/all-happenings/)
+# Quick Itinerary Guide
 
-- [Events](https://www.visitsingapore.com/whats-happening/all-happenings/?anchorid=Events)
-- [Festivals](https://www.visitsingapore.com/whats-happening/all-happenings/?anchorid=festivals)
+| Duration | Recommended Focus |
+|---|---|
+| 1 Day | Marina Bay + Gardens by the Bay |
+| 2 Days | Marina Bay + Cultural Districts |
+| 3 Days | Marina Bay + Culture + Sentosa |
+| 4 Days | Marina Bay + Culture + Sentosa + Wildlife/Nature |
+| 5 Days | Major Attractions + Wildlife + Shopping + Food |
+| 7 Days | Comprehensive Singapore experience |
 
-[Featured Neighbourhoods ](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/)
+---
 
-- [Chinatown](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/chinatown/)
-- [Civic District](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/civic-district/)
-- [Dempsey](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/dempsey/)
-- [Kampong Gelam](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/kampong-gelam/)
-- [Katong-Joo Chiat](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/katong-joo-chiat/)
-- [Little India](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/little-india/)
-- [Mandai](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/mandai/)
-- [Marina Bay](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/marina-bay/)
-- [Orchard Road](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/orchard-road/)
-- [Sentosa Island](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/sentosa-island/)
-- [Singapore River](https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/singapore-river/)
+# 1-Day Singapore Itinerary
 
-[Top Things To Do ](https://www.visitsingapore.com/things-to-do/top-things-to-do/)
+## Best For
 
-- [Unique Experiences](https://www.visitsingapore.com/things-to-do/top-things-to-do/unique-experiences/)
-- [City in Nature](https://www.visitsingapore.com/things-to-do/top-things-to-do/city-in-nature/)
-- [Culture & Heritage](https://www.visitsingapore.com/things-to-do/top-things-to-do/culture-heritage/)
-- [Iconic Architecture](https://www.visitsingapore.com/things-to-do/top-things-to-do/iconic-architecture/)
-- [Family Fun](https://www.visitsingapore.com/things-to-do/top-things-to-do/family-fun/)
-- [After Dark](https://www.visitsingapore.com/things-to-do/top-things-to-do/after-dark/)
-- [Museums & Galleries](https://www.visitsingapore.com/things-to-do/top-things-to-do/museums-galleries/)
-- [Shop](https://www.visitsingapore.com/things-to-do/top-things-to-do/shop/)
-- [Dine](https://www.visitsingapore.com/things-to-do/top-things-to-do/dine/)
+- Short stopovers
+- First-time visitors
+- Business travellers
+- Cruise passengers
+- Travellers with very limited time
 
-[Shopping in Singapore ](https://www.visitsingapore.com/things-to-do/shop/)
+## Overview
 
-- [Singapore Top Must-Buy Souvenirs](https://www.visitsingapore.com/things-to-do/shop/singapore-local-brands/)
-- [Remarkable Stores](https://www.visitsingapore.com/things-to-do/shop/unique-shops-singapore/)
-- [Retail-tainment](https://www.visitsingapore.com/things-to-do/shop/shopping-mall-entertainment-activities/)
+```text
+Morning
+Marina Bay
 
-[Dine ](https://www.visitsingapore.com/things-to-do/dining/)
+Afternoon
+Gardens by the Bay
 
-- [Local Food & Drinks](https://www.visitsingapore.com/things-to-do/dining/local-food-and-drinks/)
-- [Best Restaurants](https://www.visitsingapore.com/things-to-do/dining/top-restaurants/)
-- [Singapore's Top Bars](https://www.visitsingapore.com/things-to-do/dining/reputable-bars/)
-- [Unique Dining Experiences](https://www.visitsingapore.com/things-to-do/dining/unique-dining-experience/)
-- [Halal Food in Singapore](https://www.visitsingapore.com/things-to-do/dining/halal/)
-- [Vegetarian and Vegan Food in Singapore](https://www.visitsingapore.com/things-to-do/dining/vegetarian/)
+Evening
+Marina Bay Sands + Singapore River
+```
 
-[Wellness ](https://www.visitsingapore.com/things-to-do/urban-wellness/)
+---
 
-- [Green Spaces & Nature Parks](https://www.visitsingapore.com/things-to-do/urban-wellness/green-spaces/)
-- [Wellness Escapes](https://www.visitsingapore.com/things-to-do/urban-wellness/wellness-escapes/)
+# 2-Day Singapore Itinerary
 
-[Tours ](https://www.visitsingapore.com/things-to-do/singapore-tours/)
+## Best For
 
-- [Culture & Heritage](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=culture-heritage)
-- [Food & Dining](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=food-dining)
-- [Gamification](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=gamification)
-- [Instagrammable](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=instagrammable)
-- [Sustainability](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=sustainability)
-- [Wellness](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=wellness)
-- [Free](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=free)
-- [Accessible](https://www.visitsingapore.com/things-to-do/singapore-tours/?anchorid=accessible)
+- First-time visitors
+- Couples or friends
+- Weekend city breaks
+- Visitors with a short but full trip
 
-[About Singapore ](https://www.visitsingapore.com/travel-tips/about-singapore/)
+## Overview
 
-- [Travel Sustainably](https://www.visitsingapore.com/travel-tips/about-singapore/travel-sustainably/)
+### Day 1
 
-[Traveling to Singapore ](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/)
+```text
+Morning
+Marina Bay area: Marina Bay Sands, ArtScience Museum, Helix Bridge
 
-- [Seasonal Highlights](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/seasonal-highlights/)
-- [Itineraries](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/)
+Afternoon
+Gardens by the Bay and Supertree Grove, Cloud Forest, Flower Dome
 
-[Essential Information ](https://www.visitsingapore.com/travel-tips/essential-travel-information/)
+Evening
+Singapore River walk, Clarke Quay, Lau Pa Sat or local hawker dinner
+```
 
-- [Weather](https://www.visitsingapore.com/travel-tips/essential-travel-information/?anchorid=weather)
-- [Payment](https://www.visitsingapore.com/travel-tips/essential-travel-information/?anchorid=payment)
-- [Transport](https://www.visitsingapore.com/travel-tips/essential-travel-information/?anchorid=transport)
+### Day 2
 
-[Home](https://www.visitsingapore.com/) / [Traveling to Singapore](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/) /Itineraries
+```text
+Morning
+Chinatown, Buddha Tooth Relic Temple, Maxwell Food Centre
 
-Discover the pulse of Singapore with itineraries to lead you through some of our iconic landmarks, hidden gems, culinary delights and more.
+Afternoon
+Little India, Kampong Glam, Arab Street, Haji Lane
 
-## Solo Travel in Singapore
+Evening
+Night views from Marina Bay, Esplanade area, optional rooftop bar
+```
 
-No matter your personality or interests, from wellness seekers to nightlife enthusiasts, this solo traveller guide to Singapore has got you covered with recommendations to help you explore Singapore with confidence.
+---
 
-[Start Your Journey](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/solo-travel-to-singapore-guide/)
+# 3-Day Singapore Itinerary
 
-## A City Explorer's Guide
+## Best For
 
-##### 2 days
+- New visitors wanting a classic introduction
+- Families and couples
+- Short holiday with varied experiences
 
-Immerse yourself in a rich tapestry of cultural experiences, explore fascinating museums, and discover the vibrant attractions that make up Singapore's diverse cityscape.
+## Overview
 
-[Start Exploring](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/singapore-city-tour-guide/)
+### Day 1
 
-## Your Dream Girls Trip in Singapore
+```text
+Morning
+Marina Bay, Merlion Park, Marina Bay Sands
 
-##### 4 days
+Afternoon
+Gardens by the Bay, OCBC Skyway, Flower Dome
 
-With its reputation as one of the world's safest cities, Singapore lets you explore with confidence, day or night. Whether you're planning an unforgettable bachelorette bash or a fun-filled girls' getaway, this city is the perfect destination to celebrate in style.
+Evening
+Singapore River, Clarke Quay, Marina Barrage sunset
+```
 
-[Plan Your Party](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/bachelorette-party-trip-in-singapore/)
+### Day 2
 
-## Family Getaway in Singapore
+```text
+Morning
+National Gallery Singapore or Singapore Art Museum
 
-##### 4 days
+Afternoon
+Chinatown, Maxwell Food Centre, Ann Siang Hill
 
-What to see, food to eat, things to do, experiences that can’t be missed—here’s a guide to the best of Singapore that’s fit for all ages.
+Evening
+Bugis Street, Kampong Glam, Sultan Mosque area
+```
 
-[Fun for the Family](https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/places-to-visit-with-family/)
+### Day 3
 
-## Other Popular Itineraries
+```text
+Morning
+Sentosa Island: Palawan Beach or Siloso Beach
 
-#### A Singapore Guide for Outdoor Adventurers
+Afternoon
+Universal Studios Singapore or S.E.A. Aquarium
 
-Calling all nature lovers, thrill seekers and outdoor enthusiasts, explore Singapore’s wilder side with this 4 day guide.
+Evening
+Return to city for dinner at VivoCity or along Orchard Road
+```
 
-#### Honeymoon in Singapore
+---
 
-Whether you’re newly-married or on a wedding anniversary, Singapore is the perfect destination for couples in the mood for love.
+# 4-Day Singapore Itinerary
 
-#### 24 Hours in Singapore
+## Best For
 
-Pressed for time? Take in some of Singapore’s best sights in our 24 hour guide.
+- Visitors wanting culture, nature and leisure
+- Families and groups
+- Mixed-interest travellers
 
-###### Related Sites
+## Overview
 
-- [Singapore Tourism Board](https://www.stb.gov.sg/)
-- [Business Events](https://www.visitsingapore.com/mice/en/)
-- [Visit Southeast Asia](https://www.visitsoutheastasia.travel/)
+### Day 1
 
-###### Need Help?
+```text
+Morning
+Marina Bay and Civic District
 
-- [Contact Us](https://www.visitsingapore.com/contact-us/)
+Afternoon
+Gardens by the Bay and Bay East Garden
 
-###### Connect with Us
+Evening
+Singapore River, Hooters or rooftop dining in the CBD
+```
 
-- [Terms of Use](https://www.visitsingapore.com/terms-of-use/)
-- [Privacy](https://www.visitsingapore.com/privacy/)
-- [Cookie Policy](https://www.visitsingapore.com/cookie-policy/)
-- [Sitemap](https://www.visitsingapore.com/sitemap/)
-- [Report Vulnerability](https://www.tech.gov.sg/report-vulnerability/)
+### Day 2
 
-- Copyright © 2026 Singapore Tourism Board
-- Last Updated 02 Feb 2026
+```text
+Morning
+Chinatown and Maxwell Road food trail
 
-###### Related Sites
+Afternoon
+Little India and Kampong Glam
 
-- [Singapore Tourism Board](https://www.stb.gov.sg/)
-- [Business Events](https://www.visitsingapore.com/mice/en/)
-- [Visit Southeast Asia](https://www.visitsoutheastasia.travel/)
+Evening
+Arab Street, Haji Lane, dinner in the Kampong Glam area
+```
 
-###### Need Help?
+### Day 3
 
-- [Contact Us](https://www.visitsingapore.com/contact-us/)
+```text
+Morning
+Sentosa Island and beach time
 
-###### Connect with Us
+Afternoon
+Adventure Cove Waterpark or S.E.A. Aquarium
 
-- [Terms of Use](https://www.visitsingapore.com/terms-of-use/)
-- [Privacy](https://www.visitsingapore.com/privacy/)
-- [Cookie Policy](https://www.visitsingapore.com/cookie-policy/)
-- [Sitemap](https://www.visitsingapore.com/sitemap/)
-- [Report Vulnerability](https://www.tech.gov.sg/report-vulnerability/)
+Evening
+Night at VivoCity, HarbourFront dining, or beachside evening stroll
+```
 
-- Copyright © 2026 Singapore Tourism Board
-- Last Updated 02 Feb 2026
+### Day 4
 
-Source: Visit Singapore, Sample Itineraries
+```text
+Morning
+Singapore Zoo or Night Safari
+
+Afternoon
+Jurong Bird Park or the Southern Ridges / HortPark
+
+Evening
+Shopping and dining at Orchard Road or a casual evening in Bugis
+```
+
+---
+
+# 5-Day Singapore Itinerary
+
+## Best For
+
+- Comprehensive city break
+- First-time visitors with extra time
+- Food lovers and culture explorers
+
+## Overview
+
+### Day 1
+
+```text
+Morning
+Marina Bay, Merlion Park, Marina Bay Sands
+
+Afternoon
+Gardens by the Bay
+
+Evening
+Singapore River and Clarke Quay
+```
+
+### Day 2
+
+```text
+Morning
+National Museum of Singapore and Fort Canning
+
+Afternoon
+Chinatown, Maxwell Food Centre, temples and heritage streets
+
+Evening
+Bugis and Kampong Glam dinner walk
+```
+
+### Day 3
+
+```text
+Morning
+Little India and the Indian heritage district
+
+Afternoon
+Orchard Road shopping and Ion Orchard / Ngee Ann City
+
+Evening
+Food tour at Tiong Bahru or a café evening in the city
+```
+
+### Day 4
+
+```text
+Morning
+Sentosa Island: beaches and attractions
+
+Afternoon
+Universal Studios Singapore or S.E.A. Aquarium
+
+Evening
+Sunset at Siloso Beach and dinner at Sentosa
+```
+
+### Day 5
+
+```text
+Morning
+Singapore Zoo or River Safari
+
+Afternoon
+Wildlife park and nature walk, optional Jurong Lake Gardens
+
+Evening
+Final evening at Marina Bay or along Orchard Road
+```
+
+---
+
+# 7-Day Singapore Itinerary
+
+## Best For
+
+- Full Singapore experience
+- Families or leisure travellers
+- Visitors who want a balanced mix of city, culture, nature and shopping
+
+## Overview
+
+### Day 1
+
+```text
+Morning
+Arrival and easy exploration of Marina Bay and the CBD
+
+Afternoon
+Gardens by the Bay and Bayfront area
+
+Evening
+Sunset at Marina Bay Sands and dinner by the river
+```
+
+### Day 2
+
+```text
+Morning
+Civic District, National Gallery and Raffles Place area
+
+Afternoon
+Esplanade, Merlion Park and Singapore River promenade
+
+Evening
+Clarke Quay and local hawker food
+```
+
+### Day 3
+
+```text
+Morning
+Chinatown heritage walk
+
+Afternoon
+Maxwell Food Centre, Buddha Tooth Relic Temple, Ann Siang Hill
+
+Evening
+Dinner in the city and evening shopping in Bugis
+```
+
+### Day 4
+
+```text
+Morning
+Little India and Tekka Centre
+
+Afternoon
+Kampong Glam, Arab Street and Haji Lane
+
+Evening
+Malay and Middle Eastern dining in the historic quarter
+```
+
+### Day 5
+
+```text
+Morning
+Sentosa Island and beach activities
+
+Afternoon
+Theme park or aquarium, plus resort-area leisure time
+
+Evening
+Dinner at VivoCity and relaxed city return
+```
+
+### Day 6
+
+```text
+Morning
+Singapore Zoo, River Safari or Night Safari
+
+Afternoon
+Jurong Bird Park or an outdoor nature park visit
+
+Evening
+Local food trail or family-friendly shopping stop in Orchard Road
+```
+
+### Day 7
+
+```text
+Morning
+Free morning for last-minute shopping or café hopping
+
+Afternoon
+Visit Tiong Bahru for a local neighbourhood experience
+
+Evening
+Final sunset at Marina Bay or a farewell dinner in Chinatown
+```
+
+---
+
+# Tips for Planning Your Trip
+
+- Combine outdoor sights with indoor attractions to stay comfortable in Singapore's tropical climate.
+- Use the MRT and public buses for efficient travel between neighbourhoods.
+- Reserve attraction tickets in advance if visiting popular sites, especially on weekends.
+- Leave time for food stops, since Singapore's hawker centres and cafés are an important part of the experience.
+- Adjust the suggested pacing to suit your interests, budget and travel style.
+
+This sample guide can be shortened, extended or re-ordered depending on your trip duration, interests and pace.
+
+Source: Visit Singapore, Sample Itineraries 
+
 URL: https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/

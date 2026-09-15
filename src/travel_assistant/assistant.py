@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 
 from langchain_core.documents import Document
@@ -94,7 +95,21 @@ class TravelAssistant:
             },
         )
 
+    @staticmethod
+    def _is_greeting(question: str) -> bool:
+        return bool(re.match(r"^\s*(hi|hello|hey|greetings|good\s+(morning|afternoon|evening|night))\b", question, re.I))
+
     def answer(self, question: str, history: list[dict] | None = None) -> AssistantResponse:
+        if self._is_greeting(question):
+            return AssistantResponse(
+                answer="Hello! How can I help with your Singapore trip today?",
+                citations=[],
+                current_data=[],
+                recommendations=[],
+                limitations=[],
+                tools_used=[],
+            )
+
         intent = classify_request(question)
         citations: list[Citation] = []
         current_data: list[str] = []
@@ -156,15 +171,25 @@ class TravelAssistant:
                 )
             except Exception as error:
                 limitations.append(f"Azure OpenAI response generation was unavailable: {error}")
+
+        is_trip_plan_query = any(
+            keyword in question.lower()
+            for keyword in ("itinerary", "plan", "travel plan", "trip plan")
+        )
+        if recommendation and is_trip_plan_query:
+            llm_answer = ""
+
+        suppress_knowledge = bool(recommendation or llm_answer) and is_trip_plan_query
+
         answer_parts = []
-        if context:
-            answer_parts.append(f"**Knowledge-base facts**\n{context}")
-        if current_data:
-            answer_parts.append("**Current MCP information**\n" + "\n".join(current_data))
         if recommendation:
             answer_parts.append(f"**AI-generated recommendations**\n{recommendation}")
         if llm_answer:
             answer_parts.append(f"**Grounded assistant response**\n{llm_answer}")
+        if current_data:
+            answer_parts.append("**Current MCP information**\n" + "\n".join(current_data))
+        if context and not suppress_knowledge:
+            answer_parts.append(f"**Knowledge-base facts**\n{context}")
         if limitations:
             answer_parts.append("**Limitations**\n" + "\n".join(limitations))
         return AssistantResponse(

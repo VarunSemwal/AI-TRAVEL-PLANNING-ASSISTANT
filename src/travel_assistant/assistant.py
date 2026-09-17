@@ -18,6 +18,18 @@ from travel_assistant.providers import parse_currency_question
 
 ROOT = Path(__file__).resolve().parents[2]
 
+# Keep knowledge-base excerpts and generated answers concise in the response.
+CONTEXT_MAX_CHARS = 2000
+ANSWER_MAX_CHARS = 700
+
+
+def _trim(text: str, max_chars: int) -> str:
+    text = text.strip()
+    if len(text) <= max_chars:
+        return text
+    truncated = text[:max_chars].rsplit(" ", 1)[0]
+    return f"{truncated}…"
+
 
 class TravelAssistant:
     def __init__(self, settings: Settings):
@@ -62,7 +74,9 @@ class TravelAssistant:
                 if score
             ]
         selected = selected[: self.settings.retrieval_top_k] or self.documents[:1]
-        context = "\n\n".join(document.page_content for document in selected)
+        context = _trim(
+            "\n\n".join(document.page_content for document in selected), CONTEXT_MAX_CHARS
+        )
         citations = [
             Citation(document.metadata["source_title"], document.metadata["source_url"])
             for document in selected
@@ -145,12 +159,6 @@ class TravelAssistant:
             except Exception as error:
                 limitations.append(f"Currency MCP was unavailable: {error}")
 
-        conversation_text = " ".join(
-            str(message.get("content", "")) for message in (history or [])
-        )
-        recommendation = self._recommendation(
-            f"{conversation_text} {question}", context, weather
-        )
         llm_answer = ""
         if (
             context
@@ -160,35 +168,29 @@ class TravelAssistant:
             and self.settings.azure_openai_api_key != "replace-me"
         ):
             try:
-                llm_answer = generate_grounded_answer(
-                    question,
-                    context,
-                    current_data,
-                    self.settings.azure_openai_endpoint,
-                    self.settings.azure_openai_api_key,
-                    self.settings.azure_openai_api_version,
-                    self.settings.azure_openai_chat_deployment,
+                llm_answer = _trim(
+                    generate_grounded_answer(
+                        question,
+                        context,
+                        current_data,
+                        self.settings.azure_openai_endpoint,
+                        self.settings.azure_openai_api_key,
+                        self.settings.azure_openai_api_version,
+                        self.settings.azure_openai_chat_deployment,
+                    ),
+                    ANSWER_MAX_CHARS,
                 )
             except Exception as error:
                 limitations.append(f"Azure OpenAI response generation was unavailable: {error}")
 
-        is_trip_plan_query = any(
-            keyword in question.lower()
-            for keyword in ("itinerary", "plan", "travel plan", "trip plan")
-        )
-        if recommendation and is_trip_plan_query:
-            llm_answer = ""
-
-        suppress_knowledge = bool(recommendation or llm_answer) and is_trip_plan_query
-
+        # Same section order and criteria for every query: only presence of data decides
+        # what is shown, never the wording of the question.
         answer_parts = []
-        if recommendation:
-            answer_parts.append(f"**AI-generated recommendations**\n{recommendation}")
         if llm_answer:
             answer_parts.append(f"**Grounded assistant response**\n{llm_answer}")
         if current_data:
             answer_parts.append("**Current MCP information**\n" + "\n".join(current_data))
-        if context and not suppress_knowledge:
+        if context:
             answer_parts.append(f"**Knowledge-base facts**\n{context}")
         if limitations:
             answer_parts.append("**Limitations**\n" + "\n".join(limitations))
@@ -197,32 +199,7 @@ class TravelAssistant:
             or "The knowledge base does not contain enough information to answer that.",
             citations=citations,
             current_data=current_data,
-            recommendations=[recommendation] if recommendation else [],
+            recommendations=[],
             limitations=limitations,
             tools_used=tools_used,
-        )
-
-    @staticmethod
-    def _recommendation(question: str, context: str, weather: dict | None) -> str:
-        if "itinerary" not in question.lower() and "three-day" not in question.lower():
-            return ""
-        rain_days = {
-            item["date"]
-            for item in (weather or {}).get("daily", [])
-            if item.get("rain_probability", 0) >= 50
-        }
-        weather_note = (
-            f" Weather-sensitive days: {', '.join(sorted(rain_days))}." if rain_days else ""
-        )
-        return (
-            "Day 1: Marina Bay and the Civic District, with an indoor museum alternative. "
-            "Day 2: Chinatown, Little India, and Kampong Glam, grouped as heritage neighbourhoods. "
-            "Day 3: Gardens and a hawker-centre meal, switching the longest outdoor block to an "
-            "indoor museum or food hall if rain is expected. Use MRT and short walks between areas."
-            + weather_note
-            + (
-                " For a family, use shorter activity blocks and add meal or rest breaks."
-                if "family" in question.lower()
-                else ""
-            )
         )

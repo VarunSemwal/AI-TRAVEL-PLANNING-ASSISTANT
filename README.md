@@ -140,5 +140,5 @@ provider date and rate in its result. Both failures are surfaced instead of gues
 - `What are the must-visit attractions in Singapore?`
 - `What is the weather in Singapore?`
 - `Convert INR 50000 to SGD`
-- `Plan a three-day Singapore itinerary next week and adjust it for rain.`
+- `I have a budget of INR 60,000. Convert it to SGD and suggest a three-day itinerary..`
 - Follow up with a preference such as `Make it suitable for a family with children.`

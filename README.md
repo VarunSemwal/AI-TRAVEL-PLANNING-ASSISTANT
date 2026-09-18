@@ -4,6 +4,9 @@ A context-aware travel planning assistant for Singapore. The application combine
 document-grounded destination knowledge with current weather and currency information
 retrieved through MCP tools.
 
+## GitHub Repo Url
+https://github.com/VarunSemwal/AI-TRAVEL-PLANNING-ASSISTANT
+
 ## Architecture
 
 - `data/sources/` contains three source-linked Singapore travel summaries and a manifest.
